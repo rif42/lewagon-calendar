@@ -1,0 +1,59 @@
+{
+  "handle": "potatoheadbali",
+  "posts": [
+    {
+      "handle": "potatoheadbali",
+      "shortcode": "POTATO_DEMO_1",
+      "post_id": "211",
+      "url": "https://www.instagram.com/p/POTATO_DEMO_1/",
+      "caption": "Culinary Assembly — Aug 27, 8pm at Tanaman: Archipelago Garden by Petty Elliott. Plant-based full-moon dinner. Link in bio to RSVP.",
+      "caption_hashtags": [],
+      "caption_mentions": [],
+      "taken_at": "2026-08-23T11:00:00+00:00",
+      "taken_at_local_wita": "2026-08-23T11:00:00+00:00",
+      "location_name": "Desa Potato Head",
+      "location_slug": "desa-potato-head",
+      "is_video": false,
+      "likes": 560,
+      "comments": 21,
+      "is_candidate": true,
+      "candidate_reasons": ["date_pattern", "time_pattern", "keyword"]
+    },
+    {
+      "handle": "potatoheadbali",
+      "shortcode": "POTATO_DEMO_2",
+      "post_id": "212",
+      "url": "https://www.instagram.com/p/POTATO_DEMO_2/",
+      "caption": "SAYA: Home Elsewhere — Aug 28 at Dome. Womenswear launch + talk. RSVP via link.",
+      "caption_hashtags": [],
+      "caption_mentions": [],
+      "taken_at": "2026-08-22T09:00:00+00:00",
+      "taken_at_local_wita": "2026-08-22T09:00:00+00:00",
+      "location_name": "Dome, Potato Head",
+      "location_slug": "dome-potato-head",
+      "is_video": false,
+      "likes": 430,
+      "comments": 12,
+      "is_candidate": true,
+      "candidate_reasons": ["date_pattern", "keyword"]
+    },
+    {
+      "handle": "potatoheadbali",
+      "shortcode": "POTATO_VIBE_3",
+      "post_id": "213",
+      "url": "https://www.instagram.com/p/POTATO_VIBE_3/",
+      "caption": "Pool day mood. No event mention.",
+      "caption_hashtags": [],
+      "caption_mentions": [],
+      "taken_at": "2026-08-19T07:00:00+00:00",
+      "taken_at_local_wita": "2026-08-19T07:00:00+00:00",
+      "location_name": "Desa Potato Head",
+      "location_slug": "desa-potato-head",
+      "is_video": false,
+      "likes": 1500,
+      "comments": 8,
+      "is_candidate": false,
+      "candidate_reasons": []
+    }
+  ]
+}
