@@ -5,6 +5,27 @@
 > `C:\life\Personal\Ideas\lewagon-calendar.md` (§1–§8). This README mirrors the
 > parts you need to build without re-reading the whole note.
 
+## 0. Disk state (AUDITED 2026-09-24 — read this first)
+
+`git ls-files` in `C:\code\lewagon-calendar` returns EXACTLY these 8 tracked files.
+Anything else named anywhere in this README is **[SPEC]** = design only, not on disk.
+
+| Path | State |
+|---|---|
+| `README.md` | ✅ ON DISK (modified, uncommitted — `M README.md`) |
+| `updater/seeds/notion_query.py` | ✅ ON DISK, committed |
+| `updater/seeds/ig_scrape.py` | ✅ ON DISK, committed |
+| `updater/seeds/ig_merge.py` | ✅ ON DISK, committed |
+| `updater/seeds/check_dedupe.py` | ✅ ON DISK, committed |
+| `updater/seeds/check_overview.py` | ✅ ON DISK, committed |
+| `updater/seeds/finnsbeachclub.json` | ✅ ON DISK, committed |
+| `updater/seeds/potatoheadbali.json` | ✅ ON DISK, committed |
+| `updater/sources/` | ⚠️ DIRECTORY EXISTS BUT EMPTY (git tracks no files under it) |
+| Everything else (`update.py`, `normalize.py`, `merge.py`, `emit_ics.py`, `requirements.txt`, all 19 `sources/*.py`, `site/`, `data/`, `events.schema.json`, `.github/workflows/`) | ❌ **[SPEC]** — spec §8.1 design only, zero code written |
+
+In the rest of this README: **[EXISTS]** = one of the 8 files above.
+**[SPEC]** = does not exist yet. If a path lacks a tag, treat it as **[SPEC]**.
+
 ## 1. What this is
 
 A static website showing **Bali events in a rolling 60-day window**
@@ -30,46 +51,49 @@ and GitHub Pages redeploys. Users import events into Google Calendar.
 | Site data | **Option 1, build-time bake:** Pages build copies `data/events.json` next to `index.html`; frontend does `fetch('./events.json')`. No backend, no runtime raw-URL fetch |
 | Updater lang | **Python** (`requests` + `beautifulsoup4`/`lxml`). No browser, no login, no JS in Actions |
 
-## 3. Repo layout (spec §8.1 — build toward this)
+## 3. Repo layout [SPEC] (spec §8.1 — build toward this; see §0 for what exists)
+
+> Only `README.md`, `updater/seeds/` (7 files, see §9), and empty
+> `updater/sources/` exist. Everything below marked `[TO BUILD]` = **[SPEC]**.
 
 ```text
 lewagon-event-calendar/
-├── .github/workflows/update.yml   # cron "0 2 */3 * *" + workflow_dispatch (tier override)
+├── .github/workflows/update.yml   # [TO BUILD] cron "0 2 */3 * *" + workflow_dispatch
 ├── updater/
-│   ├── requirements.txt           # requests, beautifulsoup4, lxml, pyyaml
-│   ├── update.py                  # orchestrator: fetch → normalize → merge → emit
-│   ├── sources/                   # ONE module per source, each exposes fetch() -> list[RawEvent]
-│   │   ├── notion_favolist.py     # Tier-1 (seed: updater/seeds/notion_query.py)
-│   │   ├── baligasm.py            # Tier-1: /events + /event/<slug> details
-│   │   ├── beat_bali.py           # Tier-1: cards + /events/<slug>/ details
-│   │   ├── savaya.py              # Tier-1: /event-calendar + /event-calendar/<date>
-│   │   ├── now_bali.py            # Tier-1: month pages + /upcoming-events/<slug>/
-│   │   ├── bali_squad.py          # Tier-1: list + /event/<slug-id>
-│   │   ├── bali_live.py           # Tier-1: list + /events/<slug>
-│   │   ├── eventbrite.py          # Tier-2: /events--this-week/, /free--events/
-│   │   ├── discotech.py           # Tier-2: list + /events/<id>-<slug>
-│   │   ├── meetup.py              # Tier-2: /find/id--<area>/ × Canggu/Ubud/Denpasar
-│   │   ├── bandsintown.py         # Tier-2: city page + /e/<id>-<slug>, parse selectively
-│   │   ├── whatsnew_indo.py       # Tier-2: hotel/F&B promos
-│   │   ├── atlas.py               # Tier-2: /beach-club/event + /event/<slug>
-│   │   ├── surf_calendar.py       # Tier-2: calendar.asiansurf.co + /event/<slug>
-│   │   ├── bali_com.py            # Tier-2 WEEKLIES ONLY (static-ish)
-│   │   ├── elkabron.py            # Tier-2 WEEKLIES ONLY (recurring series)
-│   │   ├── gov_coe.py             # Tier-3 watchlist, monthly
-│   │   └── tally.py               # Tier-1 poll (LATER; manual triage until API key exists)
-│   ├── normalize.py               # → canonical event (uid, UTC dates, area, category)
-│   ├── merge.py                   # JSON-state merge (see §7 — NOT markdown regexes)
-│   ├── emit_ics.py                # events.json + bali-events.ics from ONE merged list
-│   └── seeds/                     # verified starting points (this dir, see §9)
-├── site/index.html + assets/      # week default / month toggle / filters / A+B2 header / B1 per card
-├── data/                          # events.json, bali-events.ics, state.json, last_run.json (committed)
-└── events.schema.json
+│   ├── requirements.txt           # [TO BUILD] requests, beautifulsoup4, lxml, pyyaml
+│   ├── update.py                  # [TO BUILD] orchestrator: fetch → normalize → merge → emit
+│   ├── sources/                   # [EXISTS, EMPTY] one module per source goes here
+│   │   ├── notion_favolist.py     # [TO BUILD] Tier-1 (seed: updater/seeds/notion_query.py [EXISTS])
+│   │   ├── baligasm.py            # [TO BUILD] Tier-1: /events + /event/<slug> details
+│   │   ├── beat_bali.py           # [TO BUILD] Tier-1: cards + /events/<slug>/ details
+│   │   ├── savaya.py              # [TO BUILD] Tier-1: /event-calendar + /event-calendar/<date>
+│   │   ├── now_bali.py            # [TO BUILD] Tier-1: month pages + /upcoming-events/<slug>/
+│   │   ├── bali_squad.py          # [TO BUILD] Tier-1: list + /event/<slug-id>
+│   │   ├── bali_live.py           # [TO BUILD] Tier-1: list + /events/<slug>
+│   │   ├── eventbrite.py          # [TO BUILD] Tier-2: /events--this-week/, /free--events/
+│   │   ├── discotech.py           # [TO BUILD] Tier-2: list + /events/<id>-<slug>
+│   │   ├── meetup.py              # [TO BUILD] Tier-2: /find/id--<area>/ × Canggu/Ubud/Denpasar
+│   │   ├── bandsintown.py         # [TO BUILD] Tier-2: city page + /e/<id>-<slug>, parse selectively
+│   │   ├── whatsnew_indo.py       # [TO BUILD] Tier-2: hotel/F&B promos
+│   │   ├── atlas.py               # [TO BUILD] Tier-2: /beach-club/event + /event/<slug>
+│   │   ├── surf_calendar.py       # [TO BUILD] Tier-2: calendar.asiansurf.co + /event/<slug>
+│   │   ├── bali_com.py            # [TO BUILD] Tier-2 WEEKLIES ONLY (static-ish)
+│   │   ├── elkabron.py            # [TO BUILD] Tier-2 WEEKLIES ONLY (recurring series)
+│   │   ├── gov_coe.py             # [TO BUILD] Tier-3 watchlist, monthly
+│   │   └── tally.py               # [TO BUILD] Tier-1 poll (LATER; manual triage until API key exists)
+│   ├── normalize.py               # [TO BUILD] → canonical event (uid, UTC dates, area, category)
+│   ├── merge.py                   # [TO BUILD] JSON-state merge (see §7 — NOT markdown regexes)
+│   ├── emit_ics.py                # [TO BUILD] events.json + bali-events.ics from ONE merged list
+│   └── seeds/                     # [EXISTS] verified starting points (see §9)
+├── site/index.html + assets/      # [TO BUILD] week default / month toggle / filters / A+B2 header / B1 per card
+├── data/                          # [TO BUILD] events.json, bali-events.ics, state.json, last_run.json (committed)
+└── events.schema.json             # [TO BUILD]
 ```
 
 **Tier cadence:** Tier-1 every run · Tier-2 when day-of-month even · Tier-3 on day 1.
 `workflow_dispatch` input `tier` overrides (`1`, `1+2`, `all`, `auto`).
 
-## 4. Data flow (§8.6 — the core guarantee)
+## 4. Data flow [SPEC] (§8.6 — the core guarantee; no code written yet)
 
 ```text
 sources/*.py → normalize → merge (state.json) → data/events.json ─┐
@@ -88,7 +112,7 @@ commit (ALWAYS, even on failure) → Pages rebuild → fresh site
 - **Dead-man signal:** `last_run.json.ran_at` older than `REFRESH_DAYS + 2` →
   badge red + Actions email.
 
-## 5. Google Calendar import (A + B1 + B2 — exact semantics)
+## 5. Google Calendar import [SPEC] (A + B1 + B2 — exact semantics, no code yet)
 
 - **Button A — "Subscribe (auto-updates, ~1 day delay)"** — feed header only.
   User: GCal → Other calendars (+) → From URL → paste `bali-events.ics` URL.
@@ -109,7 +133,7 @@ commit (ALWAYS, even on failure) → Pages rebuild → fresh site
 - UI copy: A = "auto-updates, up to ~24h delay" · B1 = "instant, won't update if
   the event changes" · B2 = "one-time copy of the next 60 days, won't update".
 
-## 6. Sources — verified matrix (all live-tested 2026-09-23, headless crawl4ai)
+## 6. Sources — verified matrix [RESEARCH, no parser code yet] (all live-tested 2026-09-23)
 
 ### Tier-1 (every run)
 
@@ -155,7 +179,7 @@ Nightly parties → Beat first, Discotech second · Community/nomad → Squad fi
 Meetup second · Grassroots → Eventbrite · Dining/culture → NOW! Bali · Official
 culture/sport → Govt watchlist.
 
-## 7. Per-source contract (spec §8.3 — every `sources/*.py` MUST follow)
+## 7. Per-source contract [SPEC] (spec §8.3 — applies when writing `sources/*.py`)
 
 - Expose `fetch() -> list[RawEvent]`; **never throw past the orchestrator.**
 - Own try/except, own 20 s timeout, own User-Agent, 1–2 s politeness sleep.
@@ -166,7 +190,7 @@ culture/sport → Govt watchlist.
 - `requests` + `bs4`/`lxml` only. No browser, no login, no JS.
 - New source ≈ 50 lines following this contract + one row in the §6 table.
 
-## 8. Canonical event + normalize rules (spec §8.4)
+## 8. Canonical event + normalize rules [SPEC] (spec §8.4 — `normalize.py` not written)
 
 - Fields: `uid`, `name`, `location`, `description`, `start_utc`, `finish_utc`,
   `area`, `category`, `cost`, `free` (bool), `source_url`, `source` (module name),
@@ -183,7 +207,7 @@ culture/sport → Govt watchlist.
 - Hygiene: link back to source; no scraped poster art without rights; no ticket
   resell claims; every event shows "verify with organizer".
 
-## 9. Seeds in this directory (what's here and why)
+## 9. Seeds in this directory [EXISTS] (the only code on disk — audited §0)
 
 | File | Status | Notes for agents |
 |---|---|---|
@@ -209,7 +233,7 @@ culture/sport → Govt watchlist.
   password + Cloudflare R2 keys in its working tree (gitignored but present).
   **Rotate before any public push. Never copy secrets into this repo.**
 
-## 11. Build order (spec §7)
+## 11. Build order [SPEC] (spec §7 — nothing below is on disk except seeds)
 
 1. `events.schema.json` → 2. `update.py` + `normalize.py` + `merge.py` +
    `emit_ics.py` → 3. Tier-1 sources (notion, baligasm, beat, savaya, now,
