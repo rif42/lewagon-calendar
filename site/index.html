@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bali Events — Dummy Calendar</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.21/index.global.min.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <img class="brand-logo" src="./assets/lewagon-ori.png" alt="Le Wagon" height="40">
+    <h1>Bali Events (dummy preview)</h1>
+    <p class="subtitle">Static preview with dummy data. All times in Bali time (UTC+8).</p>
+    <div class="subscribe-row">
+      <a class="btn" id="subscribe-google" href="#">Subscribe (Google Calendar)</a>
+      <a class="btn" id="download-ics" href="./bali-events.dummy.ics" download="bali-events-dummy.ics">Download snapshot (.ics)</a>
+    </div>
+    <p class="delay-note">Note: subscribed calendars can take up to 24 hours to show new events (calendar-app refresh delay).</p>
+  </header>
+
+  <main>
+    <section class="filter-bar" aria-label="Event filters">
+      <label>Area:
+        <select id="filter-area">
+          <option value="">All areas</option>
+          <option value="Canggu">Canggu</option>
+          <option value="Seminyak">Seminyak</option>
+          <option value="Uluwatu">Uluwatu</option>
+          <option value="Ubud">Ubud</option>
+          <option value="Denpasar">Denpasar</option>
+          <option value="Tabanan">Tabanan</option>
+          <option value="Other">Other</option>
+        </select>
+      </label>
+      <label>Category:
+        <select id="filter-category">
+          <option value="">All categories</option>
+          <option value="Music">Music</option>
+          <option value="Surf">Surf</option>
+          <option value="Wellness">Wellness</option>
+          <option value="Food &amp; Drink">Food &amp; Drink</option>
+          <option value="Coworking &amp; Tech">Coworking &amp; Tech</option>
+          <option value="Arts &amp; Culture">Arts &amp; Culture</option>
+          <option value="Nightlife">Nightlife</option>
+          <option value="Other">Other</option>
+        </select>
+      </label>
+      <label>Cost:
+        <select id="filter-cost">
+          <option value="">All events</option>
+          <option value="free">Free only</option>
+          <option value="paid">Paid only</option>
+        </select>
+      </label>
+      <ul class="legend" aria-label="Category colors">
+        <li><span class="swatch" style="background:#670bff"></span>Music</li>
+        <li><span class="swatch" style="background:#0077b6"></span>Surf</li>
+        <li><span class="swatch" style="background:#1f8a44"></span>Wellness</li>
+        <li><span class="swatch" style="background:#ea580c"></span>Food &amp; Drink</li>
+        <li><span class="swatch" style="background:#0891b2"></span>Coworking &amp; Tech</li>
+        <li><span class="swatch" style="background:#db2777"></span>Arts &amp; Culture</li>
+        <li><span class="swatch" style="background:#371373"></span>Nightlife</li>
+        <li><span class="swatch" style="background:#6b7280"></span>Other</li>
+      </ul>
+    </section>
+
+    <div id="calendar"></div>
+    <p id="load-error" class="error" hidden></p>
+  </main>
+
+  <dialog id="event-dialog" aria-labelledby="event-title">
+    <h2 id="event-title"></h2>
+    <p id="event-time" class="muted"></p>
+    <dl class="event-fields">
+      <div><dt>Location</dt><dd id="event-location"></dd></div>
+      <div><dt>Area</dt><dd id="event-area"></dd></div>
+      <div><dt>Category</dt><dd id="event-category"></dd></div>
+      <div><dt>Cost</dt><dd id="event-cost"></dd></div>
+    </dl>
+    <p id="event-description"></p>
+    <p class="event-links">
+      <a id="event-source" href="#" target="_blank" rel="noopener">Event source</a>
+      <span aria-hidden="true"> · </span>
+      <a id="event-gcal" href="https://calendar.google.com/calendar/render?action=TEMPLATE" target="_blank" rel="noopener">Add to Google Calendar</a>
+    </p>
+    <p class="verify">Please verify details with the organizer before attending.</p>
+    <form method="dialog">
+      <button class="btn" value="close">Close</button>
+    </form>
+  </dialog>
+
+  <script>
+  (function () {
+    "use strict";
+    try {
+      var feedAbs = new URL("./bali-events.dummy.ics", window.location.href).href;
+      var gsub = document.getElementById("subscribe-google");
+      if (gsub) gsub.href = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(feedAbs);
+    } catch (err) {}
+  })();
+  </script>
+  <script src="./app.js"></script>
+</body>
+</html>

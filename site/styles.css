@@ -1,0 +1,203 @@
+@font-face {
+  font-family: "Inter";
+  src: url("./assets/fonts/Inter-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("./assets/fonts/Inter-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "CircularStd";
+  src: url("./assets/fonts/CircularStd-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "CircularStd";
+  src: url("./assets/fonts/CircularStd-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Le Wagon brand tokens (Brand Guidelines Feb 2024 + DESIGN.md) */
+:root {
+  --ink: #1b1717;
+  --muted: #555;
+  --bg: #fff;
+  --card: #fcf3ee; /* Cream */
+  --card-alt: #f5f2fb; /* Purple 05 */
+  --line: #e5ddd6;
+  --tonic: #670bff; /* primary buttons, event blocks */
+  --tonic-dark: #5211bc;
+  --blue-purple: #4d04c4; /* text labels on light only, never backgrounds */
+  --pill-text: #ff9d0b; /* Orange Peel — pill labels only */
+  --pill-bg: #ffecd0;
+  --radius-card: 24px;
+  --radius-btn: 8px;
+  --shadow-card: 0 4px 28px 0 rgb(0 0 0 / 0.05);
+}
+body {
+  margin: 0 auto;
+  max-width: 72rem;
+  padding: 1rem;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.site-header h1 {
+  margin-bottom: 0.25rem;
+  font-family: "CircularStd", "Inter", system-ui, sans-serif;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0;
+}
+.brand-logo {
+  height: 40px;
+  width: auto;
+  margin-bottom: 0.5rem; /* clear space ≈ symbol height */
+}
+.subtitle { color: var(--muted); margin-top: 0; }
+.delay-note { color: var(--muted); font-size: 0.875rem; }
+
+.subscribe-row { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; }
+.btn {
+  display: inline-block;
+  padding: 0.4rem 0.9rem;
+  border: 1px solid var(--tonic);
+  border-radius: var(--radius-btn);
+  color: #fff;
+  text-decoration: none;
+  background: var(--tonic);
+  cursor: pointer;
+  font-family: "Inter", system-ui, sans-serif;
+  font-weight: 700;
+}
+.btn:hover { background: var(--tonic-dark); border-color: var(--tonic-dark); }
+.btn-secondary {
+  background: #fff;
+  color: var(--tonic);
+}
+.btn-secondary:hover { background: var(--card-alt); }
+
+.filter-bar {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: end;
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  background: var(--card);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-card);
+}
+.filter-bar label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.filter-bar select { font: inherit; font-weight: 400; text-transform: none; padding: 0.3rem 0.5rem; min-width: 10rem; }
+
+#calendar { margin-top: 1rem; }
+
+/* FullCalendar brand overrides: single Tonic fill, no rainbow */
+.fc-event, .fc-daygrid-event, .fc-timegrid-event {
+  background: var(--tonic);
+  border-color: var(--tonic-dark);
+  border-radius: var(--radius-btn);
+}
+.fc-event, .fc-event *, .fc-daygrid-event, .fc-list-event-title, .fc-list-event-time {
+  color: #fff;
+}
+.fc-event:hover { background: var(--tonic-dark); }
+.fc-button-primary {
+  background: var(--tonic) !important;
+  border-color: var(--tonic) !important;
+  font-weight: 700 !important;
+}
+.fc-button-primary:hover { background: var(--tonic-dark) !important; }
+.fc-button-primary:not(.fc-button-active) {
+  background: #fff !important;
+  color: var(--tonic) !important;
+}
+/* Category fills — user-approved exception: distinct hues per category */
+.fc-event.cat-music { background: #670bff; border-color: #5211bc; }
+.fc-event.cat-nightlife { background: #371373; border-color: #371373; }
+.fc-event.cat-surf { background: #0077b6; border-color: #005f8f; }
+.fc-event.cat-wellness { background: #1f8a44; border-color: #166b34; }
+.fc-event.cat-food-drink { background: #ea580c; border-color: #c2410c; }
+.fc-event.cat-coworking-tech { background: #0891b2; border-color: #0e7490; }
+.fc-event.cat-arts-culture { background: #db2777; border-color: #be185d; }
+.fc-event.cat-other { background: #6b7280; border-color: #4b5563; }
+.fc-timegrid-event .fc-event-time { display: none; }
+.legend { display: flex; gap: 0.75rem; flex-wrap: wrap; margin: 0.5rem 0 0; padding: 0; list-style: none; font-size: 0.8125rem; }
+.legend li { display: flex; align-items: center; gap: 0.375rem; }
+.legend .swatch { width: 0.875rem; height: 0.875rem; border-radius: 0.25rem; display: inline-block; }
+
+.error { color: #b00020; }
+
+.muted { color: var(--muted); }
+
+#event-dialog {
+  max-width: 28rem;
+  width: calc(100vw - 3rem);
+  border: none;
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-card);
+  padding: 1.25rem;
+  color: var(--ink);
+  background: #fff;
+}
+#event-dialog h2 {
+  margin-top: 0;
+  font-family: "CircularStd", "Inter", system-ui, sans-serif;
+  font-weight: 700;
+  line-height: 1.1;
+}
+#event-dialog::backdrop { background: rgb(0 0 0 / 0.4); }
+
+.event-fields { display: grid; gap: 0.5rem; margin: 1rem 0; padding: 0; }
+.event-fields > div {
+  background: var(--card-alt);
+  border-radius: var(--radius-btn);
+  padding: 0.5rem 0.75rem;
+}
+.event-fields dt {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--blue-purple);
+}
+.event-fields dd { margin: 0; }
+
+/* Pill accent labels (Orange Peel — website pills only) */
+.pill {
+  display: inline-block;
+  padding: 0.15rem 0.6rem;
+  border-radius: var(--radius-btn);
+  background: var(--pill-bg);
+  color: var(--ink);
+  font-weight: 700;
+  font-size: 0.875rem;
+}
+.pill b { color: var(--pill-text); }
+
+.verify { font-size: 0.875rem; color: var(--muted); }
+
+@media (max-width: 40rem) {
+  .filter-bar { flex-direction: column; align-items: stretch; }
+  .filter-bar select { width: 100%; }
+}

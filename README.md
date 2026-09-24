@@ -35,9 +35,10 @@ In the rest of this README: **[EXISTS]** = one of the 8 files above.
 | HTML parsing | `beautifulsoup4` + `lxml` | `lxml` parser for speed on 50–60 KB pages (Bandsintown, Eventbrite) |
 | YAML/state | `pyyaml` | `state.json`/`last_run.json` are JSON; YAML only if config files appear later |
 | Date handling | stdlib `datetime` + `zoneinfo` (`Asia/Makassar`) | No `dateutil` unless parsing gets hairy — WITA has no DST, offsets are fixed |
-| ICS emit | Hand-rolled (stdlib only) | Feed is simple flat VEVENTs; `icalendar` lib = unnecessary dep. Validate output against RFC 5545 rules in §5 |
+| ICS emit | `icalendar` package | RFC 5545 VEVENTs via lib (stable UIDs, SEQUENCE, UTC `Z`); validate output against rules in §5 |
 | Actions runner | `ubuntu-latest`, 30 min timeout | `pip install -r updater/requirements.txt` per run (no browser, no Playwright) |
 | Site | **Static HTML + vanilla JS** (no framework) | `fetch('./events.json')` → render week/month; FullCalendar optional — digitalbrain used FullCalendar 6.1.15 via CDN successfully, same pattern allowed |
+| Site exception (user-approved) | Calendar event blocks use 8 distinct per-category hues (white text) | Off-brand by necessity — brand palette has ~4 distinguishable fills; legend in filter bar maps color→category |
 | Hosting | **GitHub Pages** (deploy on push) | Data commits trigger rebuild; `events.json` baked next to `index.html` |
 | Secrets | Actions secrets only (`TALLY_API_KEY` later) | Notion favolist needs NO auth. Never commit secrets; never put tokens in client JS |
 | Lint/test | `python -m py_compile` (smoke) + parser asserts (§7) | No test framework mandated for MVP; each source self-validates ("≥1 dated link") |
@@ -81,7 +82,7 @@ and GitHub Pages redeploys. Users import events into Google Calendar.
 lewagon-event-calendar/
 ├── .github/workflows/update.yml   # [TO BUILD] cron "0 2 */3 * *" + workflow_dispatch
 ├── updater/
-│   ├── requirements.txt           # [TO BUILD] requests, beautifulsoup4, lxml, pyyaml
+│   ├── requirements.txt           # [TO BUILD] requests, beautifulsoup4, lxml, pyyaml, icalendar
 │   ├── update.py                  # [TO BUILD] orchestrator: fetch → normalize → merge → emit
 │   ├── sources/                   # [EXISTS, EMPTY] one module per source goes here
 │   │   ├── notion_favolist.py     # [TO BUILD] Tier-1 (seed: updater/seeds/notion_query.py [EXISTS])
