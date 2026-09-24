@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  var DATA_URL = "./events.dummy.json"; // future swap: "./events.json"
+  var DATA_URL = "./events.json"; // baked next to index.html by deploy.yml
   var allEvents = [];
   var calendar = null;
 

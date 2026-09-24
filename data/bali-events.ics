@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//lewagon-calendar//bali-events dummy//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lewagon Bali Events (dummy)
+BEGIN:VEVENT
+UID:a1b2c3d4e5f60718293a4b5c6d7e8f9012345678@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261012T100000Z
+DTEND:20261012T140000Z
+SUMMARY:Finns Beach Club Sunset Sessions
+LOCATION:Finns Beach Club\, Canggu
+DESCRIPTION:Open-air DJ set and sunset dance session overlooking Berawa Bea
+ ch. Verify with organizer.\n\nSource: https://example.com/events/finns-sun
+ set-sessions\nPlease verify with the organizer before attending.
+URL:https://example.com/events/finns-sunset-sessions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b2c3d4e5f60718293a4b5c6d7e8f901234567890@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261013T110000Z
+DTEND:20261013T133000Z
+SUMMARY:Dojo Bali Startup Pitch Night
+LOCATION:Dojo Bali\, Canggu
+DESCRIPTION:Weekly coworking pitch night: five local startups\, open networ
+ king after. Verify with organizer.\n\nSource: https://example.com/events/d
+ ojo-pitch-night\nPlease verify with the organizer before attending.
+URL:https://example.com/events/dojo-pitch-night
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c3d4e5f60718293a4b5c6d7e8f90123456789012@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261012T110000Z
+DTEND:20261012T140000Z
+SUMMARY:Potato Head Sunset Dinner & Tasting Menu
+LOCATION:Potato Head Beach Club\, Seminyak
+DESCRIPTION:Five-course Indonesian tasting menu with live acoustic set. Ver
+ ify with organizer.\n\nSource: https://example.com/events/potato-head-tast
+ ing\nPlease verify with the organizer before attending.
+URL:https://example.com/events/potato-head-tasting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d4e5f60718293a4b5c6d7e8f9012345678901234@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261013T150000Z
+DTEND:20261013T190000Z
+SUMMARY:La Favela Late Night Fiesta
+LOCATION:La Favela\, Seminyak
+DESCRIPTION:Timed evening party: Latin beats\, costume dancers\, doors at 1
+ 1pm WITA. Verify with organizer.\n\nSource: https://example.com/events/la-
+ favela-fiesta\nPlease verify with the organizer before attending.
+URL:https://example.com/events/la-favela-fiesta
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e5f60718293a4b5c6d7e8f901234567890123456@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261014T110000Z
+DTEND:20261014T160000Z
+SUMMARY:Savaya Uluwatu Cliffside DJ Night
+LOCATION:Savaya\, Uluwatu
+DESCRIPTION:International headliner on the clifftop stage above the ocean. 
+ Verify with organizer.\n\nSource: https://example.com/events/savaya-dj-nig
+ ht\nPlease verify with the organizer before attending.
+URL:https://example.com/events/savaya-dj-night
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f60718293a4b5c6d7e8f90123456789012345678@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261015T000000Z
+DTEND:20261015T050000Z
+SUMMARY:Padang Padang Surf Cup Heats
+LOCATION:Padang Padang Beach\, Uluwatu
+DESCRIPTION:Morning competition heats with local and visiting surfers\; spe
+ ctators welcome. Verify with organizer.\n\nSource: https://example.com/eve
+ nts/padang-surf-cup\nPlease verify with the organizer before attending.
+URL:https://example.com/events/padang-surf-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0718293a4b5c6d7e8f9012345678901234567890@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261013T010000Z
+DTEND:20261013T023000Z
+SUMMARY:Morning Breathwork at Ubud Yoga Barn
+LOCATION:Ubud Yoga Barn\, Ubud
+DESCRIPTION:Guided breathwork and gentle flow\, all levels welcome\, mats p
+ rovided. Verify with organizer.\n\nSource: https://example.com/events/yoga
+ -barn-breathwork\nPlease verify with the organizer before attending.
+URL:https://example.com/events/yoga-barn-breathwork
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:18293a4b5c6d7e8f9012345678901234567890ab@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261015T113000Z
+DTEND:20261015T133000Z
+SUMMARY:Balinese Legong Dance Evening
+LOCATION:ARMA Museum\, Ubud
+DESCRIPTION:Traditional Legong and Barong dance performance with gamelan or
+ chestra. Verify with organizer.\n\nSource: https://example.com/events/arma
+ -legong-dance\nPlease verify with the organizer before attending.
+URL:https://example.com/events/arma-legong-dance
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:293a4b5c6d7e8f9012345678901234567890abcd@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261014T090000Z
+DTEND:20261014T110000Z
+SUMMARY:Denpasar Tech Talk & Coworking Mixer
+LOCATION:Kumpul Coworking\, Denpasar
+DESCRIPTION:Lightning talks on remote work plus open coworking mixer. Verif
+ y with organizer.\n\nSource: https://example.com/events/denpasar-tech-mixe
+ r\nPlease verify with the organizer before attending.
+URL:https://example.com/events/denpasar-tech-mixer
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4b5c6d7e8f9012345678901234567890abcdef@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261016T100000Z
+DTEND:20261016T130000Z
+SUMMARY:Denpasar Night Market Food Tour
+LOCATION:Pasar Kreneng Night Market\, Denpasar
+DESCRIPTION:Guided street-food walk: babi guling\, sate lilit\, and local d
+ esserts. Verify with organizer.\n\nSource: https://example.com/events/kren
+ eng-food-tour\nPlease verify with the organizer before attending.
+URL:https://example.com/events/kreneng-food-tour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4b5c6d7e8f9012345678901234567890abcdef01@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261016T220000Z
+DTEND:20261016T233000Z
+SUMMARY:Tanah Lot Sunrise Yoga Flow
+LOCATION:Tanah Lot Temple Park\, Tabanan
+DESCRIPTION:Sunrise vinyasa session near the temple gardens\, breakfast inc
+ luded. Verify with organizer.\n\nSource: https://example.com/events/tanah-
+ lot-yoga\nPlease verify with the organizer before attending.
+URL:https://example.com/events/tanah-lot-yoga
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5c6d7e8f9012345678901234567890abcdef0123@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Jatiluwih Rice Terrace Harvest Festival
+LOCATION:Jatiluwih Rice Terraces\, Tabanan
+DESCRIPTION:All-day harvest celebration: folk music\, rice pounding demos\,
+  and local stalls. Verify with organizer.\n\nSource: https://example.com/e
+ vents/jatiluwih-harvest-festival\nPlease verify with the organizer before 
+ attending.
+URL:https://example.com/events/jatiluwih-harvest-festival
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6d7e8f9012345678901234567890abcdef012345@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261017T120000Z
+DTEND:20261017T160000Z
+SUMMARY:Secret Pop-Up Party (venue TBA)
+LOCATION:Somewhere in Bali (venue to be announced)
+DESCRIPTION:Vague listing: promoter promises a venue drop on the day. Detai
+ ls unconfirmed. Verify with organizer.\n\nSource: https://example.com/even
+ ts/secret-popup-party\nPlease verify with the organizer before attending.
+URL:https://example.com/events/secret-popup-party
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e8f9012345678901234567890abcdef01234567@lewagon-calendar
+DTSTAMP:20261001T000000Z
+SEQUENCE:0
+DTSTART:20261016T020000Z
+DTEND:20261018T120000Z
+SUMMARY:Bali Island Jazz & Food Fair
+LOCATION:Nusa Dua Festival Grounds (touring stop)
+DESCRIPTION:Multi-day open-air fair: jazz line-ups\, surf films\, and food 
+ stalls across three days. Verify with organizer.\n\nSource: https://exampl
+ e.com/events/island-jazz-food-fair\nPlease verify with the organizer befor
+ e attending.
+URL:https://example.com/events/island-jazz-food-fair
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

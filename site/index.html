@@ -14,7 +14,7 @@
     <p class="subtitle">Static preview with dummy data. All times in Bali time (UTC+8).</p>
     <div class="subscribe-row">
       <a class="btn" id="subscribe-google" href="#">Subscribe (Google Calendar)</a>
-      <a class="btn" id="download-ics" href="./bali-events.dummy.ics" download="bali-events-dummy.ics">Download snapshot (.ics)</a>
+      <a class="btn" id="download-ics" href="./bali-events.ics" download="bali-events.ics">Download snapshot (.ics)</a>
     </div>
     <p class="delay-note">Note: subscribed calendars can take up to 24 hours to show new events (calendar-app refresh delay).</p>
   </header>
@@ -96,7 +96,7 @@
   (function () {
     "use strict";
     try {
-      var feedAbs = new URL("./bali-events.dummy.ics", window.location.href).href;
+      var feedAbs = new URL("./bali-events.ics", window.location.href).href;
       var gsub = document.getElementById("subscribe-google");
       if (gsub) gsub.href = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(feedAbs);
     } catch (err) {}
