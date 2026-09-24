@@ -1,0 +1,17 @@
+{
+  "ran_at": "2026-09-24T07:54:16.801539Z",
+  "event_count": 17,
+  "sources": {
+    "baligasm": {
+      "status": "ok",
+      "count": 26,
+      "normalized": 24,
+      "normalize_errors": 2
+    },
+    "notion_favolist": {
+      "status": "ok",
+      "count": 59,
+      "normalized": 59
+    }
+  }
+}

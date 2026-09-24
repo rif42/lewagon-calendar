@@ -1,205 +1,381 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//lewagon-calendar//bali-events dummy//EN
+PRODID:-//lewagon-event-calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Lewagon Bali Events (dummy)
+X-WR-CALNAME:lewagon-event-calendar
 BEGIN:VEVENT
-UID:a1b2c3d4e5f60718293a4b5c6d7e8f9012345678@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:f6dfc35d148707fb15e1108967144d88750354e6@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261012T100000Z
-DTEND:20261012T140000Z
-SUMMARY:Finns Beach Club Sunset Sessions
-LOCATION:Finns Beach Club\, Canggu
-DESCRIPTION:Open-air DJ set and sunset dance session overlooking Berawa Bea
- ch. Verify with organizer.\n\nSource: https://example.com/events/finns-sun
- set-sessions\nPlease verify with the organizer before attending.
-URL:https://example.com/events/finns-sunset-sessions
+SUMMARY:THE MARTINEZ BROTHERS
+LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
+DESCRIPTION:Zumana Beach Club Presents Grand Opening Weekend - The Martinez
+ Brothers on Fri\, 25 September 2026 For event information\, ticketing det
+ails\, venue policies\, and frequently asked questions\, please visit the 
+FAQ section on our website. Reservations WA: +62 811 3011 0111 reservation
+s@zumanabali.com Location Sunset Bay Kuta https://share.google/TXwVSnqw2SA
+aKWuEd Door Policy - Capacity is strictly limited to table reservations & 
+ticket holders only. - This event is strictly 21+ & a valid ID will be req
+uired for entry. Management reserves the right to refuse entry for any rea
+son. Tickets: https://megatix.co.id/events/the-martinez-brothers-2509\n\nM
+ore info: https://baligasm.com/event/zumana-bali-the-martinez-brothers-202
+6\n\nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/zumana-bali-the-martinez-brothers-2026
 STATUS:CONFIRMED
+DTSTART:20260925T040000Z
+DTEND:20260925T050000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:b2c3d4e5f60718293a4b5c6d7e8f901234567890@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:8c3a3096846c88fecf6b3f1a22781401a57420d9@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261013T110000Z
-DTEND:20261013T133000Z
-SUMMARY:Dojo Bali Startup Pitch Night
-LOCATION:Dojo Bali\, Canggu
-DESCRIPTION:Weekly coworking pitch night: five local startups\, open networ
- king after. Verify with organizer.\n\nSource: https://example.com/events/d
- ojo-pitch-night\nPlease verify with the organizer before attending.
-URL:https://example.com/events/dojo-pitch-night
+SUMMARY:POTATO HEAD PRESENTS DEKMANTEL
+LOCATION:Potato Head Beach Club\, Petitenget St No.51B\, Seminyak
+DESCRIPTION:This September\, Amsterdam's beloved Dekmantel reunites with Po
+tato Head for another sunkissed celebration of electronic dance music\, co
+mmunity and life by the beach during Bali's perfect month. Respected globa
+lly as a stronghold of full-spectrum techno\, house\, and leftfield electr
+onica\, Dekmantel has spent more than a decade cultivating one of the worl
+d's most adventurous festival communities. On Saturday\, 26 September\, th
+at restless spirit touches down in Bali with an immaculately curated progr
+amme of DJs and live acts from across Europe\, the US\, Japan and Indonesi
+a sharing sounds from sundown until late. This year's lineup features Aval
+on Emerson (US)\, Dekmantel Soundsystem (NL)\, Fafi Abdel Nour (NL)\, Ogaz
+ón (DE)\, Soichi Terada LIVE (JP)\, Danny Satria LIVE\, alongside Archie\
+, Bagvs\, Dita\, Kaazi (AU)\, Kiwed\, and Sattle. Beyond the dancefloor\, 
+Dekmantel Bali offers an immersive cultural experience. Throughout the day
+ and night\, attendees can dig deeper by attending a listening session\, l
+ive Q&As\, and a Desa Dialogue for a free-flowing exchange of ideas\, cult
+ure\, and creativity. As the sun sets over the Indian Ocean\, expect world
+-class music\, connection\, and an atmosphere born from Dekmantel and Pota
+to Head's shared values. From the afternoon until late\, we reunite to mak
+e more precious memories on Bali's shoreline. Tickets: https://seminyak.po
+tatohead.co/experience/potato-head-presents-dekmantel-2026?utm_source=theb
+aliguideline&utm_medium=referral&utm_campaign=dekmantel-september-2026&utm
+_term=bali-event&utm_content=experience-referral-september-2026\n\nMore in
+fo: https://baligasm.com/event/potato-head-dekmantel-sep-2026\n\nPlease ve
+rify with the organizer before attending.
+URL:https://baligasm.com/event/potato-head-dekmantel-sep-2026
 STATUS:CONFIRMED
+DTSTART:20260925T220000Z
+DTEND:20260925T230000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:c3d4e5f60718293a4b5c6d7e8f90123456789012@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:57369bcecc530a4f066bdf1383e6c9392aac6c34@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261012T110000Z
-DTEND:20261012T140000Z
-SUMMARY:Potato Head Sunset Dinner & Tasting Menu
-LOCATION:Potato Head Beach Club\, Seminyak
-DESCRIPTION:Five-course Indonesian tasting menu with live acoustic set. Ver
- ify with organizer.\n\nSource: https://example.com/events/potato-head-tast
- ing\nPlease verify with the organizer before attending.
-URL:https://example.com/events/potato-head-tasting
+SUMMARY:SATORI (LIVE)
+LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
+DESCRIPTION:Zumana Beach Club Presents Grand Opening Weekend - Satori (Live
+) on Sat\, 26 September 2026 For event information\, ticketing details\, v
+enue policies\, and frequently asked questions\, please visit the FAQ sect
+ion on our website. Reservations WA: +62 811 3011 0111 reservations@zumana
+bali.com Location Sunset Bay Kuta https://share.google/TXwVSnqw2SAaKWuEd D
+oor Policy - Capacity is strictly limited to table reservations & ticket h
+olders only. - This event is strictly 21+ & a valid ID will be required fo
+r entry. Management reserves the right to refuse entry for any reason. Tic
+kets: https://megatix.co.id/events/satori-2609\n\nMore info: https://balig
+asm.com/event/zumana-bali-satori-2026\n\nPlease verify with the organizer 
+before attending.
+URL:https://baligasm.com/event/zumana-bali-satori-2026
 STATUS:CONFIRMED
+DTSTART:20260926T040000Z
+DTEND:20260926T050000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:d4e5f60718293a4b5c6d7e8f9012345678901234@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:5761c5d492dd7f39f54bf22c0e022705e5be8bb0@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261013T150000Z
-DTEND:20261013T190000Z
-SUMMARY:La Favela Late Night Fiesta
-LOCATION:La Favela\, Seminyak
-DESCRIPTION:Timed evening party: Latin beats\, costume dancers\, doors at 1
- 1pm WITA. Verify with organizer.\n\nSource: https://example.com/events/la-
- favela-fiesta\nPlease verify with the organizer before attending.
-URL:https://example.com/events/la-favela-fiesta
+SUMMARY:THE MARTINEZ BROTHERS
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents THE MARTINEZ BROTHERS - 27-Sep Reservation
+s WA: +62 811-3099-0900 reservations@savayabali.com Location https://goo.g
+l/maps/Hi7bZCuZbQLXg79w9 Door Policy - Capacity is strictly limited to tab
+le reservations & ticket holders only. - Full health & safety protocols wi
+ll be executed. - This event is strictly 21+ & a valid ID will be required
+ for entry. Management reserves the right to refuse entry for any reason. 
+Tickets: https://www.savaya.com/event-calendar/september-27-2026?utm_sourc
+e=thebaliguideline\n\nMore info: https://baligasm.com/event/savaya-bali-th
+e-martinez-brothers-sep-2026\n\nPlease verify with the organizer before at
+tending.
+URL:https://baligasm.com/event/savaya-bali-the-martinez-brothers-sep-2026
 STATUS:CONFIRMED
+DTSTART:20260926T210000Z
+DTEND:20260926T220000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e5f60718293a4b5c6d7e8f901234567890123456@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:29aaf098af5af9e5d286b2173399138e3cfb7e3c@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261014T110000Z
-DTEND:20261014T160000Z
-SUMMARY:Savaya Uluwatu Cliffside DJ Night
-LOCATION:Savaya\, Uluwatu
-DESCRIPTION:International headliner on the clifftop stage above the ocean. 
- Verify with organizer.\n\nSource: https://example.com/events/savaya-dj-nig
- ht\nPlease verify with the organizer before attending.
-URL:https://example.com/events/savaya-dj-night
+SUMMARY:STEPHAN JOLK
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents STEPHAN JOLK - 3-Oct Reservations WA: +62 
+811-3099-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi7
+bZCuZbQLXg79w9 Door Policy - Capacity is strictly limited to table reserva
+tions & ticket holders only. - Full health & safety protocols will be exec
+uted. - This event is strictly 21+ & a valid ID will be required for entry
+. Management reserves the right to refuse entry for any reason. Tickets: h
+ttps://www.savaya.com/event-calendar/october-3-2026?utm_source=thebaliguid
+eline\n\nMore info: https://baligasm.com/event/savaya-bali-stephan-jolk-oc
+t-2026\n\nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-stephan-jolk-oct-2026
 STATUS:CONFIRMED
+DTSTART:20261002T230000Z
+DTEND:20261003T000000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f60718293a4b5c6d7e8f90123456789012345678@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:a392af7b78792ced4a241f76d8f6453fd0a16c36@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261015T000000Z
-DTEND:20261015T050000Z
-SUMMARY:Padang Padang Surf Cup Heats
-LOCATION:Padang Padang Beach\, Uluwatu
-DESCRIPTION:Morning competition heats with local and visiting surfers\; spe
- ctators welcome. Verify with organizer.\n\nSource: https://example.com/eve
- nts/padang-surf-cup\nPlease verify with the organizer before attending.
-URL:https://example.com/events/padang-surf-cup
+SUMMARY:ALEX WANN
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents ALEX WANN - 4-Oct Reservations WA: +62 811
+-3099-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi7bZC
+uZbQLXg79w9 Door Policy - Capacity is strictly limited to table reservatio
+ns & ticket holders only. - Full health & safety protocols will be execute
+d. - This event is strictly 21+ & a valid ID will be required for entry. M
+anagement reserves the right to refuse entry for any reason. Tickets: http
+s://www.savaya.com/event-calendar/october-4-2026?utm_source=thebaliguideli
+ne\n\nMore info: https://baligasm.com/event/savaya-bali-alex-wann-oct-2026
+\n\nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-alex-wann-oct-2026
 STATUS:CONFIRMED
+DTSTART:20261003T210000Z
+DTEND:20261003T220000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:0718293a4b5c6d7e8f9012345678901234567890@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:a22b1da072ac9b8434efe5ee5ef28e7d3df7d5f5@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261013T010000Z
-DTEND:20261013T023000Z
-SUMMARY:Morning Breathwork at Ubud Yoga Barn
-LOCATION:Ubud Yoga Barn\, Ubud
-DESCRIPTION:Guided breathwork and gentle flow\, all levels welcome\, mats p
- rovided. Verify with organizer.\n\nSource: https://example.com/events/yoga
- -barn-breathwork\nPlease verify with the organizer before attending.
-URL:https://example.com/events/yoga-barn-breathwork
+SUMMARY:DIPLO
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents DIPLO - 8-Oct Reservations WA: +62 811-309
+9-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi7bZCuZbQ
+LXg79w9 Door Policy - Capacity is strictly limited to table reservations &
+ ticket holders only. - Full health & safety protocols will be executed. -
+ This event is strictly 21+ & a valid ID will be required for entry. Manag
+ement reserves the right to refuse entry for any reason. Tickets: https://
+www.savaya.com/event-calendar/october-8-2026?utm_source=thebaliguideline\n
+\nMore info: https://baligasm.com/event/savaya-bali-diplo-oct-2026\n\nPlea
+se verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-diplo-oct-2026
 STATUS:CONFIRMED
+DTSTART:20261007T230000Z
+DTEND:20261008T000000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:18293a4b5c6d7e8f9012345678901234567890ab@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:fc7c5a2500873c8c94dcece2ada4a839fd3d912b@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261015T113000Z
-DTEND:20261015T133000Z
-SUMMARY:Balinese Legong Dance Evening
-LOCATION:ARMA Museum\, Ubud
-DESCRIPTION:Traditional Legong and Barong dance performance with gamelan or
- chestra. Verify with organizer.\n\nSource: https://example.com/events/arma
- -legong-dance\nPlease verify with the organizer before attending.
-URL:https://example.com/events/arma-legong-dance
+SUMMARY:ARTBAT
+LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
+DESCRIPTION:Zumana Beach Club Presents ARTBAT on Fri\, 16 October 2026 For 
+event information\, ticketing details\, venue policies\, and frequently as
+ked questions\, please visit the FAQ section on our website. Reservations 
+WA: +62 811 3011 0111 reservations@zumanabali.com Location Sunset Bay Kuta
+ https://share.google/TXwVSnqw2SAaKWuEd Door Policy - Capacity is strictly
+ limited to table reservations & ticket holders only. - This event is stri
+ctly 21+ & a valid ID will be required for entry. Management reserves the 
+right to refuse entry for any reason. Tickets: https://megatix.co.id/event
+s/artbat-1610\n\nMore info: https://baligasm.com/event/zumana-bali-artbat-
+2026\n\nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/zumana-bali-artbat-2026
 STATUS:CONFIRMED
+DTSTART:20261015T230000Z
+DTEND:20261016T000000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:293a4b5c6d7e8f9012345678901234567890abcd@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:7690b27c36fa3f62afb8d002991109f4b6a8e1b5@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261014T090000Z
-DTEND:20261014T110000Z
-SUMMARY:Denpasar Tech Talk & Coworking Mixer
-LOCATION:Kumpul Coworking\, Denpasar
-DESCRIPTION:Lightning talks on remote work plus open coworking mixer. Verif
- y with organizer.\n\nSource: https://example.com/events/denpasar-tech-mixe
- r\nPlease verify with the organizer before attending.
-URL:https://example.com/events/denpasar-tech-mixer
+SUMMARY:ZAMNA
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents ZAMNA - 17-Oct Reservations WA: +62 811-30
+99-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi7bZCuZb
+QLXg79w9 Door Policy - Capacity is strictly limited to table reservations 
+& ticket holders only. - Full health & safety protocols will be executed. 
+- This event is strictly 21+ & a valid ID will be required for entry. Mana
+gement reserves the right to refuse entry for any reason. Tickets: https:/
+/www.savaya.com/event-calendar/october-17-2026?utm_source=thebaliguideline
+\n\nMore info: https://baligasm.com/event/savaya-bali-zamna-oct-17-2026\n\
+nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-zamna-oct-17-2026
 STATUS:CONFIRMED
+DTSTART:20261016T230000Z
+DTEND:20261017T000000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:3a4b5c6d7e8f9012345678901234567890abcdef@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:3a6200fd0ab2851dbb926a1980c5de36905b107b@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261016T100000Z
-DTEND:20261016T130000Z
-SUMMARY:Denpasar Night Market Food Tour
-LOCATION:Pasar Kreneng Night Market\, Denpasar
-DESCRIPTION:Guided street-food walk: babi guling\, sate lilit\, and local d
- esserts. Verify with organizer.\n\nSource: https://example.com/events/kren
- eng-food-tour\nPlease verify with the organizer before attending.
-URL:https://example.com/events/kreneng-food-tour
+SUMMARY:ZAMNA
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents ZAMNA - 18-Oct Reservations WA: +62 811-30
+99-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi7bZCuZb
+QLXg79w9 Door Policy - Capacity is strictly limited to table reservations 
+& ticket holders only. - Full health & safety protocols will be executed. 
+- This event is strictly 21+ & a valid ID will be required for entry. Mana
+gement reserves the right to refuse entry for any reason. Tickets: https:/
+/www.savaya.com/event-calendar/october-18-2026?utm_source=thebaliguideline
+\n\nMore info: https://baligasm.com/event/savaya-bali-zamna-oct-18-2026\n\
+nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-zamna-oct-18-2026
 STATUS:CONFIRMED
+DTSTART:20261017T210000Z
+DTEND:20261017T220000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:4b5c6d7e8f9012345678901234567890abcdef01@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:0b1a3d9e38be217efca6d4c0d239ac5142564b08@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261016T220000Z
-DTEND:20261016T233000Z
-SUMMARY:Tanah Lot Sunrise Yoga Flow
-LOCATION:Tanah Lot Temple Park\, Tabanan
-DESCRIPTION:Sunrise vinyasa session near the temple gardens\, breakfast inc
- luded. Verify with organizer.\n\nSource: https://example.com/events/tanah-
- lot-yoga\nPlease verify with the organizer before attending.
-URL:https://example.com/events/tanah-lot-yoga
+SUMMARY:FRANKY WAH
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents FRANKY WAH - 24-Oct Reservations WA: +62 8
+11-3099-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi7b
+ZCuZbQLXg79w9 Door Policy - Capacity is strictly limited to table reservat
+ions & ticket holders only. - Full health & safety protocols will be execu
+ted. - This event is strictly 21+ & a valid ID will be required for entry.
+ Management reserves the right to refuse entry for any reason. Tickets: ht
+tps://www.savaya.com/event-calendar/october-10-2026?utm_source=thebaliguid
+eline\n\nMore info: https://baligasm.com/event/savaya-bali-franky-wah-oct-
+2026\n\nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-franky-wah-oct-2026
 STATUS:CONFIRMED
+DTSTART:20261023T230000Z
+DTEND:20261024T000000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5c6d7e8f9012345678901234567890abcdef0123@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:ff24ca71394ca21ed541fb179f6818f86dec05a3@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Jatiluwih Rice Terrace Harvest Festival
-LOCATION:Jatiluwih Rice Terraces\, Tabanan
-DESCRIPTION:All-day harvest celebration: folk music\, rice pounding demos\,
-  and local stalls. Verify with organizer.\n\nSource: https://example.com/e
- vents/jatiluwih-harvest-festival\nPlease verify with the organizer before 
- attending.
-URL:https://example.com/events/jatiluwih-harvest-festival
+SUMMARY:JONAS BLUE
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents JONAS BLUE - 30-Oct Reservations WA: +62 8
+11-3099-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi7b
+ZCuZbQLXg79w9 Door Policy - Capacity is strictly limited to table reservat
+ions & ticket holders only. - Full health & safety protocols will be execu
+ted. - This event is strictly 21+ & a valid ID will be required for entry.
+ Management reserves the right to refuse entry for any reason. Tickets: ht
+tps://www.savaya.com/event-calendar/october-30-2026?utm_source=thebaliguid
+eline\n\nMore info: https://baligasm.com/event/savaya-bali-jonas-blue-oct-
+2026\n\nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-jonas-blue-oct-2026
 STATUS:CONFIRMED
+DTSTART:20261029T210000Z
+DTEND:20261029T220000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:6d7e8f9012345678901234567890abcdef012345@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:81baa21fa4554b6bd9901d145aa90a92186ac8b1@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261017T120000Z
-DTEND:20261017T160000Z
-SUMMARY:Secret Pop-Up Party (venue TBA)
-LOCATION:Somewhere in Bali (venue to be announced)
-DESCRIPTION:Vague listing: promoter promises a venue drop on the day. Detai
- ls unconfirmed. Verify with organizer.\n\nSource: https://example.com/even
- ts/secret-popup-party\nPlease verify with the organizer before attending.
-URL:https://example.com/events/secret-popup-party
-STATUS:TENTATIVE
+SUMMARY:HAYDEN JAMES
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents HAYDEN JAMES - 31-Oct Reservations WA: +62
+ 811-3099-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi
+7bZCuZbQLXg79w9 Door Policy - Capacity is strictly limited to table reserv
+ations & ticket holders only. - Full health & safety protocols will be exe
+cuted. - This event is strictly 21+ & a valid ID will be required for entr
+y. Management reserves the right to refuse entry for any reason. Tickets: 
+https://www.savaya.com/event-calendar/october-31-2026?utm_source=thebaligu
+ideline\n\nMore info: https://baligasm.com/event/savaya-bali-hayden-james-
+oct-2026\n\nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-hayden-james-oct-2026
+STATUS:CONFIRMED
+DTSTART:20261030T230000Z
+DTEND:20261031T000000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:7e8f9012345678901234567890abcdef01234567@lewagon-calendar
-DTSTAMP:20260924T063000Z
+UID:ce6a4394dcf0799a16dff4df8c00647a97c845e8@lewagon-calendar
+DTSTAMP:20260924T075416Z
 SEQUENCE:0
-DTSTART:20261016T020000Z
-DTEND:20261018T120000Z
-SUMMARY:Bali Island Jazz & Food Fair
-LOCATION:Nusa Dua Festival Grounds (touring stop)
-DESCRIPTION:Multi-day open-air fair: jazz line-ups\, surf films\, and food 
- stalls across three days. Verify with organizer.\n\nSource: https://exampl
- e.com/events/island-jazz-food-fair\nPlease verify with the organizer befor
- e attending.
-URL:https://example.com/events/island-jazz-food-fair
+SUMMARY:ELVIS GUETTA
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents ELVIS GUETTA - 8-Nov Reservations WA: +62 
+811-3099-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi7
+bZCuZbQLXg79w9 Door Policy - Capacity is strictly limited to table reserva
+tions & ticket holders only. - Full health & safety protocols will be exec
+uted. - This event is strictly 21+ & a valid ID will be required for entry
+. Management reserves the right to refuse entry for any reason. Tickets: h
+ttps://www.savaya.com/event-calendar/november-8-2026?utm_source=thebaligui
+deline\n\nMore info: https://baligasm.com/event/savaya-bali-elvis-guetta-n
+ov-2026\n\nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-elvis-guetta-nov-2026
 STATUS:CONFIRMED
+DTSTART:20261107T210000Z
+DTEND:20261107T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cab5bbd2db1fa2d08f0d4600745ba4760de224f4@lewagon-calendar
+DTSTAMP:20260924T075416Z
+SEQUENCE:0
+SUMMARY:MK
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents MK - 14-Nov Reservations WA: +62 811-3099-
+0900 reservations@savayabali.com Location https://goo.gl/maps/Hi7bZCuZbQLX
+g79w9 Door Policy - Capacity is strictly limited to table reservations & t
+icket holders only. - Full health & safety protocols will be executed. - T
+his event is strictly 21+ & a valid ID will be required for entry. Managem
+ent reserves the right to refuse entry for any reason. Tickets: https://ww
+w.savaya.com/event-calendar/november-14-2026?utm_source=thebaliguideline\n
+\nMore info: https://baligasm.com/event/savaya-bali-mk-nov-2026\n\nPlease 
+verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-mk-nov-2026
+STATUS:CONFIRMED
+DTSTART:20261113T230000Z
+DTEND:20261114T000000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:c89f71414462e38f13d69fad63f5621081da973f@lewagon-calendar
+DTSTAMP:20260924T075416Z
+SEQUENCE:0
+SUMMARY:LEE BURRIDGE
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents LEE BURRIDGE - 15-Nov Reservations WA: +62
+ 811-3099-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi
+7bZCuZbQLXg79w9 Door Policy - Capacity is strictly limited to table reserv
+ations & ticket holders only. - Full health & safety protocols will be exe
+cuted. - This event is strictly 21+ & a valid ID will be required for entr
+y. Management reserves the right to refuse entry for any reason. Tickets: 
+https://www.savaya.com/event-calendar/november-15-2026?utm_source=thebalig
+uideline\n\nMore info: https://baligasm.com/event/savaya-bali-lee-burridge
+-nov-2026\n\nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-lee-burridge-nov-2026
+STATUS:CONFIRMED
+DTSTART:20261114T210000Z
+DTEND:20261114T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b2c044a063ba7ebde52b06afd35d7b00c04fbe@lewagon-calendar
+DTSTAMP:20260924T075416Z
+SEQUENCE:0
+SUMMARY:DAMIAN LAZARUS
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+atu
+DESCRIPTION:Savaya Bali Presents DAMIAN LAZARUS - 21-Nov Reservations WA: +
+62 811-3099-0900 reservations@savayabali.com Location https://goo.gl/maps/
+Hi7bZCuZbQLXg79w9 Door Policy - Capacity is strictly limited to table rese
+rvations & ticket holders only. - Full health & safety protocols will be e
+xecuted. - This event is strictly 21+ & a valid ID will be required for en
+try. Management reserves the right to refuse entry for any reason. Tickets
+: https://www.savaya.com/event-calendar/november-21-2026?utm_source=thebal
+iguideline\n\nMore info: https://baligasm.com/event/savaya-bali-damian-laz
+arus-nov-2026\n\nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-damian-lazarus-nov-2026
+STATUS:CONFIRMED
+DTSTART:20261120T230000Z
+DTEND:20261121T000000Z
 END:VEVENT
 END:VCALENDAR
