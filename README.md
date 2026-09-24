@@ -139,9 +139,9 @@ commit (ALWAYS, even on failure) → Pages rebuild → fresh site
 - **Button A — "Subscribe (auto-updates, ~1 day delay)"** — feed header only.
   User: GCal → Other calendars (+) → From URL → paste `bali-events.ics` URL.
   Auto-updates BUT Google refreshes feeds every **12–24h** (no force-refresh).
-  Worst case: 3-day cadence + 24h lag ≈ 4 days. State this in the UI.
   ICS rules: stable UIDs (`sha1(source|norm_title|start_utc)`), SEQUENCE bumps,
   UTC `Z` times (Bali = WITA, UTC+8, no DST), valid RFC 5545, warn if >500 KB.
+  Line endings MUST be CRLF — Google rejects LF-only feeds ("unable to subscribe").
 - **Button B1 — "Add this event (opens Google Calendar)"** — every event card.
   Template link, **no file download**: click → GCal tab prefilled → Save.
   `https://calendar.google.com/calendar/render?action=TEMPLATE&text=…&dates=START/END&details=…&location=…`
