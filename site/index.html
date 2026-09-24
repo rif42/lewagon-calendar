@@ -98,7 +98,7 @@
     try {
       var feedAbs = new URL("./bali-events.ics", window.location.href).href;
       var gsub = document.getElementById("subscribe-google");
-      if (gsub) gsub.href = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(feedAbs);
+      if (gsub) gsub.href = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(feedAbs + "?v=2");
     } catch (err) {}
   })();
   </script>
