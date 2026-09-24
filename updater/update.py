@@ -288,7 +288,12 @@ def run(args: argparse.Namespace) -> dict:
     )
 
     (data_dir / "events.json").write_text(events_json_str, encoding="utf-8")
-    (data_dir / "bali-events.ics").write_text(ics_str, encoding="utf-8")
+    # ICS MUST keep single CRLF per line (RFC 5545; Google rejects LF-only
+    # and broken feeds). write_text() in text mode translates "\n" into the
+    # OS line separator on Windows, turning emit()'s "\r\n" into "\r\r\n",
+    # so the feed is written with newline="" to pass endings through intact.
+    with open(data_dir / "bali-events.ics", "w", encoding="utf-8", newline="") as fh:
+        fh.write(ics_str)
     (data_dir / "state.json").write_text(
         json.dumps(new_state, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )

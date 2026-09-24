@@ -13,7 +13,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-the-martinez-brothers-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -31,7 +31,25 @@
     "source_url": "https://baligasm.com/event/potato-head-dekmantel-sep-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "c767612b5689ac5c4230b4c5e0f2f7b321673caf",
+    "name": "STEPHAN BODZIN",
+    "location": "Savaya Bali, Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu",
+    "description": "Savaya Bali Presents STEPHAN BODZIN - 26-Sep Reservations WA: +62 811-3099-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi7bZCuZbQLXg79w9 Door Policy - Capacity is strictly limited to table reservations & ticket holders only. - Full health & safety protocols will be executed. - This event is strictly 21+ & a valid ID will be required for entry. Management reserves the right to refuse entry for any reason. Tickets: https://www.savaya.com/event-calendar/september-26-2026?utm_source=thebaliguideline",
+    "start_utc": "2026-09-25T23:00:00Z",
+    "finish_utc": null,
+    "area": "Uluwatu",
+    "category": "Nightlife",
+    "cost": null,
+    "free": false,
+    "source_url": "https://baligasm.com/event/savaya-bali-stephan-bodzin-sep-2026",
+    "source": "baligasm",
+    "discovered_at": "2026-09-24T10:16:35.998866Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -49,7 +67,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-satori-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -67,7 +85,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-the-martinez-brothers-sep-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -85,7 +103,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-stephan-jolk-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -103,7 +121,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-alex-wann-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -121,7 +139,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-diplo-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -139,7 +157,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-artbat-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -157,7 +175,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-zamna-oct-17-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -175,7 +193,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-zamna-oct-18-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -193,7 +211,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-franky-wah-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -211,7 +229,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-jonas-blue-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -229,7 +247,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-hayden-james-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -247,7 +265,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-elvis-guetta-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -265,7 +283,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-mk-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -283,7 +301,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-lee-burridge-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -301,7 +319,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-damian-lazarus-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-24T07:54:16.801539Z",
+    "last_seen_at": "2026-09-24T10:16:35.998866Z",
     "sequence": 0,
     "status": "confirmed"
   }

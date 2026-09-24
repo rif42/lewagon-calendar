@@ -180,6 +180,7 @@ commit (ALWAYS, even on failure) → Pages rebuild → fresh site
 | What's New Indo | `whatsnewindonesia.com/event/bali` | Hotel/F&B promos (dated cards) — layer nothing else has | ~28k chars |
 | Atlas | `atlasbeachfest.com/beach-club/event` → `/event/<slug>` | Biggest beach club's own calendar (NYE w/ Quavo, Disko Afrika…) | ~13k chars |
 | Surf calendar | `calendar.asiansurf.co` → `/event/<slug>` | Dated/statused comps (CONFIRMED/TENTATIVE) — anchors Surf category | ~5k chars, has status field |
+| Honeycombers Bali | `thehoneycombers.com/bali/calendar/` (+ `/this-week/`, `/this-month/`) → `/bali/event/<slug>/` | Curated editorial: nightlife/F&B/arts w/ schema.org datetimes + venue addresses; Canggu-area coverage good (verified live 2026-09-24: Sep–Oct 2026 dated items incl. Zumana opening, Salsa Bajo el Sol Pererenan) | Static HTML, no bot-wall (plain-UA GET 200, ~138 KB, 63× `/bali/event/` anchors, `itemprop=startDate` on details); parse `meta[itemprop=startDate/endDate]`, `span[itemprop=name/address/price]`; island-wide so Tier-2, dedupe vs club-direct feeds |
 | bali.com | `bali.com/events-calendar/`, `/nightlife/` | Perennial guides → **WEEKLIES ONLY** (FINNS, Old Man's, Savaya, La Favela) | Few dated events; cache aggressively |
 | El Kabron | `elkabron.com/<party>` pages | Recurring series ("Every Saturday") → **WEEKLIES ONLY** | List page is JS-shell; no dated instances |
 
