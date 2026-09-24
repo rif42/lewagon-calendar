@@ -26,6 +26,27 @@ Anything else named anywhere in this README is **[SPEC]** = design only, not on 
 In the rest of this README: **[EXISTS]** = one of the 8 files above.
 **[SPEC]** = does not exist yet. If a path lacks a tag, treat it as **[SPEC]**.
 
+## 0.1 Tech stack [SPEC — locked, nothing installed/written yet]
+
+| Layer | Choice | Version / notes |
+|---|---|---|
+| Updater language | **Python** | **3.12** in Actions (`actions/setup-python@v5`); local dev on 3.11+ is fine |
+| HTTP | `requests` | Timeouts 20 s per source, custom UA, `requirements.txt` [SPEC] |
+| HTML parsing | `beautifulsoup4` + `lxml` | `lxml` parser for speed on 50–60 KB pages (Bandsintown, Eventbrite) |
+| YAML/state | `pyyaml` | `state.json`/`last_run.json` are JSON; YAML only if config files appear later |
+| Date handling | stdlib `datetime` + `zoneinfo` (`Asia/Makassar`) | No `dateutil` unless parsing gets hairy — WITA has no DST, offsets are fixed |
+| ICS emit | Hand-rolled (stdlib only) | Feed is simple flat VEVENTs; `icalendar` lib = unnecessary dep. Validate output against RFC 5545 rules in §5 |
+| Actions runner | `ubuntu-latest`, 30 min timeout | `pip install -r updater/requirements.txt` per run (no browser, no Playwright) |
+| Site | **Static HTML + vanilla JS** (no framework) | `fetch('./events.json')` → render week/month; FullCalendar optional — digitalbrain used FullCalendar 6.1.15 via CDN successfully, same pattern allowed |
+| Hosting | **GitHub Pages** (deploy on push) | Data commits trigger rebuild; `events.json` baked next to `index.html` |
+| Secrets | Actions secrets only (`TALLY_API_KEY` later) | Notion favolist needs NO auth. Never commit secrets; never put tokens in client JS |
+| Lint/test | `python -m py_compile` (smoke) + parser asserts (§7) | No test framework mandated for MVP; each source self-validates ("≥1 dated link") |
+
+**Explicit non-choices:** No Node in updater · No Playwright/Selenium in Actions ·
+No crawl4ai server in Actions (local exploration only) · No DB (git-committed
+JSON is the store) · No OAuth/Calendar API · No CSS framework mandated (keep it
+light; match site to Le Wagon branding at build time).
+
 ## 1. What this is
 
 A static website showing **Bali events in a rolling 60-day window**
