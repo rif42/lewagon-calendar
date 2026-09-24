@@ -62,10 +62,12 @@ body {
   line-height: 1.1;
   letter-spacing: 0;
 }
+.brand-row { display: flex; align-items: center; gap: 1rem; }
+.brand-row h1 { margin: 0; }
 .brand-logo {
-  height: 40px;
+  height: 128px;
   width: auto;
-  margin-bottom: 0.5rem; /* clear space ≈ symbol height */
+  border-radius: 24px;
 }
 .subtitle { color: var(--muted); margin-top: 0; }
 .delay-note { color: var(--muted); font-size: 0.875rem; }
@@ -218,9 +220,8 @@ body {
 
 @media (max-width: 40rem) {
   .filter-bar { flex-direction: column; align-items: stretch; }
-  .filter-bar select { width: 100%; }
+  .brand-logo { height: 84px; }
   .legend { display: grid; grid-template-columns: 1fr 1fr; gap: 0.375rem 0.75rem; }
-  .brand-logo { height: 28px; }
   .site-header h1 { font-size: 1.4rem; }
   .subtitle { font-size: 0.875rem; }
   #filter-details summary { cursor: pointer; font-weight: 700; padding: 0.5rem 0; }
