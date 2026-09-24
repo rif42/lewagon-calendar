@@ -1,0 +1,3 @@
+# ICS feeds MUST keep CRLF line endings (RFC 5545; Google rejects LF-only).
+# Without this, core.autocrlf normalizes them to LF on commit.
+*.ics binary
