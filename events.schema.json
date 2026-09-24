@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lewagon-event-calendar/events.schema.json",
+  "title": "Bali Event (canonical)",
+  "description": "Canonical event for the lewagon-event-calendar static Bali events site. Covers a rolling 60-day window (yesterday through +60 days); dates are parsed from WITA (Asia/Makassar, UTC+8, no DST) and emitted as UTC Z times. uid is sha1(source|norm_title|start_utc).",
+  "type": "object",
+  "required": ["uid", "name", "start_utc", "source", "source_url", "status"],
+  "additionalProperties": false,
+  "properties": {
+    "uid": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{40}$",
+      "description": "Stable id: sha1(source|norm_title|start_utc), lowercase hex."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "location": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "start_utc": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Event start in UTC (Z). Parsed from WITA (Asia/Makassar, UTC+8, no DST)."
+    },
+    "finish_utc": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "Event end in UTC (Z). Null when unknown."
+    },
+    "area": {
+      "type": "string",
+      "enum": ["Canggu", "Seminyak", "Uluwatu", "Ubud", "Denpasar", "Tabanan", "Other"]
+    },
+    "category": {
+      "type": "string",
+      "enum": ["Music", "Surf", "Wellness", "Food & Drink", "Coworking & Tech", "Arts & Culture", "Nightlife", "Other"]
+    },
+    "cost": {
+      "type": ["string", "number", "null"],
+      "description": "Free-text or numeric cost as scraped (e.g. 'Free entry', '150K'); null when unknown. See 'free' for the boolean filter."
+    },
+    "free": {
+      "type": "boolean"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Canonical source/detail URL the event was discovered on."
+    },
+    "source": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Source module name (e.g. baligasm)."
+    },
+    "discovered_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "First run that observed this uid, in UTC (Z)."
+    },
+    "last_seen_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Most recent run that observed this uid, in UTC (Z)."
+    },
+    "sequence": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "ICS SEQUENCE revision counter; increments on each material change."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["confirmed", "needs_review", "stale", "cancelled"]
+    }
+  }
+}
