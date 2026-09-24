@@ -10,6 +10,9 @@
   var categorySelect = document.getElementById("filter-category");
   var costSelect = document.getElementById("filter-cost");
   var dialog = document.getElementById("event-dialog");
+  var isMobile = window.matchMedia("(max-width: 40rem)").matches;
+  var filterDetails = document.getElementById("filter-details");
+  if (filterDetails && !isMobile) filterDetails.open = true;
 
   function matchesFilters(fcEvent) {
     var p = fcEvent.extendedProps || {};
@@ -147,15 +150,18 @@
       var firstDate = allEvents.map(function (e) { return (e.start_utc || "").slice(0, 10); }).filter(Boolean).sort()[0];
       var el = document.getElementById("calendar");
       calendar = new FullCalendar.Calendar(el, {
-        initialView: "timeGridWeek",
+        initialView: isMobile ? "listWeek" : "timeGridWeek",
         initialDate: firstDate,
         headerToolbar: {
           left: "prev,next today",
           center: "title",
-          right: "timeGridWeek,dayGridMonth",
+          right: "timeGridWeek,listWeek,dayGridMonth",
         },
-        buttonText: { week: "Week", month: "Month" },
-        views: { timeGridWeek: { buttonText: "Week" }, dayGridMonth: { buttonText: "Month" } },
+        buttonText: { week: "Week", month: "Month", list: "List" },
+        views: { timeGridWeek: { buttonText: "Week" }, dayGridMonth: { buttonText: "Month" }, listWeek: { buttonText: "List" } },
+        aspectRatio: isMobile ? 0.6 : 1.35,
+        dayMaxEvents: isMobile ? 3 : true,
+        nowIndicator: true,
         events: visibleEvents(),
         eventClick: function (info) {
           info.jsEvent.preventDefault();
