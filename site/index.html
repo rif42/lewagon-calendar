@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="subscribe-row">
-      <a class="btn" id="subscribe-google" href="https://calendar.google.com/calendar/r/settings/addbyurl?cid=https%3A%2F%2Frif42.github.io%2Flewagon-calendar%2Fbali-events.ics%3Fv%3D3" target="_blank" rel="noopener">Subscribe (Google Calendar)</a>
+      <a class="btn" id="subscribe-google" href="https://calendar.google.com/calendar/r/settings/addbyurl?cid=https%3A%2F%2Frif42.github.io%2Flewagon-calendar%2Fbali-events.ics%3Fv%3D4" target="_blank" rel="noopener">Subscribe (Google Calendar)</a>
       <a class="btn" id="download-ics" href="./bali-events.ics" download="bali-events.ics">Download snapshot (.ics)</a>
       <a class="btn btn-secondary" id="submit-event" href="https://tally.so/r/zxlZeM" target="_blank" rel="noopener">Submit an event</a>
     </div>
@@ -104,7 +104,7 @@
     try {
       // Bump ?v=N whenever the feed was broken: Google caches addbyurl URLs,
       // a fresh query string forces a fresh fetch instead of the cached error.
-      var feedAbs = new URL("./bali-events.ics?v=3", window.location.href).href;
+      var feedAbs = new URL("./bali-events.ics?v=4", window.location.href).href;
       var gsub = document.getElementById("subscribe-google");
       if (gsub) {
         gsub.href = "https://calendar.google.com/calendar/r/settings/addbyurl?cid=" + encodeURIComponent(feedAbs);
