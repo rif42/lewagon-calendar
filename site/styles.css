@@ -232,7 +232,6 @@ body {
   .fc-list-event-title, .fc-list-event-time { color: #fff; }
 }
 @media (min-width: 40.01rem) {
-  .fc .fc-listWeek-button { display: none; }
   #filter-details { width: 100%; }
   #filter-details summary { cursor: pointer; font-weight: 700; }
   #filter-details .filters-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0 1rem; align-items: end; }
