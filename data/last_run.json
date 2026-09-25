@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-09-25T08:01:48.163017Z",
-  "event_count": 58,
+  "ran_at": "2026-09-25T08:23:43.276742Z",
+  "event_count": 65,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -21,6 +21,11 @@
       "status": "ok",
       "count": 29,
       "normalized": 29
+    },
+    "now_bali": {
+      "status": "ok",
+      "count": 6,
+      "normalized": 6
     }
   }
 }

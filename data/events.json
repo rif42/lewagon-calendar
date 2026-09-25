@@ -1,5 +1,23 @@
 [
   {
+    "uid": "5f797cf84a20d65af2a666f63c863b2ec7c5ae16",
+    "name": "READY TO BE SEEN N.1",
+    "location": "BIASA Art Ubud",
+    "description": "The first in a planned series of nine exhibitions, the READY TO BE SEEN N.1 showcase at BIASA Art Ubud brings together the works of Jasmine Ansori and Josephine Kingsley, two artists living and working in Bali whose practices explore memory, perception, materiality, and the subtle traces left by experience. Running from 1 September to 15 November 2026 , the READY TO BE SEEN N.1 exhibition forms part of the ongoing commitment of BIASA Art to giving artists new to the public eye a platform to present their work. It encourages visitors to engage with new practices at accessible price points, creating an opportunity for those who connect with a work to take their first step into collecting or commissioning art. Born in 1997 and educated in Fine Arts at the Bandung Institute of Technology (ITB), Jasmine Ansori is a multidisciplinary artist whose practice moves between fine art, graphic design, and digital media. Her work is driven by research, experimentation, and an interest in imagery capable of triggering emotion and evoking a feeling of liminality.",
+    "start_utc": "2026-08-31T16:00:00Z",
+    "finish_utc": "2026-11-14T16:00:00Z",
+    "area": "Ubud",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://www.nowbali.co.id/upcoming-events/ready-to-be-seen-n-1/",
+    "source": "now_bali",
+    "discovered_at": "2026-09-25T08:23:43.276742Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
     "uid": "24bcad02d94db5a803ad2c6ed9f0dc9b35a801b3",
     "name": "Blue Peaceful Frequency – A Collective Art Exhibition",
     "location": "BK Creative Hub, Jl. Plawa Gg. Melati No.2, Seminyak, Kec. Kuta, Kabupaten Badung, Bali",
@@ -13,7 +31,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/blue-peaceful-frequency-a-collective-art-exhibition/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -31,7 +49,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/atomic-17/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -49,7 +67,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/cascayu-promotion/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -67,7 +85,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/mooncake-for-the-mid-autumn-festival/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -85,7 +103,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/mosto-x-mod-kaew-wine-bar/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -103,7 +121,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/salsa-bajo-el-sol/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -121,7 +139,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/afro-thursday/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -139,7 +157,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/bakers-market-at-7am-bakers-ubud/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -157,7 +175,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-the-martinez-brothers-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -193,7 +211,7 @@
     "source_url": "https://balisquad.com/event/bukitsocial-IZ427w",
     "source": "balisquad",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -211,7 +229,7 @@
     "source_url": "https://balisquad.com/event/mana-uluwatu-xnKCUr",
     "source": "balisquad",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -229,7 +247,7 @@
     "source_url": "https://balisquad.com/event/bwellness-by-zenria-FqBgKW",
     "source": "balisquad",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -247,7 +265,7 @@
     "source_url": "https://balisquad.com/event/avenue-fitness-N1fBY3",
     "source": "balisquad",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -265,7 +283,7 @@
     "source_url": "https://balisquad.com/event/loko-community-1--pLY7u",
     "source": "balisquad",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -283,7 +301,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/live-at-aloft-cultural-spirits/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -301,7 +319,7 @@
     "source_url": "https://balisquad.com/event/bali-volleyball-academy-70cdcJ",
     "source": "balisquad",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -319,8 +337,26 @@
     "source_url": "https://thehoneycombers.com/bali/event/zumana-bali-grand-opening-weekend-on-friday-september-25th-2026/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 1,
+    "status": "confirmed"
+  },
+  {
+    "uid": "a5a9ef534993e5c9925e07186427305402e0fdd9",
+    "name": "Interstellar Funk, Carlos Valdes at Klymax",
+    "location": "Klymax Discotheque",
+    "description": "This Friday, Interstellar Funk and Carlos Valdes lead us through the dance for an essential night under the Klymax discoball. Over the last decade, Interst...",
+    "start_utc": "2026-09-25T14:00:00Z",
+    "finish_utc": "2026-09-25T20:00:00Z",
+    "area": "Other",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/desa-potato-head-bali-MBGk_A",
+    "source": "balisquad",
+    "discovered_at": "2026-09-25T08:23:43.276742Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
+    "sequence": 0,
     "status": "confirmed"
   },
   {
@@ -337,8 +373,26 @@
     "source_url": "https://thehoneycombers.com/bali/event/yoyo-camp-on-the-maha/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 1,
+    "status": "confirmed"
+  },
+  {
+    "uid": "d898db81c57113db756836f8d7f706a4ca79afd8",
+    "name": "Potato Head Presents Dekmantel",
+    "location": "Potato Head Beach Club",
+    "description": "On Saturday, 26 September 2026 , Potato Head Presents Dekmantel transforms Potato Head Beach Club into a full-day and late-night celebration of electronic music by the Indian Ocean. Running from 2 PM until 4 AM at Potato Head Beach Club , the event brings together an international and Indonesian lineup spanning techno, house and leftfield electronica. Headlining the programme are Avalon Emerson (US), Dekmantel Soundsystem (NL), Fafi Abdel Nour (NL), Ogazón (DE), and Soichi Terada LIVE (JP) , joined by live performances from Danny Satria LIVE and sets from Archie, Bagvs, Dita, Kaazi (AU), Kiwed and Sattle. Music remains at the centre, but the collaboration also extends into conversation and cultural exchange. Throughout the day and night, guests can take part in a listening session, live Q&As and a Desa Dialogue , creating opportunities to explore the ideas, influences and creative practices surrounding electronic music. The additional programming reflects the shared ethos of Dekmantel and Potato Head: that music can be a starting point for broader conversations about culture, creativity and community.",
+    "start_utc": "2026-09-25T16:00:00Z",
+    "finish_utc": null,
+    "area": "Other",
+    "category": "Music",
+    "cost": null,
+    "free": false,
+    "source_url": "https://www.nowbali.co.id/upcoming-events/potato-head-presents-dekmantel/",
+    "source": "now_bali",
+    "discovered_at": "2026-09-25T08:23:43.276742Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
+    "sequence": 0,
     "status": "confirmed"
   },
   {
@@ -355,7 +409,7 @@
     "source_url": "https://baligasm.com/event/potato-head-dekmantel-sep-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -373,7 +427,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-stephan-bodzin-sep-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T10:16:35.998866Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -391,7 +445,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/afl-grand-final-2026-live-showing-at-the-blue-door/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -409,7 +463,7 @@
     "source_url": "https://balisquad.com/event/the-canggu-studio-TlXF9D",
     "source": "balisquad",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -427,7 +481,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/afl-grand-final-by-the-pool-mrs-sippy-bali-sat-26-september/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -445,7 +499,7 @@
     "source_url": "https://balisquad.com/event/aspire-consulting-services-3ZUDa8",
     "source": "balisquad",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -463,7 +517,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/wellness-weekend-brunch/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -481,7 +535,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-satori-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -499,7 +553,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/burger-bash-beer/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -517,7 +571,7 @@
     "source_url": "https://balisquad.com/event/the-melting-pot-saloon-UhK9xd",
     "source": "balisquad",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -535,7 +589,7 @@
     "source_url": "https://balisquad.com/event/desa-potato-head-bali-wuMfCo",
     "source": "balisquad",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -553,7 +607,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/waterbom-friends-poolside-music-event-dj-nu-mark-craze/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -571,7 +625,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/potato-head-presents-dekmantel/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -589,7 +643,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/full-moon-at-revivo/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -607,7 +661,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/suck-my-disco-presents-r-squared/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -625,7 +679,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/caviar-dinner-at-mozaic-ubud/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -643,7 +697,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/zumana-bali-grand-opening-weekend-satori-saturday-september-26th-2026/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -661,7 +715,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/ogazon-archie-bagvs-at-klymax/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -679,7 +733,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-the-martinez-brothers-sep-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -697,7 +751,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/sunday-roast-at-maha/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -715,7 +769,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/purnama-sound-meditation-dinner-september-2026/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -733,7 +787,25 @@
     "source_url": "https://thehoneycombers.com/bali/event/te-mata-estate-wine-dinner/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "f307d8e871810b8f23ca81f65f455e664e158ca1",
+    "name": "IGNITE 2026",
+    "location": "Green School Bali",
+    "description": "On Saturday, 3 October 2026 , Green School Foundation’s fundraising gala, IGNITE , returns for its eighth edition. This prestigious annual event is a cultural and culinary spectacle, taking place at the world-renowned campus of Green School Bali . IGNITE 2026 presents the theme ‘ Chronicles of Nusantara’ , celebrating Indonesia’s land, traditions and living heritage. As such, the gala dinner’s feast will be curated by none other than Indonesia’s culinary ambassador, Chef William Wongso , known for his expertise with archipelagic flavours and recipes. He will be joined by Chef Jero Yudi from Dapur Bali Mula, a Balinese chef renowned for his traditional dishes using local ingredients. The Green School Foundation’s mission is to empower the next generation of environmental leaders. Their work encompasses Environmental School Projects , bringing sustainability education programmes to local schools, as well as providing Agricultural University Scholarships for children of farmers, ensuring a resilient future for Indonesia’s agricultural industry. Through ‘Chronicles of Nusantara’, this year’s IGNITE will draw the connection between land and culture – that the rice on our plates, bamboo for homes, fibres for textiles all originate from Indonesia’s diverse landscape and those who tend them.",
+    "start_utc": "2026-10-02T16:00:00Z",
+    "finish_utc": null,
+    "area": "Other",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://www.nowbali.co.id/upcoming-events/ignite-2026/",
+    "source": "now_bali",
+    "discovered_at": "2026-09-25T08:23:43.276742Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -751,7 +823,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-stephan-jolk-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -769,7 +841,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/wellness-weekend-brunch/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -787,7 +859,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/ignite-fundraising-gala-2026/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -805,7 +877,25 @@
     "source_url": "https://thehoneycombers.com/bali/event/sunset-beach-party-sat-3-oct-free-entry/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "44fee9dbf00f3730291f1199fdcbb86b49012fb2",
+    "name": "AMICI Presents: An Exclusive Evening with Chef Enrico Bartolini",
+    "location": "AMICI by Enrico Bartolini",
+    "description": "This October, AMICI by Enrico Bartolini in Seminyak will welcome its visionary founder, Chef Enrico Bartolini, for an intimate evening of Italian cuisine, fine wine and convivial dining. Held on Sunday, 4 October 2026, the one-night culinary collaboration brings Chef Enrico together with AMICI’s Chef Alessandro D’Amico for a special five-course dinner. The evening begins with a canapé reception from 6pm to 7pm , before guests take their seats for dinner at 7.30pm . Served across AMICI’s elegant indoor dining room and open-air veranda, the menu will bring together the restaurant’s contemporary interpretation of Italian cuisine with Chef Enrico’s distinctive style. While the full menu will be revealed on the evening, one signature dish has already been unveiled: Risotto Enrico Bartolini , the chef’s celebrated beetroot “Acquerello” risotto, finished with butter, Gorgonzola and walnuts. The collaboration is designed not simply as a progression of courses, but as a meeting of culinary perspectives, with technique, tradition and personal expression at the heart of the experience.",
+    "start_utc": "2026-10-03T16:00:00Z",
+    "finish_utc": null,
+    "area": "Other",
+    "category": "Food & Drink",
+    "cost": null,
+    "free": false,
+    "source_url": "https://www.nowbali.co.id/upcoming-events/amici-presents-an-exclusive-evening-with-chef-enrico-bartolini/",
+    "source": "now_bali",
+    "discovered_at": "2026-09-25T08:23:43.276742Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -823,7 +913,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-alex-wann-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -841,7 +931,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-diplo-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -859,7 +949,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-artbat-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -877,8 +967,26 @@
     "source_url": "https://thehoneycombers.com/bali/event/artbat-at-zumana-bali-friday-october-16th-2026/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 1,
+    "status": "confirmed"
+  },
+  {
+    "uid": "9b79a2d06d5f1ebacdc6013fc6824efbc6d9b327",
+    "name": "Steps of Hope: Breast Cancer Charity Walk",
+    "location": "Sudamala Resort Sanur",
+    "description": "October is Breast Cancer Awareness Month, also known as ‘ Pinktober ’, a global health campaign that draws crucial attention to this life-threatening disease, promotes education, and encourages early detection. Bali Pink Foundation invites you to join its fundraising charity walk on Saturday, 17 October 2026. Founded in 2013 by breast cancer survivor Gaye Warren, Bali Pink Ribbon Foundation has since screened and provided treatment to thousands of women across Indonesia. Throughout the year, the foundation organises regular breast cancer awareness programmes and breast screenings for local communities in Bali and beyond. ‘Steps of Hope’ , in collaboration with Sudamala Resort Sanur , is the foundation’s annual fundraising event. This ‘Pink Charity Fun Walk and Run’ brings people together for a morning walk in Sanur, fully dressed in pink, to raise awareness of breast cancer in solidarity with the foundation and other survivors.",
+    "start_utc": "2026-10-16T16:00:00Z",
+    "finish_utc": null,
+    "area": "Other",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://www.nowbali.co.id/upcoming-events/steps-of-hope-breast-cancer-charity-walk/",
+    "source": "now_bali",
+    "discovered_at": "2026-09-25T08:23:43.276742Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
+    "sequence": 0,
     "status": "confirmed"
   },
   {
@@ -895,7 +1003,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-zamna-oct-17-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -913,7 +1021,25 @@
     "source_url": "https://baligasm.com/event/savaya-bali-zamna-oct-18-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "aec212d3ae6b3f73b574af11a4f7631ca7a94852",
+    "name": "Ubud Writers & Readers Festival (UWRF) 2026",
+    "location": "Taman Baca Ubud",
+    "description": "Southeast Asia’s biggest literary event, Ubud Writers & Readers Festival (UWRF), returns this 21 to 26 October with a powerful programme of over a hundred separate events. For its 23rd year, authors, thinkers, journalists, poets and more will descend upon Ubud for a week of insight and intrigue. The theme this year is ‘Samarasā: Awareness. Empathy. Action.’, which will guide UWRF’s main programme’s many curated conversations and panels. 150 of the region’s most current, exciting writers will discuss the transformative power of storytelling and its ability to mobilise and enlighten individuals, communities and humanity. As always, the UWRF festival carefully selects its Main Programme speakers, whose works, knowledge and life experiences add poignance, depth and reality into each year’s discussions. A highly-anticipated speaker is Tari Lang , author of the memoir ‘ My Neighbour, The Dictator,’ in which she recounts her life as a fourteen-year-old girl in 1965 when General Suharto’s coup saw her parents imprisoned without trial, and how this history continues to shape who she is.",
+    "start_utc": "2026-10-20T16:00:00Z",
+    "finish_utc": "2026-10-25T16:00:00Z",
+    "area": "Ubud",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://www.nowbali.co.id/upcoming-events/uwrf-2026/",
+    "source": "now_bali",
+    "discovered_at": "2026-09-25T08:23:43.276742Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -931,7 +1057,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-franky-wah-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -949,7 +1075,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-jonas-blue-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -967,7 +1093,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-hayden-james-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -985,7 +1111,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-elvis-guetta-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1003,7 +1129,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-mk-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1021,7 +1147,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-lee-burridge-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1039,7 +1165,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-damian-lazarus-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-25T08:01:48.163017Z",
+    "last_seen_at": "2026-09-25T08:23:43.276742Z",
     "sequence": 0,
     "status": "confirmed"
   }
