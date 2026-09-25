@@ -1,0 +1,35 @@
+TOTAL lines: 69
+L6: Beach Volleyball Social Games - BaliSquad | BaliSquad
+L8: Beach Volleyball Social Games
+L10: Bali Volleyball Academy
+L11: Friday, September 25, 2026
+L12: 8:00 PM - 10:00 PM
+L13: Bali Volleyball Academy (BVA)
+L16: Join us for fun, beginner-friendly Beach Volleyball & Beach Tennis sessions at Bali Volleyball Academy! 🌴☀️
+L18: 🏐 Beach Volleyball
+L19: Every Monday, Wednesday & Friday | 6–8 PM (6v6)
+L21: ✨ First visit is FREE
+L25: All rights belong to organizer - Bali Volleyball Academy. Balisquad simply helps you discover events and find people to join offline.
+L27: Bali Volleyball Academy (BVA)
+L31: Bali Volleyball Academy
+L36: Join us for fun, beginner-friendly Beach Volleyball & Beach Tennis sessions at Bali Volleyball Academy! 🌴☀️
+L38: 🏐 Beach Volleyball
+L39: Every Monday, Wednesday & Friday | 6–8 PM (6v6)
+L41: ✨ First visit is FREE
+L45: All rights belong to organizer - Bali Volleyball Academy. Balisquad simply helps you discover events and find people to join offline.
+L47: Bali Volleyball Academy (BVA)
+L51: Friday, September 25, 2026
+L52: 8:00 PM - 10:00 PM
+L54: Bali Volleyball Academy
+L63: September
+L66: 8:00 PM
+L67: Beach Volleyball Social Games
+==============================
+CTX tag: p ['font-semibold', 'text-text-primary', 'text-lg'] | Friday, September 25, 2026
+CTX tag: div ['min-w-0', 'flex-1'] | Friday, September 25, 2026 8:00 PM - 10:00 PM
+CTX tag: div ['flex', 'items-start', 'gap-3'] | Friday, September 25, 2026 8:00 PM - 10:00 PM
+--------------------
+CTX tag: p ['font-semibold', 'text-text-primary', 'text-lg'] | Friday, September 25, 2026
+CTX tag: div ['min-w-0', 'flex-1'] | Friday, September 25, 2026 8:00 PM - 10:00 PM
+CTX tag: div ['flex', 'items-start', 'gap-3'] | Friday, September 25, 2026 8:00 PM - 10:00 PM
+--------------------

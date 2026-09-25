@@ -1,0 +1,101 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260924181440
+Username: DESKTOP-4HL6953\rif42
+RunAs User: DESKTOP-4HL6953\rif42
+Configuration Name: 
+Machine: DESKTOP-4HL6953 (Microsoft Windows NT 10.0.26100.0)
+Host Application: powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\code\lewagon-calendar\.task\run-updater.ps1
+Process ID: 3508
+PSVersion: 5.1.26100.9444
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9444
+BuildVersion: 10.0.26100.9444
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+[kestrel] evidence store ready (json) at C:\Users\rif42\.dsh\kestrel\evidence.db
+[kestrel] No language model: using the deterministic lexical judge and heuristic planner. Verdicts remain mechanically a
+nchored but decomposition is shallower.
+[kestrel] no tool service available — Kestrel loaded as a library only.
+[kestrel] no client RPC surface on this host — browser UI will report engine-unavailable.
+[kestrel] no webserver route on this host — browser UI will report engine-unreachable.
+      0 [main] ssh (14264) C:\Program Files\Git\usr\bin\ssh.exe: *** fatal error - CreateFileMapping S-1-5-21-1529404700
+-1807053456-2333823950-1000.1, Win32 error 5.  Terminating.
+      0 [main] ssh (19156) C:\Program Files\Git\usr\bin\ssh.exe: *** fatal error - CreateFileMapping S-1-5-21-1529404700
+-1807053456-2333823950-1000.1, Win32 error 5.  Terminating.
+      0 [main] ssh (6748) C:\Program Files\Git\usr\bin\ssh.exe: *** fatal error - CreateFileMapping S-1-5-21-1529404700-
+1807053456-2333823950-1000.1, Win32 error 5.  Terminating.
+      0 [main] ssh (6696) C:\Program Files\Git\usr\bin\ssh.exe: *** fatal error - CreateFileMapping S-1-5-21-1529404700-
+1807053456-2333823950-1000.1, Win32 error 5.  Terminating.
+      0 [main] sh (19916) C:\Program Files\Git\usr\bin\sh.exe: *** fatal error - CreateFileMapping S-1-5-21-1529404700-1
+807053456-2333823950-1000.1, Win32 error 5.  Terminating.
+      0 [main] sh (2984) C:\Program Files\Git\usr\bin\sh.exe: *** fatal error - CreateFileMapping S-1-5-21-1529404700-18
+07053456-2333823950-1000.1, Win32 error 5.  Terminating.
+      0 [main] ssh (17308) C:\Program Files\Git\usr\bin\ssh.exe: *** fatal error - CreateFileMapping S-1-5-21-1529404700
+-1807053456-2333823950-1000.1, Win32 error 5.  Terminating.
+## Scheduled run report — 2026-09-24
+
+### 1) Updater result — ✅✅ PASS
+`python updater/update.py --no-sleep` exited 0.
+`data/last_run.json` (`ran_at 2026-09-24T10:16:35.998866Z`, `event_count 18`):
+- `baligasm`: ok, raw=26, normalized=26
+- `notion_favolist`: ok, raw=59, normalized=59
+- Parser assert enforced: both sources ≥1 dated link, both `ok` — no error status.
+
+Validation (`.logs/validate_step1.py`, exit 0):
+- Schema: 0 violations across 18 events — uid recomputed `sha1(source|norm_title|start_utc)` matches, `start_utc` all `Z
+`, `finish_utc` null where unknown, area/category/status all in-enum. No bare "every Saturday" names; weeklies exist onl
+y as dated instances.
+- ICS/JSON agreement: 18 VEVENTs, UID sets identical, `DTSTAMP 20260924T101635Z` == `last_run.ran_at`, `event_count` mat
+ches.
+- **Violation found + fixed (writer bug, never hand-edited events):** worktree ICS had `\r\r\n` (402 double-CRs) — `writ
+e_text()` in text mode translates `\n`→OS newlines on Windows, corrupting emit's `\r\n`. Fixed `updater/update.py` to wr
+ite the feed with `open(..., newline="")`, rewrote `data/bali-events.ics` from the same merged list (now clean single-CR
+LF, 20153 bytes, 0 lone-LF). Committed Linux blob was already clean, confirming data was never bad.
+- Window/prune: prune untouched rolling 60d (`now−1d → now+60d` in code). Today→+14d applied as discovery focus for manu
+al merges only — no prune change.
+
+### 2) Events added / updated / rejected (pipeline)
+- **Added (1):** STEPHAN BODZIN — `2026-09-25T23:00:00Z` — https://baligasm.com/event/savaya-bali-stephan-bodzin-sep-202
+6
+- **Updated (0 material):** 17 carried with `last_seen_at` bump only. (One apparent Dekmantel description diff was `cp12
+52` console mojibake of "ó" — definitive UTF-8 diff = 0 char diffs, so sequence correctly stays 0 per merge rules.)
+- **Rejected/dropped (0):** gone=0. State holds 85, windowed output 18 (all baligasm; notion's 59 raws are real but fall
+ outside the 60d window, source still `ok`).
+
+### 3) Google Sheet — 1 row, REJECTED, nothing merged
+CSV export + HTML view agree: exactly one data row — `PRyNP8Q / 2026-09-24 09:39:35 / https://www.youtube.com/watch?v=Bk
+O7h2oF6p4`, all event columns (name, date, time, venue, area, category, description, status) empty.
+- **Verdict: REJECT** — bare link with no name/date/venue/organizer; fails schema-check and hoax-check (no official venu
+e/organizer page, no 2nd source, nothing verifiable). No YouTube lookup needed — there is no event claim to verify.
+- Accepted: 0. Sheet rows set to DONE: 0. DONE-candidates on write-failure: none (no valid rows, so no write attempted).
+
+### 4) New source — ✅✅ Honeycombers Bali Calendar (Tier-2)
+- Listing: [Calendar](https://thehoneycombers.com/bali/calendar/) (+ [/this-week/](https://thehoneycombers.com/bali/cale
+ndar/this-week/), `/this-month/`) → detail `/bali/event/<slug>/`
+- Evidence: [ARTBAT at Zumana, 16 Oct 2026](https://thehoneycombers.com/bali/event/artbat-at-zumana-bali-friday-october-
+16th-2026/) (`startDate 2026-10-16T08:00 pm+08:00`, venue+address+price schema), [Salsa Bajo el Sol](https://thehoneycom
+bers.com/bali/event/salsa-bajo-el-sol/) (24 Sep 2026, Pererenan/Canggu area); listing shows fresh Sep–Oct 2026 dated ite
+ms (Zumana opening, MOSTO wine bar, IGNITE, Dekmantel overlap).
+- Server-side proof: plain-UA `requests` GET 200, ~138 KB, 63× `/bali/event/` anchors, 21× `startDate`, zero `cf-challen
+ge`/`Just a moment`, no login. Parse via `meta[itemprop=startDate/endDate]`, `span[itemprop=name/address/price]`.
+- README §6 Tier-2 row added (island-wide curated volume → Tier-2, dedupe vs club-direct feeds). Near-misses rejected: T
+icket Fairy Canggu (stale, 0 upcoming), Samadi (single-venue, 2 events).
+
+### 5) Commit & push
+- Committed: **`1ea7082` — "data: scheduled events update 2026-09-24"** (6 files: `README.md`, `updater/update.py`, `dat
+a/events.json`, `data/bali-events.ics`, `data/last_run.json`, `data/state.json`). Note: `git add -A` initially staged lo
+cal-only `.logs/`, `.task/`, `__pycache__/` (never tracked in repo history); unstaged those so the commit holds real rep
+o changes only.
+- **Push: FAILED (transient local SSH spawn fault, not auth).** 5 attempts all die with `ssh.exe: CreateFileMapping … Wi
+n32 error 5`; `ssh -T git@github.com` authenticates fine (`Hi rif42/lewagon-calendar!`). `main` is ahead 1 of `origin/ma
+in`. Keep-alive satisfied locally (fresh `last_run.json` committed); backups saved untracked at `.logs/push-bundle-2026-
+09-24.bundle` + `.logs/commit-1ea7082.patch` — re-push needed from a healthy shell.
+PS>TerminatingError(Out-File): "The process cannot access the file 'C:\code\lewagon-calendar\.logs\run-20260924-181440.log' because it is being used by another process."
+**********************
+Windows PowerShell transcript end
+End time: 20260924182623
+**********************

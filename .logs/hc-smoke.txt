@@ -1,0 +1,33 @@
+TOTAL: 31
+CATS: {'food': 13, 'music': 11, 'art': 5, 'sport': 2}
+2026-09-24 17:00+08:00 | food | MOSTO X MOD KAEW WINE BAR? | MOSTO, Jl. Pantai Berawa No.8, Tibubeneng, Kec. Kuta, Kabupaten Badung | https://thehoneycombers.com/bali/event/mosto-x-mod-kaew-wine-bar/
+2026-09-25 20:00+08:00 | music | ZUMANA BALI GRAND OPENING WEEKEND on Friday, September 25th 2026 | Savaya Bali, Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kab | https://thehoneycombers.com/bali/event/zumana-bali-grand-opening-weekend-on-friday-september-25th-2026/
+2026-09-30 18:00+08:00 | food | Te Mata Estate Wine Dinner | Oliverra, Umana Bali, LXR Hotels & Resorts, Jl. Melasti Banjar Kelod,  | https://thehoneycombers.com/bali/event/te-mata-estate-wine-dinner/
+2026-10-03 16:00+08:00 | art | IGNITE Fundraising Gala 2026: The Chronicles of Nusantara | Green School Bali, Banjar Saren, Jl. Raya Sibang Kaja, Sibang Kaja, Ke | https://thehoneycombers.com/bali/event/ignite-fundraising-gala-2026/
+2026-10-03 18:00+08:00 | music | SUNSET BEACH PARTY | SAT 3 OCT | FREE ENTRY | Sunset Beach Bali, Jl. Camplung Tanduk No.99, Seminyak, Kec. Kuta, Kab | https://thehoneycombers.com/bali/event/sunset-beach-party-sat-3-oct-free-entry/
+2026-09-26 14:00+08:00 | music | Waterbom & Friends Poolside music event: DJ Nu-Mark & Craze | Waterbom Bali, Oasis Gardens area, Jalan Kartika Plaza, Kuta | https://thehoneycombers.com/bali/event/waterbom-friends-poolside-music-event-dj-nu-mark-craze/
+2026-09-26 19:00+08:00 | food | Caviar Dinner at Mozaic Ubud | Mozaic Ubud, Jl. Raya Sanggingan, Kedewatan, Kecamatan Ubud, Kabupaten | https://thehoneycombers.com/bali/event/caviar-dinner-at-mozaic-ubud/
+2026-09-26 11:00+08:00 | sport | AFL Grand Final By The Pool | Mrs Sippy Bali | Sat. 26 September | Mrs Sippy Bali, Jl. Taman Ganesha, Gang Gagak 8 Kerobokan Kelod Kuta U | https://thehoneycombers.com/bali/event/afl-grand-final-by-the-pool-mrs-sippy-bali-sat-26-september/
+2026-09-26 18:00+08:00 | music | SUCK MY DISCO presents R.SQUARED | Mrs Sippy Bali, Jl. Taman Ganesha, Gang Gagak 8 Kerobokan Kelod Kuta U | https://thehoneycombers.com/bali/event/suck-my-disco-presents-r-squared/
+2026-09-25 09:00+08:00 | food | Bakers Market at 7AM Bakers Ubud | 7AM Bakers 7PM Diners Ubud, Jl. Raya Pengosekan No.2013B Ground Floor, | https://thehoneycombers.com/bali/event/bakers-market-at-7am-bakers-ubud/
+2026-09-26 20:00+08:00 | music | ZUMANA BALI ? GRAND OPENING WEEKEND SATORI ? SATURDAY, SEPTEMBER 26TH 2026 | ZUMANA BALI, Sunset Bay Kuta Jl. Kartika Plaza No.2, Kuta, Kec. Kuta,  | https://thehoneycombers.com/bali/event/zumana-bali-grand-opening-weekend-satori-saturday-september-26th-2026/
+2026-10-16 20:00+08:00 | music | ARTBAT AT ZUMANA BALI (Friday, October 16th 2026) | Zumana Bali, Jl. Kartika Plaza No.2, Kuta, Kec. Kuta, Kabupaten Badung | https://thehoneycombers.com/bali/event/artbat-at-zumana-bali-friday-october-16th-2026/
+2026-09-25 18:00+08:00 | art | Live at Aloft Cultural Spirits | Aloft by Marriott Bali Kuta at Beachwalk, Jl. Beachwalk Mall, Pantai,  | https://thehoneycombers.com/bali/event/live-at-aloft-cultural-spirits/
+2026-08-01 11:30+08:00 | food | Wellness Weekend Brunch | N?TRI? Restaurant at REV?V? Wellness Resort, Jln. Desa Sawangan, Kelur | https://thehoneycombers.com/bali/event/wellness-weekend-brunch/
+2026-08-08T11:30:00+08:00 | food | Wellness Weekend Brunch | N?TRI? Restaurant at REV?V? Wellness Resort, Jln. Desa Sawangan, Kelur | https://thehoneycombers.com/bali/event/wellness-weekend-brunch/
+2026-08-15T11:30:00+08:00 | food | Wellness Weekend Brunch | N?TRI? Restaurant at REV?V? Wellness Resort, Jln. Desa Sawangan, Kelur | https://thehoneycombers.com/bali/event/wellness-weekend-brunch/
+2026-08-22T11:30:00+08:00 | food | Wellness Weekend Brunch | N?TRI? Restaurant at REV?V? Wellness Resort, Jln. Desa Sawangan, Kelur | https://thehoneycombers.com/bali/event/wellness-weekend-brunch/
+2026-09-05 18:00+08:00 | art | Blue Peaceful Frequency ? A Collective Art Exhibition | BK Creative Hub, Jl. Plawa Gg. Melati No.2, Seminyak, Kec. Kuta, Kabup | https://thehoneycombers.com/bali/event/blue-peaceful-frequency-a-collective-art-exhibition/
+2026-09-09 12:00+08:00 | food | ATOMIC 17 | Atomic 17, Renaissance Nusa Dua, Bali | https://thehoneycombers.com/bali/event/atomic-17/
+2026-09-10 15:00+08:00 | food | Cascayu Promotion | Cascayu, Renaissance Nusa Dua, Bali | https://thehoneycombers.com/bali/event/cascayu-promotion/
+2026-09-11 12:00+08:00 | food | Mooncake Galore for the Mid-Autumn Festival | LION X, Renaissance Nusa Dua Resort, Bali | https://thehoneycombers.com/bali/event/mooncake-for-the-mid-autumn-festival/
+2026-09-25 23:00+08:00 | music | Yoyo Camp on The Maha | The Maha, Canggu, Jl. Pantai Batu Mejan No.1, Canggu, Kec. Kuta Utara, | https://thehoneycombers.com/bali/event/yoyo-camp-on-the-maha/
+2026-09-26 10:00+08:00 | sport | AFL Grand Final 2026 Live Showing at The Blue Door | The Blue Door, Ubud, Jl. Monkey Forest, Ubud | https://thehoneycombers.com/bali/event/afl-grand-final-2026-live-showing-at-the-blue-door/
+2026-09-26 14:00+08:00 | music | Potato Head Presents Dekmantel | Potato Head Beach Club, Jl. Petitenget No.51B, Seminyak, Kec. Kuta Uta | https://thehoneycombers.com/bali/event/potato-head-presents-dekmantel/
+2026-09-24 17:00+08:00 | music | Salsa Bajo el Sol | SAMADA WORK LIFE BALI - ROOFTOP POOL, Jl. Raya Tumbakbayuh - Pererenan | https://thehoneycombers.com/bali/event/salsa-bajo-el-sol/
+2026-09-24 23:00+08:00 | music | Afro Thursday | The Maha, Canggu, Jl. Pantai Batu Mejan No.1, Canggu, Kec. Kuta Utara, | https://thehoneycombers.com/bali/event/afro-thursday/
+2026-09-26 17:00+08:00 | art | FULL MOON AT REV?V? | REV?V? WELLNESS RESORT, Jln. Desa Sawangan, Kelurahan Benoa, Kec. Kuta | https://thehoneycombers.com/bali/event/full-moon-at-revivo/
+2026-09-26 21:00+08:00 | music | Ogaz?n, Archie, Bagvs at Klymax | Klymax, Jl. Petitenget No.51B, Seminyak, Kec. Kuta Utara, Kabupaten Ba | https://thehoneycombers.com/bali/event/ogazon-archie-bagvs-at-klymax/
+2026-09-27 13:00+08:00 | food | Sunday Roast at Maha | Maha Resort Bali, Jl. Pantai Batu Mejan No.1, Canggu, Kec. Kuta Utara, | https://thehoneycombers.com/bali/event/sunday-roast-at-maha/
+2026-09-28 19:00+08:00 | art | Purnama: Sound Meditation and Plant-Based Dinner ? September 2026 | Desa Potato Head Bali, Jl. Petitenget No.51B, Seminyak, Kec. Kuta Utar | https://thehoneycombers.com/bali/event/purnama-sound-meditation-dinner-september-2026/
+2026-09-26 12:00+08:00 | food | Burger Bash & Beer | Maha Resort Bali, Jl. Pantai Batu Mejan No.1, Canggu, Kec. Kuta Utara, | https://thehoneycombers.com/bali/event/burger-bash-beer/

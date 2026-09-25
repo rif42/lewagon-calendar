@@ -1,0 +1,13 @@
+TOTAL: 11
+CATS: {'art': 2, 'sport': 3, 'community': 4, 'tech': 1, 'food': 1}
+2026-09-25 15:00 | art | FREE Bahasa Indonesia Class for Intermediate Level | Belle's All Day Cafe | https://balisquad.com/event/learningbahasainbali-OVTcNf
+2026-09-25 16:00 | sport | Badminton Friday 3C2H | Lining Badminton Hall | https://balisquad.com/event/bukitsocial-IZ427w
+2026-09-25 17:00 | community | Friday Sunset Drinks | Mana Uluwatu | Mana Uluwatu Restaurant & Bar | https://balisquad.com/event/mana-uluwatu-xnKCUr
+2026-09-25 17:00 | tech | Breathwork | BLive Coliving | https://balisquad.com/event/bwellness-by-zenria-FqBgKW
+2026-09-25 17:00 | sport | BEAT THE CHALLENGE. UNLOCK FREE GYM ACCESS. | BEAT THE CHALLENGE. UNLOCK FREE GYM ACCESS. | https://balisquad.com/event/avenue-fitness-N1fBY3
+2026-09-25 18:00 | community | Board Game Night | Mata Berawa | https://balisquad.com/event/loko-community-1--pLY7u
+2026-09-25 20:00 | sport | Beach Volleyball Social Games | Bali Volleyball Academy (BVA) | https://balisquad.com/event/bali-volleyball-academy-70cdcJ
+2026-09-26 10:30 | community | CLOTHES SWAP ??? | CLOTHES SWAP ??? | https://balisquad.com/event/the-canggu-studio-TlXF9D
+2026-09-26 11:30 | food | Coffee Talk! Let's Talk About.... : Your Business Challenges | Bali Beans Coffee & Co | https://balisquad.com/event/aspire-consulting-services-3ZUDa8
+2026-09-26 12:30 | community | ? FINALS FOOTY IN UBUD! | The Melting Pot Saloon | https://balisquad.com/event/the-melting-pot-saloon-UhK9xd
+2026-09-26 14:00 | art | Potato Head Presents Dekmantel | Potato Head Beach Club | https://balisquad.com/event/desa-potato-head-bali-wuMfCo

@@ -1,0 +1,8 @@
+CATS: event-category/art-culture/
+event-category/business-industry/
+event-category/concerts/
+event-category/dining/
+event-category/experience/
+event-category/festival/
+event-category/nightlife/
+event-category/sports-recreation/

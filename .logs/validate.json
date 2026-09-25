@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "ran_at": "2026-09-24T10:16:35.998866Z",
+    "parser_assert.baligasm": {
+      "status": "ok",
+      "raw": 26,
+      "normalized": 26,
+      "pass": true
+    },
+    "parser_assert.notion_favolist": {
+      "status": "ok",
+      "raw": 59,
+      "normalized": 59,
+      "pass": true
+    },
+    "event_count": 18,
+    "schema_violations": 0,
+    "ics_crlf": true,
+    "ics_vevent_count": 18,
+    "ics_uid_match_json": true,
+    "ics_dtstamp": "20260924T101635Z",
+    "ics_dtstamp_matches_run": true,
+    "event_count_matches_last_run": true,
+    "window_note": "prune rolling 60d untouched; discovery focus today..+14d for manual merges only"
+  },
+  "errors": [],
+  "pass": true
+}

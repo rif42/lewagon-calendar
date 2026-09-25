@@ -1,0 +1,27 @@
+========================================
+URL: atomic-17/
+  meta description = Make your afternoon a little more delicious with our Sip & Savor Set, available every day from 12 PM onwards at ATOMIC17. Whether you’re enjoying a meal with family and friends or simply treating yourself, choose from our Family Feast or Solo Indulgence set, featuring tasty islan
+  meta startDate = 2026-09-09T12:00 pm+08:00
+  meta endDate = 2026-12-09T01:00 am+08:00
+  pat [Ee]very\s+\w+ -> ['every day']
+  pat \b(daily|weekly|weekends?)\b -> ['daily']
+  pat (September|October|November|December)\s+\d{1,2} -> ['September']
+========================================
+URL: cascayu-promotion/
+  meta description = Pour More, Play More! Make your afternoons a little brighter with our Liquid Courage promotion. Enjoy Buy 1, Get 1 on selected drinks, available daily from 3–5 PM. Gather your friends, sip your favorite drinks, and make the most of your afternoon with us. 🍹
+  meta startDate = 2026-09-10T03:00 pm+08:00
+  meta endDate = 2026-12-10T05:00 pm+08:00
+  pat \b(daily|weekly|weekends?)\b -> ['daily']
+  pat (September|October|November|December)\s+\d{1,2} -> ['September']
+========================================
+URL: mooncake-for-the-mid-autumn-festival/
+  meta description = Celebrate the Mid-Autumn season with Mooncake Galore at Lion X, where timeless traditions meet contemporary flavours. Discover a curated selection of handcrafted mooncakes, thoughtfully created to bring a touch of indulgence to your Mid-Autumn celebrations. Whether you’re sharing
+  meta startDate = 2026-09-11T12:00 pm+08:00
+  meta endDate = 2026-10-08T08:00 pm+08:00
+  pat (September|October|November|December)\s+\d{1,2} -> ['October', 'September']
+========================================
+URL: blue-peaceful-frequency-a-collective-art-exhibition/
+  meta description = Featuring 23 participating artists, Blue Peaceful Frequency explores blue not merely as the subject of the exhibition, but as a shared artistic language. Through different perspectives and practices, each artist responds to the same chromatic vocabulary, creating distinct convers
+  meta startDate = 2026-09-05T06:00 pm+08:00
+  meta endDate = 2026-10-04T06:00 pm+08:00
+  pat (September|October|November|December)\s+\d{1,2} -> ['September']

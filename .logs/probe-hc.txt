@@ -1,0 +1,88 @@
+URL: https://thehoneycombers.com/bali/calendar/ -> 200 138241 bytes
+  /bali/event/ anchors: 21
+   - https://thehoneycombers.com/bali/event/afl-grand-final-by-the-pool-mrs-sippy-bali-sat-26-september
+   - https://thehoneycombers.com/bali/event/afro-thursday
+   - https://thehoneycombers.com/bali/event/artbat-at-zumana-bali-friday-october-16th-2026
+   - https://thehoneycombers.com/bali/event/atomic-17
+   - https://thehoneycombers.com/bali/event/bakers-market-at-7am-bakers-ubud
+   - https://thehoneycombers.com/bali/event/blue-peaceful-frequency-a-collective-art-exhibition
+   - https://thehoneycombers.com/bali/event/cascayu-promotion
+   - https://thehoneycombers.com/bali/event/caviar-dinner-at-mozaic-ubud
+   - https://thehoneycombers.com/bali/event/ignite-fundraising-gala-2026
+   - https://thehoneycombers.com/bali/event/live-at-aloft-cultural-spirits
+URL: https://thehoneycombers.com/bali/calendar/this-week/ -> 200 122541 bytes
+  /bali/event/ anchors: 15
+   - https://thehoneycombers.com/bali/event/afl-grand-final-2026-live-showing-at-the-blue-door
+   - https://thehoneycombers.com/bali/event/afro-thursday
+   - https://thehoneycombers.com/bali/event/full-moon-at-revivo
+   - https://thehoneycombers.com/bali/event/ignite-fundraising-gala-2026
+   - https://thehoneycombers.com/bali/event/mosto-x-mod-kaew-wine-bar
+   - https://thehoneycombers.com/bali/event/ogazon-archie-bagvs-at-klymax
+   - https://thehoneycombers.com/bali/event/potato-head-presents-dekmantel
+   - https://thehoneycombers.com/bali/event/purnama-sound-meditation-dinner-september-2026
+   - https://thehoneycombers.com/bali/event/salsa-bajo-el-sol
+   - https://thehoneycombers.com/bali/event/sunday-roast-at-maha
+URL: https://thehoneycombers.com/bali/calendar/this-month/ -> 200 120501 bytes
+  /bali/event/ anchors: 14
+   - https://thehoneycombers.com/bali/event/afl-grand-final-2026-live-showing-at-the-blue-door
+   - https://thehoneycombers.com/bali/event/burger-bash-beer
+   - https://thehoneycombers.com/bali/event/full-moon-at-revivo
+   - https://thehoneycombers.com/bali/event/ignite-fundraising-gala-2026
+   - https://thehoneycombers.com/bali/event/mosto-x-mod-kaew-wine-bar
+   - https://thehoneycombers.com/bali/event/ogazon-archie-bagvs-at-klymax
+   - https://thehoneycombers.com/bali/event/potato-head-presents-dekmantel
+   - https://thehoneycombers.com/bali/event/purnama-sound-meditation-dinner-september-2026
+   - https://thehoneycombers.com/bali/event/sunday-roast-at-maha
+   - https://thehoneycombers.com/bali/event/sunset-beach-party-sat-3-oct-free-entry
+FIRST DETAIL: https://thehoneycombers.com/bali/event/mosto-x-mod-kaew-wine-bar
+detail -> 200 118468 bytes
+  meta[itemprop=name] content=MOSTO X MOD KAEW WINE BAR🍷
+  meta[itemprop=startDate] content=2026-09-24T05:00 pm+08:00
+  meta[itemprop=endDate] content=2026-09-24T12:00 pm+08:00
+  <p itemprop=description> A Guide To The Best Restaurants, Bars, Hotels and Things to Do in Bali
+  <span itemprop=name> Destinations
+  <span itemprop=name> Canggu
+  <span itemprop=name> Ubud
+  <span itemprop=name> Seminyak
+  <span itemprop=name> Uluwatu
+  <span itemprop=name> Sanur
+  <span itemprop=name> Kuta
+  <span itemprop=name> Jimbaran
+  <span itemprop=name> Nusa Dua
+  <span itemprop=name> Lembongan
+  <span itemprop=name> North Bali
+  <span itemprop=name> East Bali
+  <span itemprop=name> Guides
+  <span itemprop=name> Before you go
+  <span itemprop=name> Family Guides
+  <span itemprop=name> Nearby Islands
+  <span itemprop=name> Digital Nomad Guides
+  <span itemprop=name> Things to do
+  <span itemprop=name> Bali Beaches
+  <span itemprop=name> Shopping
+  <span itemprop=name> Spa & Wellness
+  <span itemprop=name> Art & Culture
+  <span itemprop=name> Day Trips
+  <span itemprop=name> Trending Now
+  <span itemprop=name> Where to Stay
+  <span itemprop=name> Hotels
+  <span itemprop=name> Villas
+  <span itemprop=name> Eat & Drink
+  <span itemprop=name> Restaurants
+  <span itemprop=name> Cafes & Brunch
+  <span itemprop=name> Bars
+  <span itemprop=name> Weddings
+  <span itemprop=name> Honeymoons
+  <span itemprop=name> Wedding Planning
+  <meta itemprop=name> MOSTO X MOD KAEW WINE BAR🍷
+  <meta itemprop=description> MOSTO teams up with MOD KAEW Wine Bar for a one-night-only takeover, bringing Bangkok energy to Bali with Dinner to Party from 5 PM till late. 📅Thursday, 24 September | From 5 PM 📍 MOSTO Bali Bookings: mostobali.com
+  <meta itemprop=startDate> 2026-09-24T05:00 pm+08:00
+  <meta itemprop=endDate> 2026-09-24T12:00 pm+08:00
+  <p itemprop=location> MOSTO Jl. Pantai Berawa No.8, Tibubeneng, Kec. Kuta, Kabupaten Badung, Bali 80361
+  <span itemprop=name> MOSTO
+  <span itemprop=address> Jl. Pantai Berawa No.8, Tibubeneng, Kec. Kuta, Kabupaten Badung, Bali 80361
+  <span itemprop=price> --
+  <title>: Event: MOSTO X MOD KAEW WINE BAR🍷 | Honeycombers
+  <h1>: MOSTO X MOD KAEW WINE BAR🍷
+  first date-like text: None
+  JSON-LD: {"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/thehoneycombers.com\/bali\/event\/mosto-x-mod-kaew-wine-bar\/","url":"https:\/\/thehoneycombers.com\/bali\/event\/mosto-x-mod-kaew-wine-bar\/","name":"Event: MOSTO X MOD KAEW WINE BAR🍷 | Honeycombers","isPartOf":{"@id":"https:\/\/thehoneycombers.com\/bali\/#website"},"primaryImageOfPage":{"@id":"https:\/\/thehoneycombers.com\/bali\/event\/mosto-x-mod-kaew-wine-bar\/#primaryimage"},"image":{"@id":"https:\/\/thehoneycombers.com\/bali\/event\/mosto-x-mod-kaew-wine-bar\/#primaryimage"},"thumbnailUrl":"https:\/\/static.thehoneycombers.com\/wp-content\/uploads\/sites\/4\/2026\/08\/MOSTO-X-MOD-KAEW_Digital_3-4-scaled.jpg","datePublished":"2026-08-31T09:06:35+00:00","dateModified":"2026-09-01T11:18:13+00:00","description":"MOSTO teams up with MOD KAEW Wine Bar for a one-night-only takeover, bringing Bangkok energy to Bali with Dinner to Party from 5 PM till late. 📅Thursday,","breadcrumb":{"@id":"https:\/\/thehoneycombers.com\/bali\/event\/mosto-x-mod-kaew-wine-bar\/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https:\/\/thehoneycombers.com\/bali\/event\/mosto-x-mod-kaew-wine-bar\/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https:\/\/thehoneycombers.com\/bali\/event\/mosto-x-mod-kaew-wine-bar\/#primaryimage","url":"https:\/\/static.thehoneycombers.com\/wp-content\/uploads\/sites\/4\/2026\/08\/MOSTO-X-MOD-KAEW_Digital_3-4-scaled.jpg","contentUrl":"https

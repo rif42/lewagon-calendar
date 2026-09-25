@@ -1,0 +1,37 @@
+LIST: https://www.nowbali.co.id/all-events/?month=october 200 70272 anchors: 9
+LIST: https://www.nowbali.co.id/all-events/?month=10 200 70272 anchors: 9
+LIST: https://nowbali.co.id/all-events/ 200 70272 anchors: 9
+========================================
+DETAIL: https://www.nowbali.co.id/upcoming-events/padma-musical-series-george-harliono-hera-hyesang-park/ 200 68932
+  h1: Padma Musical Series: George Harliono & Hera Hyesang Park
+  a[rel='tag']: Music, Concerts, Festivals
+  a[rel='tag']: Dining
+  a[rel='tag']: Music, Concerts, Festivals
+  a[rel='tag']: Dining
+  a[rel='tag']: Dining
+  a[rel='tag']: Community
+  [class*='categor']: News
+  [class*='categor']: Features
+  [class*='categor']: Explore Bali
+  [class*='categor']: Culture
+  [class*='categor']: Resto & Bars
+  [class*='categor']: Lifestyle
+  JSON-LD: {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.nowbali.co.id/upcoming-events/padma-musical-series-george-harliono-hera-hyesang-park/","url":"https://www.nowbali.co.id/upcoming-events/padma-musical-series-george-harliono-hera-hyesang-park/","name":"Padma Musical Series: George Harliono & Hera Hyesang Park - NOW! Bali","isPartOf":{"@id":"https://www.nowbali.co.id/#website"},"primaryImageOfPage":{"@id":"https://www.nowbali.co.id/upcoming-events/padma-musical-series-george-harliono-hera-hyesang-park/#primaryimage"},"image":{"@id":"https://www.nowbali.co.id/upcoming-events/padma-musical-series-george-harliono-hera-hyesang-park/#primaryimage"},"thumbnailUrl":"https://www.nowbali.co.id/wp-content/uploads/2026/09/Padma-Musical-Series-George-Harliono-Hera-Hyesang-Park.jpg","datePublished":"2026-09-21T04:07:16+00:00","description":"Padma Musical Series returns this December, featuring British-Indonesian pianist George Harliono and Korean soprano Hera Hyesang Park.","breadcrumb":{"@id":"https://www.nowbali.co.id/upcoming-events/padma-musical-series-george-harliono-hera-hyesang-park/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","t
+  first date-like: December 20
+========================================
+DETAIL: https://www.nowbali.co.id/upcoming-events/steps-of-hope-breast-cancer-charity-walk/ 200 66656
+  h1: Steps of Hope: Breast Cancer Charity Walk
+  a[rel='tag']: Community
+  a[rel='tag']: Dining
+  a[rel='tag']: Music, Concerts, Festivals
+  a[rel='tag']: Dining
+  a[rel='tag']: Dining
+  a[rel='tag']: Community
+  [class*='categor']: News
+  [class*='categor']: Features
+  [class*='categor']: Explore Bali
+  [class*='categor']: Culture
+  [class*='categor']: Resto & Bars
+  [class*='categor']: Lifestyle
+  JSON-LD: {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.nowbali.co.id/upcoming-events/steps-of-hope-breast-cancer-charity-walk/","url":"https://www.nowbali.co.id/upcoming-events/steps-of-hope-breast-cancer-charity-walk/","name":"Steps of Hope: Breast Cancer Charity Walk - NOW! Bali","isPartOf":{"@id":"https://www.nowbali.co.id/#website"},"primaryImageOfPage":{"@id":"https://www.nowbali.co.id/upcoming-events/steps-of-hope-breast-cancer-charity-walk/#primaryimage"},"image":{"@id":"https://www.nowbali.co.id/upcoming-events/steps-of-hope-breast-cancer-charity-walk/#primaryimage"},"thumbnailUrl":"https://www.nowbali.co.id/wp-content/uploads/2026/09/Bali-Pink-Ribbon.jpg","datePublished":"2026-09-06T18:59:50+00:00","dateModified":"2026-09-07T03:31:34+00:00","description":"Bali Pink Foundation invites you to join its Steps of Hope fundraising charity walk on 17 October 2026 at 6.30 AM priced at IDR 200,000 each.","breadcrumb":{"@id":"https://www.nowbali.co.id/upcoming-events/steps-of-hope-breast-cancer-charity-walk/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.nowbali.co.id/upcoming-events/steps-of-hope-breast-ca
+  first date-like: October 20

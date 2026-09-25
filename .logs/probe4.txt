@@ -1,0 +1,39 @@
+========================================
+HC: https://thehoneycombers.com/bali/event/afro-thursday 200
+  meta startDate = 2026-09-24T11:00 pm+08:00
+  meta endDate = 2026-09-24T04:00 am+08:00
+  cat: Music and Nightlife
+  recur-pat weekly -> ['weekly']
+  'every' ctx: None
+========================================
+HC: https://thehoneycombers.com/bali/event/salsa-bajo-el-sol 200
+  meta startDate = 2026-09-24T05:00 pm+08:00
+  meta endDate = 2026-09-24T08:00 pm+08:00
+  cat: Music and Nightlife
+  'every' ctx: None
+========================================
+BALISQUAD list: 200 305171 detail urls: 12
+  - /event/aspire-consulting-services-3ZUDa8
+  - /event/avenue-fitness-N1fBY3
+  - /event/bali-baza-aT9lhv
+  - /event/bali-volleyball-academy-70cdcJ
+  - /event/bukitsocial-IZ427w
+  - /event/bwellness-by-zenria-FqBgKW
+  - /event/desa-potato-head-bali-wuMfCo
+  - /event/learningbahasainbali-OVTcNf
+  - /event/loko-community-1--pLY7u
+  - /event/mana-uluwatu-xnKCUr
+  - /event/the-canggu-studio-TlXF9D
+  - /event/the-melting-pot-saloon-UhK9xd
+------------------------------
+BS detail: https://balisquad.com/event/bali-baza-aT9lhv 200 244775
+  h1: 🎲 Настольные игры в пятницу!
+  __NEXT_DATA__: False
+  JSON-LD: {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://balisquad.com/#website","url":"https://balisquad.com","name":"BaliSquad","description":"Find events, communities and activities in Bali or start your own. Make new friends and connect with like-minded people. Meet people in Bali who share your interests.","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://balisquad.com/event?q={search_term_string}"},"query-input":"required name=search_term_string"},"inLanguage":"en-US"},{"@type":"Organization","@id":"https://balisquad.com/#organization","name":"BaliSquad","url":"https://balisquad.com","logo":{"@type":"ImageObject","url":"https://balisquad.com/balisquad-logo.png"},"sameAs":["https://www.instagram.com/balisquad.id","https
+  first date-like: September 25, 2026
+------------------------------
+BS detail: https://balisquad.com/event/bali-volleyball-academy-70cdcJ 200 246785
+  h1: Beach Volleyball Social Games
+  __NEXT_DATA__: False
+  JSON-LD: {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://balisquad.com/#website","url":"https://balisquad.com","name":"BaliSquad","description":"Find events, communities and activities in Bali or start your own. Make new friends and connect with like-minded people. Meet people in Bali who share your interests.","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://balisquad.com/event?q={search_term_string}"},"query-input":"required name=search_term_string"},"inLanguage":"en-US"},{"@type":"Organization","@id":"https://balisquad.com/#organization","name":"BaliSquad","url":"https://balisquad.com","logo":{"@type":"ImageObject","url":"https://balisquad.com/balisquad-logo.png"},"sameAs":["https://www.instagram.com/balisquad.id","https
+  first date-like: September 25, 2026

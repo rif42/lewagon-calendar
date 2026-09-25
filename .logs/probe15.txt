@@ -1,0 +1,20 @@
+========================================
+URL: https://balisquad.com/event/bukitsocial-IZ427w
+h1: Badminton Friday 3C2H
+A.text-lg: https://maps.google.com/?cid=13360660696124911728 | Lining Badminton Hall
+LD place: None
+========================================
+URL: https://balisquad.com/event/mana-uluwatu-xnKCUr
+h1: Friday Sunset Drinks | Mana Uluwatu
+A.text-lg: https://maps.google.com/?cid=10739530731907351979 | Mana Uluwatu Restaurant & Bar
+LD place: None
+========================================
+URL: https://balisquad.com/event/learningbahasainbali-OVTcNf
+h1: FREE Bahasa Indonesia Class for Intermediate Level
+A.text-lg: https://maps.google.com/?cid=2908861739414652998 | Belle's All Day Cafe
+LD place: None
+========================================
+URL: https://balisquad.com/event/desa-potato-head-bali-wuMfCo
+h1: Potato Head Presents Dekmantel
+A.text-lg: https://maps.google.com/?cid=1989935839513447758 | Potato Head Beach Club
+LD place: None

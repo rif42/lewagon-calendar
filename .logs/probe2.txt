@@ -1,0 +1,68 @@
+HC cards: 21
+FIRST CARD HTML: <a href="https://thehoneycombers.com/bali/event/mosto-x-mod-kaew-wine-bar/">MOSTO X MOD KAEW WINE BAR🍷</a>
+FIRST CARD TEXT: MOSTO X MOD KAEW WINE BAR🍷
+--- second card ---
+SECOND CARD HTML: <a href="https://thehoneycombers.com/bali/event/zumana-bali-grand-opening-weekend-on-friday-september-25th-2026/">ZUMANA BALI GRAND OPENING WEEKEND</a>
+========================================
+DETAIL: https://thehoneycombers.com/bali/event/salsa-bajo-el-sol 200
+  meta name = Salsa Bajo el Sol
+  meta description = Salsa bajo el sol means salsa beneath the sun — bringing Latin rhythm, sunset energy, and the vibrant spirit of the Samada Squad together on the rooftop. Hosted by Jamal Ye Mila on Thursday, 24th September 2026. Salsa Dance Class only 150K incl. free
+  meta startDate = 2026-09-24T05:00 pm+08:00
+  meta endDate = 2026-09-24T08:00 pm+08:00
+  location block: SAMADA WORK LIFE BALI - ROOFTOP POOL | Jl. Raya Tumbakbayuh - Pererenan, Tumbak Bayuh, Kec. Mengwi, Kabupaten Badung, Bali 80351, Indonesia
+  tag(.event-category): Music and Nightlife
+  breadcrumb: None
+  h1: Salsa Bajo el Sol
+========================================
+DETAIL: https://thehoneycombers.com/bali/event/purnama-sound-meditation-dinner-september-2026 200
+  meta name = Purnama: Sound Meditation and Plant-Based Dinner – September 2026
+  meta description = The Purnama journey begins with a guided live sound meditation against a soundscape created to reflect the energy of the full moon. Whether it is a super blue moon that encourages manifestation or a harvest moon that inspires action, Purnama is a tim
+  meta startDate = 2026-09-28T07:00 pm+08:00
+  meta endDate = 2026-09-28T10:00 pm+08:00
+  location block: Desa Potato Head Bali | Jl. Petitenget No.51B, Seminyak, Kec. Kuta Utara, Kabupaten Badung, Bali 80361
+  tag(.event-category): Arts and Culture
+  breadcrumb: None
+  h1: Purnama: Sound Meditation and Plant-Based Dinner – September 2026
+========================================
+DETAIL: https://thehoneycombers.com/bali/event/caviar-dinner-at-mozaic-ubud 200
+  meta name = Caviar Dinner at Mozaic Ubud
+  meta description = A one-night-only six-course caviar dinner with live cooking, hosted by Chef Blake Thornley and presented in partnership with Global Epicurean, and Kaluga Imperial. Saturday, 26 September 2026 IDR 1,400,000++ per person 6.00pm – 9.30pm Chef’s Table
+  meta startDate = 2026-09-26T07:00 pm+08:00
+  meta endDate = 2026-09-26T10:00 pm+08:00
+  location block: Mozaic Ubud | Jl. Raya Sanggingan, Kedewatan, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571
+  tag(.event-category): Food and Drinks
+  breadcrumb: None
+  h1: Caviar Dinner at Mozaic Ubud
+========================================
+NOWBALI: https://nowbali.co.id/all-events/?month=9 200 70272
+  /upcoming-events/ anchors: 9
+   - https://www.nowbali.co.id/upcoming-events/amici-presents-an-exclusive-evening-with-chef-enrico-bartolini/
+   - https://www.nowbali.co.id/upcoming-events/an-evening-of-purpose-possibility/
+   - https://www.nowbali.co.id/upcoming-events/ignite-2026/
+   - https://www.nowbali.co.id/upcoming-events/padma-musical-series-george-harliono-hera-hyesang-park/
+   - https://www.nowbali.co.id/upcoming-events/potato-head-presents-dekmantel/
+   - https://www.nowbali.co.id/upcoming-events/ready-to-be-seen-n-1/
+   - https://www.nowbali.co.id/upcoming-events/samatra-quiet-gestures/
+   - https://www.nowbali.co.id/upcoming-events/steps-of-hope-breast-cancer-charity-walk/
+========================================
+NOWBALI: https://nowbali.co.id/all-events/?month=10 200 70272
+  /upcoming-events/ anchors: 9
+   - https://www.nowbali.co.id/upcoming-events/amici-presents-an-exclusive-evening-with-chef-enrico-bartolini/
+   - https://www.nowbali.co.id/upcoming-events/an-evening-of-purpose-possibility/
+   - https://www.nowbali.co.id/upcoming-events/ignite-2026/
+   - https://www.nowbali.co.id/upcoming-events/padma-musical-series-george-harliono-hera-hyesang-park/
+   - https://www.nowbali.co.id/upcoming-events/potato-head-presents-dekmantel/
+   - https://www.nowbali.co.id/upcoming-events/ready-to-be-seen-n-1/
+   - https://www.nowbali.co.id/upcoming-events/samatra-quiet-gestures/
+   - https://www.nowbali.co.id/upcoming-events/steps-of-hope-breast-cancer-charity-walk/
+========================================
+BALISQUAD: https://balisquad.com/event 200 305171
+  /event/<slug> anchors: 13
+   - /event/add
+   - /event/aspire-consulting-services-3ZUDa8
+   - /event/avenue-fitness-N1fBY3
+   - /event/bali-baza-aT9lhv
+   - /event/bali-volleyball-academy-70cdcJ
+   - /event/bukitsocial-IZ427w
+   - /event/bwellness-by-zenria-FqBgKW
+   - /event/desa-potato-head-bali-wuMfCo
