@@ -17,7 +17,7 @@ state is treated as first run.
 
 Canonical event fields (per contract)::
 
-    uid, name, location, description, start_utc, finish_utc, area, category,
+    uid, name, location, description, start_utc, finish_utc, all_day, area, category,
     cost, free, source_url, source, discovered_at, last_seen_at, sequence,
     status (confirmed|needs_review|stale|cancelled)
 """

@@ -28,12 +28,10 @@
   }
 
   function toFcEvent(ev) {
-    return {
+    var fc = {
       id: ev.uid,
       title: ev.name,
       classNames: [catSlug(ev.category)],
-      start: ev.start_utc,
-      end: ev.finish_utc || undefined,
       extendedProps: {
         area: ev.area,
         category: ev.category,
@@ -45,6 +43,19 @@
         source: ev.source,
       },
     };
+    if (isAllDay(ev)) {
+      // Date-only origins normalize to midnight WITA; express the all-day
+      // span as WITA calendar days so the event lands in the all-day slot
+      // on the correct date instead of a timed row the day before.
+      fc.allDay = true;
+      fc.start = witaDay(ev.start_utc);
+      fc.end = ev.finish_utc ? witaDay(ev.finish_utc) : witaDay(shiftUtc(ev.start_utc, 86400000));
+      if (fc.end <= fc.start) fc.end = witaDay(shiftUtc(ev.start_utc, 86400000));
+    } else {
+      fc.start = ev.start_utc;
+      fc.end = ev.finish_utc || undefined;
+    }
+    return fc;
   }
 
   function gcalDate(utcString) {
@@ -52,21 +63,41 @@
     return utcString.replace(/[-:]/g, "").replace(/\.\d+/, "");
   }
 
-  function gcalDay(utcString) {
-    // "2026-10-14T00:00:00Z" -> "20261014"
-    return gcalDate(utcString).slice(0, 8);
-  }
-
   function isMidnightUtc(utcString) {
     return (/T00:00:00(\.\d+)?Z$/).test(utcString || "");
   }
 
+  function isMidnightWita(utcString) {
+    // Date-only input normalizes to midnight WITA == 16:00:00Z the day before.
+    return (/T16:00:00(\.\d+)?Z$/).test(utcString || "");
+  }
+
+  function witaDay(utcString) {
+    // UTC instant -> WITA (UTC+8) calendar day "YYYY-MM-DD".
+    return new Date(Date.parse(utcString) + 8 * 3600000).toISOString().slice(0, 10);
+  }
+
+  // Multi-day exhibitions/promotions render as stacked all-day banners instead
+  // of squeezing every day-column in the timed grid. 24h keeps overnight
+  // parties (e.g. 19:00-04:00) timed while day-plus events become banners.
+  var LONG_EVENT_MS = 24 * 3600 * 1000;
+
   function isAllDay(ev) {
-    if (!ev.start_utc || !isMidnightUtc(ev.start_utc)) return false;
-    if (!ev.finish_utc) return true;
-    if (!isMidnightUtc(ev.finish_utc)) return false;
-    var ms = Date.parse(ev.finish_utc) - Date.parse(ev.start_utc);
-    return ms > 0 && ms % 86400000 === 0;
+    if (ev.all_day === true) return true;
+    if (!ev.start_utc) return false;
+    if (ev.finish_utc && Date.parse(ev.finish_utc) - Date.parse(ev.start_utc) >= LONG_EVENT_MS) return true;
+    if (isMidnightUtc(ev.start_utc)) {
+      if (!ev.finish_utc) return true;
+      if (!isMidnightUtc(ev.finish_utc)) return false;
+      var ms = Date.parse(ev.finish_utc) - Date.parse(ev.start_utc);
+      return ms > 0 && ms % 86400000 === 0;
+    }
+    // Legacy rows emitted before the all_day flag: a midnight-WITA start
+    // with a matching-or-absent finish means no time of day was scraped.
+    if (isMidnightWita(ev.start_utc)) {
+      return !ev.finish_utc || isMidnightWita(ev.finish_utc);
+    }
+    return false;
   }
 
   function shiftUtc(utcString, ms) {
@@ -76,9 +107,9 @@
   function buildGcalLink(ev) {
     var dates;
     if (isAllDay(ev)) {
-      var startDay = gcalDay(ev.start_utc);
-      var endDay = ev.finish_utc ? gcalDay(ev.finish_utc) : gcalDay(shiftUtc(ev.start_utc, 86400000));
-      if (endDay <= startDay) endDay = gcalDay(shiftUtc(ev.start_utc, 86400000));
+      var startDay = witaDay(ev.start_utc).replace(/-/g, "");
+      var endDay = ev.finish_utc ? witaDay(ev.finish_utc).replace(/-/g, "") : witaDay(shiftUtc(ev.start_utc, 86400000)).replace(/-/g, "");
+      if (endDay <= startDay) endDay = witaDay(shiftUtc(ev.start_utc, 86400000)).replace(/-/g, "");
       dates = startDay + "/" + endDay;
     } else {
       var endUtc = ev.finish_utc || shiftUtc(ev.start_utc, 3600000);
@@ -95,7 +126,13 @@
     return "https://calendar.google.com/calendar/render?" + params.toString();
   }
 
-  function fmtRange(startUtc, finishUtc) {
+  function fmtRange(startUtc, finishUtc, allDay) {
+    if (allDay) {
+      var dayOpts = { weekday: "short", year: "numeric", month: "short", day: "numeric", timeZone: "Asia/Makassar" };
+      var out = new Date(startUtc).toLocaleString(undefined, dayOpts) + " · All day";
+      if (finishUtc) out += " – " + new Date(finishUtc).toLocaleString(undefined, dayOpts);
+      return out;
+    }
     var opts = {
       weekday: "short",
       year: "numeric",
@@ -111,7 +148,7 @@
 
   function openDialog(ev) {
     document.getElementById("event-title").textContent = ev.name;
-    document.getElementById("event-time").textContent = fmtRange(ev.start_utc, ev.finish_utc);
+    document.getElementById("event-time").textContent = fmtRange(ev.start_utc, ev.finish_utc, isAllDay(ev));
     document.getElementById("event-location").textContent = ev.location || "—";
     document.getElementById("event-area").textContent = ev.area || "—";
     document.getElementById("event-category").textContent = ev.category || "—";
@@ -150,7 +187,7 @@
       var firstDate = allEvents.map(function (e) { return (e.start_utc || "").slice(0, 10); }).filter(Boolean).sort()[0];
       var el = document.getElementById("calendar");
       calendar = new FullCalendar.Calendar(el, {
-        initialView: isMobile ? "listWeek" : "timeGridWeek",
+        initialView: "listWeek",
         initialDate: firstDate,
         headerToolbar: {
           left: "prev,next today",

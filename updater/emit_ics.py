@@ -74,7 +74,8 @@ def _fold_line(line: str, limit: int = 75) -> list[str]:
         current_len += len(encoded)
     if chunk:
         parts.append(chunk.decode("utf-8"))
-    return parts
+    # RFC 5545 §3.1: each continuation line MUST start with a single space.
+    return [parts[0]] + [" " + p for p in parts[1:]]
 
 
 def _parse_dt(value: object) -> datetime | None:
@@ -104,8 +105,16 @@ def _format_stamp(moment: datetime) -> str:
 def _is_all_day(event: dict) -> bool:
     if event.get("all_day") is True:
         return True
-    start = str(event.get("start_utc") or "")
-    return bool(_DATE_ONLY_RE.match(start.strip()))
+    start = str(event.get("start_utc") or "").strip()
+    if _DATE_ONLY_RE.match(start):
+        return True
+    # Legacy rows emitted before the all_day flag: date-only input normalizes
+    # to midnight WITA (16:00:00Z the previous day), so that signature with a
+    # matching-or-absent finish means "no time of day was ever scraped".
+    if start.endswith("T16:00:00Z"):
+        finish = str(event.get("finish_utc") or "").strip()
+        return not finish or finish.endswith("T16:00:00Z")
+    return False
 
 
 def _all_day_date(value: object, fallback: datetime) -> str:

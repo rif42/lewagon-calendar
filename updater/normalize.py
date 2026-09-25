@@ -53,6 +53,15 @@ STATUS_ENUM = ("confirmed", "needs_review", "stale", "cancelled")
 
 _DATE_ONLY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
+def _is_date_only(value: object) -> bool:
+    """True when the raw value is a date without a time component."""
+    if isinstance(value, datetime):
+        return False
+    if isinstance(value, date):
+        return True
+    if isinstance(value, str):
+        return bool(_DATE_ONLY_RE.match(value.strip()))
+    return False
 
 def _wita_tz():
     return _WITA if _WITA is not None else _WITA_OFFSET
@@ -247,6 +256,9 @@ def normalize(raw: object, source: str, run_id: str) -> dict | None:
 
     finish_raw = raw.get("finish", raw.get("finish_utc", raw.get("end")))
     finish_utc = to_utc_iso(finish_raw) if finish_raw not in (None, "") else None
+    # Date-only raw input (e.g. now_bali day ranges) carries no time of day:
+    # keep that provenance so renderers can use the all-day slot.
+    all_day = _is_date_only(start_raw)
 
     location = str(raw.get("location") or "").strip()
     description = str(raw.get("description") or "").strip()
@@ -258,6 +270,7 @@ def normalize(raw: object, source: str, run_id: str) -> dict | None:
         "description": description,
         "start_utc": start_utc,
         "finish_utc": finish_utc,
+        "all_day": all_day,
         "area": _norm_enum(raw.get("area", raw.get("location")), _AREA_KEYWORDS, AREA_ENUM),
         "category": _norm_enum(raw.get("category"), _CATEGORY_KEYWORDS, CATEGORY_ENUM),
         "cost": _norm_cost(raw.get("cost")),

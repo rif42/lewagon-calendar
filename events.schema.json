@@ -27,6 +27,10 @@
       "format": "date-time",
       "description": "Event start in UTC (Z). Parsed from WITA (Asia/Makassar, UTC+8, no DST)."
     },
+    "all_day": {
+      "type": "boolean",
+      "description": "True when the source carried no time of day (date-only input). Renderers MUST place these in the all-day slot."
+    },
     "finish_utc": {
       "type": ["string", "null"],
       "format": "date-time",
