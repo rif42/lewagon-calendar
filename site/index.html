@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="subscribe-row">
-      <a class="btn" id="subscribe-google" href="https://calendar.google.com/calendar/render?cid=https%3A%2F%2Frif42.github.io%2Flewagon-calendar%2Fbali-events.ics%3Fv%3D4" target="_blank" rel="noopener">Subscribe (Google Calendar)</a>
+      <a class="btn" id="subscribe-google" href="https://calendar.google.com/calendar/r?cid=https%3A%2F%2Frif42.github.io%2Flewagon-calendar%2Fbali-events.ics%3Fv%3D4" target="_blank" rel="noopener">Subscribe (Google Calendar)</a>
       <a class="btn" id="download-ics" href="./bali-events.ics" download="bali-events.ics">Download snapshot (.ics)</a>
       <a class="btn btn-secondary" id="submit-event" href="https://tally.so/r/zxlZeM" target="_blank" rel="noopener">Submit an event</a>
     </div>
@@ -107,7 +107,7 @@
       var feedAbs = new URL("./bali-events.ics?v=4", window.location.href).href;
       var gsub = document.getElementById("subscribe-google");
       if (gsub) {
-        gsub.href = "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(feedAbs);
+        gsub.href = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(feedAbs);
         gsub.addEventListener("click", function () {
           if (navigator.clipboard && navigator.clipboard.writeText) {
             navigator.clipboard.writeText(feedAbs).catch(function () {});
