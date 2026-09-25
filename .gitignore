@@ -1,0 +1,8 @@
+.logs/
+.task/
+__pycache__/
+*.pyc
+*backup*
+*.bak
+site/bali-events.ics
+site/events.json

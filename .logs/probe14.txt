@@ -1,7 +1,0 @@
-\\"startDate\\":\\"([^"\\]+) -> 2026-09-25T12:00:00Z
-\\"endDate\\":\\"([^"\\]+) -> 2026-09-25T14:00:00Z
-\\"location\\":\{\\"@type\\":\\"Place\\" -> Bali Volleyball Academy (BVA)
-streetAddress\\":\\"([^"\\]*)\\" -> Bali Volleyball Academy (BVA)
-addressLocality\\":\\"([^"\\]*)\\" -> Kerobokan
-"name":"Place".{0,80}?name.{0,5}?([^,]{0 -> None
-postal ctx: location\":{\"@type\":\"Place\",\"name\":\"Bali Volleyball Academy (BVA)\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Bali Volleyball Academy (BVA)\",\"addressLocality\":\"Kerobokan\",\"addressRegion\":\"Bali\",\"addressCountry\":\"ID\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":-8.6479435,\"longitude\":115.1679877},\"sameAs\":\"https://maps.google.com/?cid=15417240034721512847\"},\"image\":[\"https://images.weserv.nl/?url=cdn.balisquad.com%2Forganizers%2Fb6ce2d9e-963b-4647-bae3-f852c3ce270f.jpg\u0026w=1200\u0026h=630\u0026fit=cover\u0026q=85\u0026output=jpg\"],\"org
