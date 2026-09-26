@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-09-25T08:23:43.276742Z",
-  "event_count": 65,
+  "ran_at": "2026-09-26T19:03:52.005299Z",
+  "event_count": 63,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 26,
-      "normalized": 26
+      "count": 25,
+      "normalized": 25
     },
     "notion_favolist": {
       "status": "ok",
@@ -14,18 +14,18 @@
     },
     "balisquad": {
       "status": "ok",
-      "count": 11,
-      "normalized": 11
+      "count": 12,
+      "normalized": 12
     },
     "honeycombers": {
       "status": "ok",
-      "count": 29,
-      "normalized": 29
+      "count": 25,
+      "normalized": 25
     },
     "now_bali": {
       "status": "ok",
-      "count": 6,
-      "normalized": 6
+      "count": 5,
+      "normalized": 5
     }
   }
 }

@@ -292,8 +292,9 @@ def fetch() -> list[dict]:
             return []
         cards = _parse_cards(listing_html)
         if not cards:
-            print(f"[{SOURCE}] no event cards found on {LISTING_URL}", file=sys.stderr)
-            return []
+            raise RuntimeError(
+                f"parser assert failed: no /event/ cards on {LISTING_URL}"
+            )
 
         events: list[dict] = []
         for index, card in enumerate(cards):
@@ -312,6 +313,8 @@ def fetch() -> list[dict]:
             else:
                 events.append(_card_fallback(card))
         return events
+    except RuntimeError:
+        raise
     except Exception as exc:
         print(f"[{SOURCE}] fetch failed: {exc}", file=sys.stderr)
         return []

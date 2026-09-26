@@ -257,6 +257,11 @@ def run(args: argparse.Namespace) -> dict:
         status["normalized"] = len(normalized)
         if norm_errors:
             status["normalize_errors"] = norm_errors
+        # Parser assert (README section 7): a listing that yields zero raw
+        # rows produced no dated links (redesign or block) -- error, not ok.
+        if status.get("status") == "ok" and status.get("count", 0) == 0:
+            status["status"] = "error"
+            status["error"] = "parser assert failed: yielded 0 raw events (no dated links)"
         if status.get("status") == "ok" and norm_errors and not normalized:
             status["status"] = "error"
             status["error"] = f"{norm_errors} event(s) failed normalization"

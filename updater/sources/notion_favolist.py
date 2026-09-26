@@ -160,7 +160,13 @@ def fetch():
                     file=sys.stderr,
                 )
                 continue
+        if not events:
+            raise RuntimeError(
+                "[%s] parser assert failed: query returned 0 rows" % SOURCE
+            )
         return events
+    except RuntimeError:
+        raise
     except Exception as exc:
         print("[%s] fetch failed: %r" % (SOURCE, exc), file=sys.stderr)
         return []
