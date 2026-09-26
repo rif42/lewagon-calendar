@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-09-26T19:03:52.005299Z",
-  "event_count": 63,
+  "ran_at": "2026-09-26T20:15:45.796174Z",
+  "event_count": 61,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -19,8 +19,8 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 25,
-      "normalized": 25
+      "count": 26,
+      "normalized": 26
     },
     "now_bali": {
       "status": "ok",
