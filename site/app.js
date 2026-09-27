@@ -197,7 +197,10 @@
         buttonText: { week: "Week", month: "Month", list: "List" },
         views: { timeGridWeek: { buttonText: "Week" }, dayGridMonth: { buttonText: "Month" }, listWeek: { buttonText: "List" } },
         aspectRatio: isMobile ? 0.6 : 1.35,
-        dayMaxEvents: isMobile ? 3 : true,
+        dayMaxEvents: 4,
+        eventMaxStack: 3,
+        slotEventOverlap: false,
+        allDayMaxEvents: 4,
         nowIndicator: true,
         events: visibleEvents(),
         eventClick: function (info) {
