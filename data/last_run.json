@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-09-27T08:50:29.544123Z",
-  "event_count": 68,
+  "ran_at": "2026-09-27T20:30:31.619255Z",
+  "event_count": 64,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -14,13 +14,13 @@
     },
     "balisquad": {
       "status": "ok",
-      "count": 11,
-      "normalized": 11
+      "count": 13,
+      "normalized": 13
     },
     "honeycombers": {
       "status": "ok",
-      "count": 25,
-      "normalized": 25
+      "count": 22,
+      "normalized": 22
     },
     "now_bali": {
       "status": "ok",
@@ -28,9 +28,10 @@
       "normalized": 5
     },
     "eventbrite": {
-      "status": "ok",
-      "count": 4,
-      "normalized": 4
+      "status": "error",
+      "count": 0,
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "meetup": {
       "status": "ok",
