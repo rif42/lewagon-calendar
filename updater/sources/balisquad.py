@@ -275,6 +275,15 @@ def _parse_detail(html: str, url: str, card: dict) -> dict | None:
         if anchor and _text(anchor):
             venue = _text(anchor)
     locality = _ld_field(html, "addressLocality")
+    # Listing <meta name="event:location"> (e.g. "Canggu") beats echoing
+    # the title when no street venue was scraped (2026-09-27: the Awan
+    # Connection card carried location=Canggu, venue fell back to title).
+    if not venue or venue == title:
+        meta_loc = soup.find("meta", attrs={"name": "event:location"})
+        if meta_loc and (meta_loc.get("content") or "").strip():
+            meta_val = meta_loc.get("content").strip()
+            if meta_val != title:
+                venue = meta_val
     if not venue:
         venue = (card.get("text") or "").split("|")[2].strip() if "|" in card.get("text", "") else ""
     location = venue + (", " + locality if locality and locality not in venue else "")
