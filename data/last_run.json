@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-09-27T20:30:31.619255Z",
-  "event_count": 64,
+  "ran_at": "2026-09-28T22:40:44.831666Z",
+  "event_count": 67,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 22,
-      "normalized": 22
+      "count": 21,
+      "normalized": 21
     },
     "notion_favolist": {
       "status": "ok",
@@ -24,8 +24,8 @@
     },
     "now_bali": {
       "status": "ok",
-      "count": 5,
-      "normalized": 5
+      "count": 6,
+      "normalized": 6
     },
     "eventbrite": {
       "status": "error",
