@@ -14,7 +14,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/ready-to-be-seen-n-1/",
     "source": "now_bali",
     "discovered_at": "2026-09-25T08:23:43.276742Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -33,7 +33,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/blue-peaceful-frequency-a-collective-art-exhibition/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -52,7 +52,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/atomic-17/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -71,7 +71,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/cascayu-promotion/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -90,7 +90,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/mooncake-for-the-mid-autumn-festival/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -109,7 +109,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/pizza-day-at-maha/",
     "source": "honeycombers",
     "discovered_at": "2026-09-29T21:34:17.784738Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -129,8 +129,8 @@
     "source": "balisquad",
     "discovered_at": "2026-09-28T22:40:44.831666Z",
     "last_seen_at": "2026-09-29T21:34:17.784738Z",
-    "sequence": 0,
-    "status": "cancelled"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "2f9c747de7b7baaa2f0e43d08aee50ecd431f1ec",
@@ -148,8 +148,8 @@
     "source": "balisquad",
     "discovered_at": "2026-09-28T22:40:44.831666Z",
     "last_seen_at": "2026-09-29T21:34:17.784738Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "8e52ebfba7d3e49e9562d771a01a4c3b74b31475",
@@ -167,8 +167,8 @@
     "source": "balisquad",
     "discovered_at": "2026-09-28T22:40:44.831666Z",
     "last_seen_at": "2026-09-29T21:34:17.784738Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "a80ca72db138182641c1ff9276122c141e203d7e",
@@ -186,8 +186,8 @@
     "source": "balisquad",
     "discovered_at": "2026-09-28T22:40:44.831666Z",
     "last_seen_at": "2026-09-29T21:34:17.784738Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "1d96db47a662cb3275aba4c5982d15c881fe18d4",
@@ -223,7 +223,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/te-mata-estate-wine-dinner/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -243,8 +243,8 @@
     "source": "balisquad",
     "discovered_at": "2026-09-28T22:40:44.831666Z",
     "last_seen_at": "2026-09-29T21:34:17.784738Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "f717c55b4f035e3b9b00cb0860d58c2ea6704f92",
@@ -262,8 +262,8 @@
     "source": "balisquad",
     "discovered_at": "2026-09-29T21:34:17.784738Z",
     "last_seen_at": "2026-09-29T21:34:17.784738Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "0f567b7e2d732be67cf9793b0d9a870250254615",
@@ -281,8 +281,8 @@
     "source": "balisquad",
     "discovered_at": "2026-09-29T21:34:17.784738Z",
     "last_seen_at": "2026-09-29T21:34:17.784738Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "13de4c9ac79221e4ec30cd386bc048121787fcac",
@@ -300,8 +300,8 @@
     "source": "balisquad",
     "discovered_at": "2026-09-29T21:34:17.784738Z",
     "last_seen_at": "2026-09-29T21:34:17.784738Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "5ecaa8e7fc5f41dee850e9f6528b5539a898f5ba",
@@ -318,7 +318,7 @@
     "source_url": "https://balisquad.com/event/bukitsocial-GlNk1N",
     "source": "balisquad",
     "discovered_at": "2026-09-29T21:34:17.784738Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -337,7 +337,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/glow-and-unwid/",
     "source": "honeycombers",
     "discovered_at": "2026-09-27T08:47:06.406699Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -356,7 +356,7 @@
     "source_url": "https://balisquad.com/event/bukithub-coworking-NK-SxJ",
     "source": "balisquad",
     "discovered_at": "2026-09-29T21:34:17.784738Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -375,7 +375,7 @@
     "source_url": "https://balisquad.com/event/alban-CCRLPv",
     "source": "balisquad",
     "discovered_at": "2026-09-29T21:34:17.784738Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -394,7 +394,7 @@
     "source_url": "https://balisquad.com/event/bukitsocial-eb5MYh",
     "source": "balisquad",
     "discovered_at": "2026-09-29T21:34:17.784738Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -402,7 +402,7 @@
     "uid": "65f7b77d12866c402a614471d80fc5780f7e7ed6",
     "name": "HOW TO BUILD A PROFITABLE PERSONAL BRAND",
     "location": "Mama Bali Rooftop & Restaurant",
-    "description": "9 going · BUILD A PROFITABLE PERSONAL BRAND Turn your expertise into high-quality leads, authority and opportunities. Some of the most capable service-b...",
+    "description": "10 going · BUILD A PROFITABLE PERSONAL BRAND Turn your expertise into high-quality leads, authority and opportunities. Some of the most capable service-...",
     "start_utc": "2026-10-01T10:30:00Z",
     "finish_utc": "2026-10-01T12:00:00Z",
     "all_day": false,
@@ -413,8 +413,8 @@
     "source_url": "https://balisquad.com/event/aspire-consulting-services-cZA7SE",
     "source": "balisquad",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
-    "sequence": 0,
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
+    "sequence": 1,
     "status": "confirmed"
   },
   {
@@ -432,7 +432,7 @@
     "source_url": "https://balisquad.com/event/loko-community-1-gs8J8l",
     "source": "balisquad",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -451,7 +451,7 @@
     "source_url": "https://balisquad.com/event/clever-crowd-trivia-kuspal",
     "source": "balisquad",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -470,7 +470,7 @@
     "source_url": "https://balisquad.com/event/secret-comedy-night-bali-V94QuZ",
     "source": "balisquad",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -489,7 +489,7 @@
     "source_url": "https://balisquad.com/event/secret-comedy-night-bali-Tmcm7X",
     "source": "balisquad",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -508,7 +508,7 @@
     "source_url": "https://balisquad.com/event/the-cashew-tree-nJxs3T",
     "source": "balisquad",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -527,7 +527,7 @@
     "source_url": "https://balisquad.com/event/ulu-cliffhouse-WXRvz0",
     "source": "balisquad",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -546,7 +546,7 @@
     "source_url": "https://balisquad.com/event/bali-remote-tribe-1-O8rsml",
     "source": "balisquad",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -565,28 +565,9 @@
     "source_url": "https://thehoneycombers.com/bali/event/bali-kbli-update-2026/",
     "source": "honeycombers",
     "discovered_at": "2026-09-26T19:03:52.005299Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
-  },
-  {
-    "uid": "8d3a0ade1b7f4f5175b0a608dfa9ce8146cbec11",
-    "name": "Bitcoin Beach Walk Bali",
-    "location": "Pererenan Beach, Jl. Pantai Pererenan No.171, Kabupaten Badung",
-    "description": "A Bitcoiner community meetup where we will walk from big **PERERENAN Beach sign** to **Warung Pantai Seseh.** We will head out at 17:10 sharp from Pererenan Beach sign, but (Organizer: Stacks Indonesia: Build on Bitcoin)",
-    "start_utc": "2026-10-02T09:00:00Z",
-    "finish_utc": null,
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Coworking & Tech",
-    "cost": null,
-    "free": false,
-    "source_url": "https://www.meetup.com/stacks-indonesia/events/316524856/",
-    "source": "meetup",
-    "discovered_at": "2026-09-27T08:47:06.406699Z",
-    "last_seen_at": "2026-09-28T22:40:44.831666Z",
-    "sequence": 1,
-    "status": "stale"
   },
   {
     "uid": "c12b54cb095a9c9a26bdddababa27f2bff40363f",
@@ -603,7 +584,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/the-october-pour/",
     "source": "honeycombers",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -622,7 +603,7 @@
     "source_url": "https://www.meetup.com/backyard-event-at-atlas-beach-club/events/316761694/",
     "source": "meetup",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -641,7 +622,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/friday-yo-yo/",
     "source": "honeycombers",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -660,7 +641,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/ivan-yanakov-in-concert-a-bali-children-foundation-fundraiser-at-padma-resort-legian/",
     "source": "now_bali",
     "discovered_at": "2026-09-28T22:40:44.831666Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -679,7 +660,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/ignite-2026/",
     "source": "now_bali",
     "discovered_at": "2026-09-25T08:23:43.276742Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -698,7 +679,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-stephan-jolk-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -717,7 +698,7 @@
     "source_url": "https://www.meetup.com/nomads-giving-back-bali-community/events/316744917/",
     "source": "meetup",
     "discovered_at": "2026-09-29T21:34:17.784738Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -736,7 +717,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/wellness-weekend-brunch/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -755,7 +736,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/ignite-fundraising-gala-2026/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -774,7 +755,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/sunset-beach-party-sat-3-oct-free-entry/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -793,7 +774,7 @@
     "source_url": "https://www.meetup.com/travelers-meetup-party/events/316675530/",
     "source": "meetup",
     "discovered_at": "2026-09-27T08:47:06.406699Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -812,7 +793,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/amici-presents-an-exclusive-evening-with-chef-enrico-bartolini/",
     "source": "now_bali",
     "discovered_at": "2026-09-25T08:23:43.276742Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -831,7 +812,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/iconic-italian-flavours-with-star-chef-luca-ciano/",
     "source": "honeycombers",
     "discovered_at": "2026-09-27T08:47:06.406699Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -850,7 +831,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-alex-wann-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -869,7 +850,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/chef-luca-ciano-at-bella-cucina/",
     "source": "honeycombers",
     "discovered_at": "2026-09-27T08:47:06.406699Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -888,28 +869,9 @@
     "source_url": "https://www.meetup.com/backyard-event-at-atlas-beach-club/events/316761802/",
     "source": "meetup",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
-  },
-  {
-    "uid": "25215ae6274b4a233b1e7b3ea7e1951f53301cc8",
-    "name": "Tuesday Game Night at Hatch",
-    "location": "Hatch Uluwatu",
-    "description": "TUESDAY GAMES NIGHT Every Tuesday from 5pm – 2am Embrace your competitive side at Tuesday Games Night! Join us at 5pm for thrilling game tournaments and ch... (weekly series)",
-    "start_utc": "2026-10-06T09:00:00Z",
-    "finish_utc": "2026-10-06T15:45:00Z",
-    "all_day": false,
-    "area": "Uluwatu",
-    "category": "Arts & Culture",
-    "cost": null,
-    "free": false,
-    "source_url": "https://balisquad.com/event/hatch-uluwatu-Wvjh3s",
-    "source": "balisquad",
-    "discovered_at": "2026-09-27T20:30:31.619255Z",
-    "last_seen_at": "2026-09-28T22:40:44.831666Z",
-    "sequence": 1,
-    "status": "stale"
   },
   {
     "uid": "371a9e08c55bafdd334a53ad13ef7fc711f55cc4",
@@ -926,7 +888,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/pizza-day-at-maha/",
     "source": "honeycombers",
     "discovered_at": "2026-09-29T21:34:17.784738Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -964,7 +926,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-diplo-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -983,7 +945,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/diplo-at-savaya-bali/",
     "source": "honeycombers",
     "discovered_at": "2026-09-27T08:47:06.406699Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1021,7 +983,7 @@
     "source_url": "https://balisquad.com/event/ulu-cliffhouse-WXRvz0",
     "source": "balisquad",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1059,7 +1021,7 @@
     "source_url": "https://www.meetup.com/nomads-giving-back-bali-community/events/316744913/",
     "source": "meetup",
     "discovered_at": "2026-09-29T21:34:17.784738Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1078,7 +1040,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/wellness-weekend-brunch/",
     "source": "honeycombers",
     "discovered_at": "2026-09-26T19:03:52.005299Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1097,7 +1059,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/a-decade-of-memories-an-intimate-evening-with-shanty/",
     "source": "honeycombers",
     "discovered_at": "2026-09-27T08:47:06.406699Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1116,7 +1078,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/sasama-collective-art-exhibitions/",
     "source": "honeycombers",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1154,7 +1116,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/pizza-day-at-maha/",
     "source": "honeycombers",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1173,7 +1135,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/oktoberfest-2026-at-suwarga-garden/",
     "source": "honeycombers",
     "discovered_at": "2026-09-28T22:40:44.831666Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1192,7 +1154,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-artbat-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1211,7 +1173,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/freedom-summit-v/",
     "source": "honeycombers",
     "discovered_at": "2026-09-28T22:40:44.831666Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1231,8 +1193,8 @@
     "source": "honeycombers",
     "discovered_at": "2026-09-28T22:40:44.831666Z",
     "last_seen_at": "2026-09-29T21:34:17.784738Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "6c0ecf6910e2fdb27b6ce5032061a7489ee92648",
@@ -1249,7 +1211,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/artbat-at-zumana-bali-friday-october-16th-2026/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 2,
     "status": "confirmed"
   },
@@ -1268,7 +1230,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/steps-of-hope-breast-cancer-charity-walk/",
     "source": "now_bali",
     "discovered_at": "2026-09-25T08:23:43.276742Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1287,7 +1249,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-zamna-oct-17-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1306,7 +1268,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-zamna-oct-18-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1326,8 +1288,8 @@
     "source": "honeycombers",
     "discovered_at": "2026-09-28T22:40:44.831666Z",
     "last_seen_at": "2026-09-29T21:34:17.784738Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "aec212d3ae6b3f73b574af11a4f7631ca7a94852",
@@ -1344,7 +1306,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/uwrf-2026/",
     "source": "now_bali",
     "discovered_at": "2026-09-25T08:23:43.276742Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1382,7 +1344,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-franky-wah-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1420,7 +1382,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-jonas-blue-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1439,7 +1401,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-hayden-james-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1458,7 +1420,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-elvis-guetta-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1477,7 +1439,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-mk-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1496,7 +1458,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-lee-burridge-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1515,7 +1477,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-damian-lazarus-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1534,7 +1496,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-dj-habibeats-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1553,7 +1515,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-joseph-capriati-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-09-24T07:54:16.801539Z",
-    "last_seen_at": "2026-09-30T15:49:07.026686Z",
+    "last_seen_at": "2026-09-30T21:34:46.619466Z",
     "sequence": 1,
     "status": "confirmed"
   }
