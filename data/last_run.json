@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-10-01T22:03:22.765474Z",
-  "event_count": 82,
+  "ran_at": "2026-10-02T21:28:59.166852Z",
+  "event_count": 85,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -19,13 +19,13 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 25,
-      "normalized": 25
+      "count": 34,
+      "normalized": 34
     },
     "now_bali": {
       "status": "ok",
-      "count": 6,
-      "normalized": 6
+      "count": 4,
+      "normalized": 4
     },
     "eventbrite": {
       "status": "error",
@@ -35,8 +35,8 @@
     },
     "meetup": {
       "status": "ok",
-      "count": 5,
-      "normalized": 5
+      "count": 4,
+      "normalized": 4
     },
     "bwork": {
       "status": "ok",
