@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-10-03T20:16:13.177218Z",
-  "event_count": 81,
+  "ran_at": "2026-10-04T20:32:38.852852Z",
+  "event_count": 73,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 29,
-      "normalized": 29
+      "count": 28,
+      "normalized": 28
     },
     "notion_favolist": {
       "status": "ok",
@@ -14,18 +14,18 @@
     },
     "balisquad": {
       "status": "ok",
-      "count": 11,
-      "normalized": 11
+      "count": 13,
+      "normalized": 13
     },
     "honeycombers": {
       "status": "ok",
-      "count": 28,
-      "normalized": 28
+      "count": 25,
+      "normalized": 25
     },
     "now_bali": {
       "status": "ok",
-      "count": 4,
-      "normalized": 4
+      "count": 3,
+      "normalized": 3
     },
     "eventbrite": {
       "status": "error",
@@ -35,8 +35,8 @@
     },
     "meetup": {
       "status": "ok",
-      "count": 3,
-      "normalized": 3
+      "count": 2,
+      "normalized": 2
     },
     "bwork": {
       "status": "ok",
