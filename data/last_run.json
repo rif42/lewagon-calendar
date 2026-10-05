@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-10-04T20:32:38.852852Z",
-  "event_count": 73,
+  "ran_at": "2026-10-05T23:23:59.887922Z",
+  "event_count": 68,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 28,
-      "normalized": 28
+      "count": 27,
+      "normalized": 27
     },
     "notion_favolist": {
       "status": "ok",
@@ -19,8 +19,8 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 25,
-      "normalized": 25
+      "count": 24,
+      "normalized": 24
     },
     "now_bali": {
       "status": "ok",
