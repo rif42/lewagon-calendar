@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-10-06T00:42:41.209634Z",
-  "event_count": 69,
+  "ran_at": "2026-10-06T21:56:27.605577Z",
+  "event_count": 79,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -14,8 +14,8 @@
     },
     "balisquad": {
       "status": "ok",
-      "count": 14,
-      "normalized": 14
+      "count": 12,
+      "normalized": 12
     },
     "honeycombers": {
       "status": "ok",
@@ -23,14 +23,16 @@
       "normalized": 24
     },
     "now_bali": {
-      "status": "ok",
-      "count": 3,
-      "normalized": 3
+      "status": "error",
+      "count": 0,
+      "error": "RuntimeError: parser assert failed: no /upcoming-events/ links on ['https://nowbali.co.id/all-events/?month=October', 'https://nowbali.co.id/all-events/?month=November']",
+      "normalized": 0
     },
     "eventbrite": {
-      "status": "ok",
-      "count": 4,
-      "normalized": 4
+      "status": "error",
+      "count": 0,
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "meetup": {
       "status": "ok",
@@ -43,9 +45,10 @@
       "normalized": 1
     },
     "bitcoinonly": {
-      "status": "ok",
-      "count": 1,
-      "normalized": 1
+      "status": "error",
+      "count": 0,
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     }
   }
 }
