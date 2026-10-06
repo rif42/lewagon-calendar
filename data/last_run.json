@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-10-05T23:23:59.887922Z",
-  "event_count": 68,
+  "ran_at": "2026-10-06T00:42:41.209634Z",
+  "event_count": 69,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -14,8 +14,8 @@
     },
     "balisquad": {
       "status": "ok",
-      "count": 13,
-      "normalized": 13
+      "count": 14,
+      "normalized": 14
     },
     "honeycombers": {
       "status": "ok",
@@ -28,10 +28,9 @@
       "normalized": 3
     },
     "eventbrite": {
-      "status": "error",
-      "count": 0,
-      "normalized": 0,
-      "error": "parser assert failed: yielded 0 raw events (no dated links)"
+      "status": "ok",
+      "count": 4,
+      "normalized": 4
     },
     "meetup": {
       "status": "ok",
@@ -40,9 +39,13 @@
     },
     "bwork": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2,
-      "note": "manual hoax-checked add 2026-09-30"
+      "count": 1,
+      "normalized": 1
+    },
+    "bitcoinonly": {
+      "status": "ok",
+      "count": 1,
+      "normalized": 1
     }
   }
 }
