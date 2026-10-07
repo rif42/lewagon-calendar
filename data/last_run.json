@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-10-06T21:56:27.605577Z",
-  "event_count": 79,
+  "ran_at": "2026-10-07T22:20:18.845718Z",
+  "event_count": 91,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -14,19 +14,18 @@
     },
     "balisquad": {
       "status": "ok",
-      "count": 12,
-      "normalized": 12
+      "count": 13,
+      "normalized": 13
     },
     "honeycombers": {
       "status": "ok",
-      "count": 24,
-      "normalized": 24
+      "count": 30,
+      "normalized": 30
     },
     "now_bali": {
-      "status": "error",
-      "count": 0,
-      "error": "RuntimeError: parser assert failed: no /upcoming-events/ links on ['https://nowbali.co.id/all-events/?month=October', 'https://nowbali.co.id/all-events/?month=November']",
-      "normalized": 0
+      "status": "ok",
+      "count": 5,
+      "normalized": 5
     },
     "eventbrite": {
       "status": "error",
@@ -36,8 +35,8 @@
     },
     "meetup": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "count": 4,
+      "normalized": 4
     },
     "bwork": {
       "status": "ok",
@@ -45,10 +44,9 @@
       "normalized": 1
     },
     "bitcoinonly": {
-      "status": "error",
-      "count": 0,
-      "normalized": 0,
-      "error": "parser assert failed: yielded 0 raw events (no dated links)"
+      "status": "ok",
+      "count": 3,
+      "normalized": 3
     }
   }
 }
