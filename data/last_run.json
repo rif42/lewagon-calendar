@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-10-09T21:55:14.368054Z",
-  "event_count": 80,
+  "ran_at": "2026-10-10T20:46:39.044409Z",
+  "event_count": 78,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 27,
-      "normalized": 27
+      "count": 32,
+      "normalized": 32
     },
     "notion_favolist": {
       "status": "ok",
@@ -14,8 +14,8 @@
     },
     "balisquad": {
       "status": "ok",
-      "count": 12,
-      "normalized": 12
+      "count": 14,
+      "normalized": 14
     },
     "honeycombers": {
       "status": "ok",
@@ -35,14 +35,13 @@
     },
     "meetup": {
       "status": "ok",
-      "count": 4,
-      "normalized": 4
+      "count": 3,
+      "normalized": 3
     },
     "bwork": {
-      "status": "error",
-      "count": 0,
-      "normalized": 0,
-      "error": "parser assert failed: yielded 0 raw events (no dated links)"
+      "status": "ok",
+      "count": 1,
+      "normalized": 1
     },
     "bitcoinonly": {
       "status": "ok",
