@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-10-11T21:07:43.137659Z",
-  "event_count": 98,
+  "ran_at": "2026-10-12T23:52:12.599709Z",
+  "event_count": 101,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 50,
-      "normalized": 50
+      "count": 61,
+      "normalized": 61
     },
     "notion_favolist": {
       "status": "ok",
@@ -24,8 +24,8 @@
     },
     "now_bali": {
       "status": "ok",
-      "count": 3,
-      "normalized": 3
+      "count": 4,
+      "normalized": 4
     },
     "eventbrite": {
       "status": "error",
@@ -39,9 +39,10 @@
       "normalized": 3
     },
     "bwork": {
-      "status": "ok",
-      "count": 1,
-      "normalized": 1
+      "status": "error",
+      "count": 0,
+      "error": "RuntimeError: parser assert failed: no dated links on https://bwork.id/canggu/",
+      "normalized": 0
     },
     "bitcoinonly": {
       "status": "ok",
