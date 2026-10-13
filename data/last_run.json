@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-10-12T23:52:12.599709Z",
-  "event_count": 101,
+  "ran_at": "2026-10-13T22:01:15.183373Z",
+  "event_count": 153,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -14,18 +14,18 @@
     },
     "balisquad": {
       "status": "ok",
-      "count": 14,
-      "normalized": 14
+      "count": 13,
+      "normalized": 13
     },
     "honeycombers": {
       "status": "ok",
-      "count": 28,
-      "normalized": 28
+      "count": 31,
+      "normalized": 31
     },
     "now_bali": {
       "status": "ok",
-      "count": 4,
-      "normalized": 4
+      "count": 5,
+      "normalized": 5
     },
     "eventbrite": {
       "status": "error",
