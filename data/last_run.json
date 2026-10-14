@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-10-13T22:01:15.183373Z",
-  "event_count": 153,
+  "ran_at": "2026-10-14T21:01:42.923104Z",
+  "event_count": 162,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 61,
-      "normalized": 61
+      "count": 67,
+      "normalized": 67
     },
     "notion_favolist": {
       "status": "ok",
