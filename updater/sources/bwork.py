@@ -234,9 +234,11 @@ def fetch() -> list[dict]:
     """Fetch raw Canggu coworking/tech events from bwork.id.
 
     Returns a list of dicts (possibly empty). Raises RuntimeError when
-    the listing yields zero dated cards (parser assert: a redesign
+    the listing yields zero event cards (parser assert: a redesign
     pages us instead of silently emptying the feed); per-page failures
-    are logged and skipped.
+    are logged and skipped. An empty list with cards present means no
+    in-window events (quiet fortnight), which the orchestrator merges
+    against last-good state.
     """
     try:
         session = requests.Session()
@@ -269,9 +271,13 @@ def fetch() -> list[dict]:
             events.append(event)
         print(f"[{SOURCE}] {len(events)} events from {len(cards)} cards")
         if not events:
-            raise RuntimeError(
-                f"parser assert failed: no dated links on {LISTING_URL}"
-            )
+            # Listing parsed fine (cards found) but nothing falls inside the
+            # today -> +14d discovery window (e.g. all cards are past-dated).
+            # That is a quiet fortnight, not a redesign: return [] so the
+            # orchestrator keeps last-good state instead of erroring.
+            print(f"[{SOURCE}] 0 in-window events from {len(cards)} cards "
+                  f"(all outside today -> +14d); returning []")
+            return []
         return events
     except RuntimeError:
         raise

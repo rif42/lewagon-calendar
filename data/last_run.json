@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-10-14T21:01:42.923104Z",
-  "event_count": 162,
+  "ran_at": "2026-10-15T04:56:41.012901Z",
+  "event_count": 160,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 67,
-      "normalized": 67
+      "count": 66,
+      "normalized": 66
     },
     "notion_favolist": {
       "status": "ok",
@@ -28,10 +28,9 @@
       "normalized": 5
     },
     "eventbrite": {
-      "status": "error",
-      "count": 0,
-      "normalized": 0,
-      "error": "parser assert failed: yielded 0 raw events (no dated links)"
+      "status": "ok",
+      "count": 5,
+      "normalized": 5
     },
     "meetup": {
       "status": "ok",
@@ -41,13 +40,18 @@
     "bwork": {
       "status": "error",
       "count": 0,
-      "error": "RuntimeError: parser assert failed: no dated links on https://bwork.id/canggu/",
-      "normalized": 0
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "bitcoinonly": {
       "status": "ok",
       "count": 2,
       "normalized": 2
+    },
+    "miranesia": {
+      "status": "ok",
+      "count": 32,
+      "normalized": 32
     }
   }
 }
