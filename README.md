@@ -184,6 +184,7 @@ commit (ALWAYS, even on failure) → Pages rebuild → fresh site
 | Honeycombers Bali | `thehoneycombers.com/bali/calendar/` (+ `/this-week/`, `/this-month/`) → `/bali/event/<slug>/` | Curated editorial: nightlife/F&B/arts w/ schema.org datetimes + venue addresses; Canggu-area coverage good (verified live 2026-09-24: Sep–Oct 2026 dated items incl. Zumana opening, Salsa Bajo el Sol Pererenan) | Static HTML, no bot-wall (plain-UA GET 200, ~138 KB, 63× `/bali/event/` anchors, `itemprop=startDate` on details); parse `meta[itemprop=startDate/endDate]`, `span[itemprop=name/address/price]`; island-wide so Tier-2, dedupe vs club-direct feeds |
 | BitcoinOnly Events | `bitcoinonly.events/bitcoin-indonesia/` → `/<slug>-<MMYY>/` (e.g. `/canggu-bitcoin-meetup-2610/`) | Canggu crypto anchor: "Upcoming events" list + per-event detail (date, WITA time, venue, organizer, free) | Plain-GET HTTP 200, server-rendered WP, no login/bot-wall (verified live 2026-10-06: 3 upcoming incl. Beginners Workshop Oct 9, Merchants + Canggu Meetup Oct 21). List: `div.upcoming_group_event` (title link + `Date: Fri, Oct 9, 2026` + `Time: 05:00 PM — 07:00 PM / (UTC +08:00) WITA (Bali)` + venue line); detail `Date:/Time:/Location:/Website:` fields corroborate. Keep Bali-venue rows only (hub covers all Indonesia); same-origin as bitcoinindonesia.xyz (detail Website links point there) — one origin for corroboration |
 | Miranesia | `miranesia.com/bali/tech` (+ `/bali/canggu`) → `/bali/<area>/<slug>-YYYY-MM-DD-<hexid>/` (e.g. `/bali/canggu/bitcoin-meetup-canggu-2026-10-21-ae787ed1384b`) | Canggu tech aggregator: 41 dated tech links island-wide (verified live 2026-10-15: Self Custody Workshop Oct 16 + AI Meetup Oct 19 @ Tropical Nomad + AI For Everyone Oct 20 @ BWork + Bitcoin Merchants/Meetup Oct 21, all Canggu) | Plain-GET HTTP 200, server-rendered, no login/bot-wall (~41 KB listing `ul.hub-evlist > li > a.hub-ev-link` absolute hrefs, slug embeds date+hexid; `.hub-ev-title/.hub-ev-meta/.hub-ev-tags`). Detail: schema.org JSON-LD Event (`startDate/endDate` +08:00, location name/locality/geo, offers price/url, organizer) corroborated by slug date + breadcrumb. Aggregation layer (upstream lu.ma/eventbrite booking URLs kept in description) — dedupe vs eventbrite.py, corroboration only |
+| Tropical Nomad | `tropicalnomad.id/events` (no detail pages — cards open modals; `source_url` = listing + `#<id>` fragment) | Canggu coworking anchor: This Week + Coming Up sections at Tropical Nomad Coworking, Jl. Subak Canggu No.2 (AI Meetup series, Toastmaster, Members Connect/BBQ, Bahasa, creative workshops) | Plain-GET HTTP 200, server-rendered, no login/bot-wall (verified live 2026-10-17: ~35 KB, 7 dated items incl. AI Meetup Oct 19 + Oct 22, Toastmaster Oct 21). Parse embedded `thisWeekEvents:[{id,title,location,tag,date:"October 19, 2026",time:"6:30 PM - 8:30 PM"}]` + `upcomingEvents:[...]` payloads (regex on `{id:"..",title:"..",location:"..",tag:"..",date:"..",time:".."}`); cross-check dated cards in HTML. Venue always on-site (footer address) — corroborates miranesia Tropical Nomad rows |
 | bali.com | `bali.com/events-calendar/`, `/nightlife/` | Perennial guides → **WEEKLIES ONLY** (FINNS, Old Man's, Savaya, La Favela) | Few dated events; cache aggressively |
 | El Kabron | `elkabron.com/<party>` pages | Recurring series ("Every Saturday") → **WEEKLIES ONLY** | List page is JS-shell; no dated instances |
 
@@ -198,7 +199,17 @@ commit (ALWAYS, even on failure) → Pages rebuild → fresh site
   rotating Indonesian slot-gambling spam, 0 event anchors/dates/JSON-LD) ·
   Songkick (duplicates Bandsintown) · Guideline list page (JS shell —
   use Baligasm instead, same pool, server-rendered; harvest real detail slugs,
-  never guess — a guessed Savaya slug 404'd).
+  never guess — a guessed Savaya slug 404'd) ·
+  First Foreigner `firstforeigner.com/events-in-bali/` (VERDICT 2026-10-17:
+  body truncated over plain GET, no confirmable dated anchors, live-map copy
+  suggests JS-rendered — runner-up only) ·
+  HowToBali `howtobali.com/events/` (VERDICT 2026-10-17: festivals/nightlife
+  focus, topical misfit for Canggu-tech) ·
+  Dojo Bali `dojobali.org/events/` (VERDICT 2026-10-17: ideal topical fit but
+  unverifiable — hostname resolves to non-public IP in the verifier, page copy
+  pushes Facebook for updates; re-check when reachable) ·
+  Nexudus member portal `tropicalnomad.spaces.nexudus.com/events` (VERDICT
+  2026-10-17: HTTP 500 on plain GET — use `tropicalnomad.id/events` instead).
 
 ### Dedup priority (one event = one entry, prefer ticket-link source)
 
