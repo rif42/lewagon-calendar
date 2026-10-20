@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-10-20T19:19:56.544500Z",
-  "event_count": 184,
+  "ran_at": "2026-10-20T20:56:52.478483Z",
+  "event_count": 182,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -28,9 +28,10 @@
       "normalized": 2
     },
     "eventbrite": {
-      "status": "ok",
-      "count": 5,
-      "normalized": 5
+      "status": "error",
+      "count": 0,
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "meetup": {
       "status": "ok",

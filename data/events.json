@@ -14,7 +14,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/atomic-17/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -33,7 +33,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/cascayu-promotion/",
     "source": "honeycombers",
     "discovered_at": "2026-09-25T07:55:32.648533Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -52,7 +52,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/the-art-of-coffee-at-the-lobby-bar-and-lounge-the-westin-resort-nusa-dua-bali/",
     "source": "honeycombers",
     "discovered_at": "2026-10-02T21:28:59.166852Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -71,7 +71,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/glow-and-unwid/",
     "source": "honeycombers",
     "discovered_at": "2026-09-27T08:47:06.406699Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -90,7 +90,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/mr-smash-burger-cowboy-candy-combo/",
     "source": "honeycombers",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -109,7 +109,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/circa-friday-luigis-x-say-less/",
     "source": "honeycombers",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -128,7 +128,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/sasama-collective-art-exhibitions/",
     "source": "honeycombers",
     "discovered_at": "2026-09-30T15:49:07.026686Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -147,7 +147,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/italian-buffet-night/",
     "source": "honeycombers",
     "discovered_at": "2026-10-02T21:28:59.166852Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -167,8 +167,8 @@
     "source": "balisquad",
     "discovered_at": "2026-10-17T19:27:34.980989Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 2,
-    "status": "confirmed"
+    "sequence": 3,
+    "status": "stale"
   },
   {
     "uid": "b25a8fa125476e3c53b50aa688c5b65f764b7204",
@@ -186,8 +186,8 @@
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "5d0161346422d929ad53dd8db49323b037dd3384",
@@ -205,8 +205,8 @@
     "source": "balisquad",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "aee88350eb64017fcb64c0d4ba34afd1538bb657",
@@ -224,8 +224,8 @@
     "source": "balisquad",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "2502cb3f3f0469e9c7fdab49f36b6a6d2eda2834",
@@ -243,8 +243,8 @@
     "source": "tropicalnomad",
     "discovered_at": "2026-10-17T19:27:34.980989Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "cb1eb9069938ad4796273407dd69ce3a78ce0c98",
@@ -262,8 +262,8 @@
     "source": "balisquad",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "3c88757af2c40cb05f07004c7045780aecb24f7f",
@@ -281,8 +281,8 @@
     "source": "balisquad",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "665b1d2bb0eb38cde9861fade1ca63f64f594f56",
@@ -300,8 +300,8 @@
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "df4f72e052bea92011586b9a077afc139b2b1a32",
@@ -319,8 +319,8 @@
     "source": "balisquad",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "6df7661cca616a26ed5875649e24320929e128ac",
@@ -337,7 +337,7 @@
     "source_url": "https://baligasm.com/event/desa-kitsune-grossomodo-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -357,8 +357,8 @@
     "source": "balisquad",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "8ed0618a51970b003f37cb27647a1480ddd0ec82",
@@ -376,8 +376,8 @@
     "source": "balisquad",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "aec212d3ae6b3f73b574af11a4f7631ca7a94852",
@@ -395,8 +395,8 @@
     "source": "now_bali",
     "discovered_at": "2026-09-25T08:23:43.276742Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "a74014d540af3a1ec3cfe7e32d521819608c06e2",
@@ -413,7 +413,7 @@
     "source_url": "https://miranesia.com/bali/sanur/igdx-business-conference-2026-2026-10-21-59162c346764/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -432,7 +432,7 @@
     "source_url": "https://miranesia.com/bali/sanur/launching-the-first-ai-venture-builder-course-in-indonesia-2026-10-21-8486d6481c59/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -451,7 +451,7 @@
     "source_url": "https://balisquad.com/event/bwork-uluwatu-MzUGCz",
     "source": "balisquad",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -470,7 +470,7 @@
     "source_url": "https://balisquad.com/event/learnly-society-rxW7lq",
     "source": "balisquad",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -489,7 +489,7 @@
     "source_url": "https://miranesia.com/bali/sanur/bali-tech-week-2026-10-21-db6d74c946c0/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -508,7 +508,7 @@
     "source_url": "https://bitcoinindonesia.xyz/bitcoin_event/bitcoin-for-merchants-use-bitcoin-for-your-business-bali-bitcoin-island-10/",
     "source": "bitcoinid_bali",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -527,7 +527,7 @@
     "source_url": "https://bitcoinonly.events/bitcoin-for-merchants-workshop-bitcoin-house-bali-2610/",
     "source": "bitcoinonly",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -546,7 +546,7 @@
     "source_url": "https://miranesia.com/bali/canggu/bitcoin-for-merchants-2026-10-21-45a31b18b113/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -565,7 +565,7 @@
     "source_url": "https://balisquad.com/event/loko-community-1-8UgqHl",
     "source": "balisquad",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "cancelled"
   },
@@ -584,7 +584,7 @@
     "source_url": "https://balisquad.com/event/downtime-bali-RP9Ccv",
     "source": "balisquad",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -603,7 +603,7 @@
     "source_url": "https://balisquad.com/event/loko-community-1-OHyx1t",
     "source": "balisquad",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -622,7 +622,7 @@
     "source_url": "https://bitcoinindonesia.xyz/bitcoin_event/bitcoin-meetup-canggu-11/",
     "source": "bitcoinid_bali",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -641,7 +641,7 @@
     "source_url": "https://bitcoinonly.events/canggu-bitcoin-meetup-2610/",
     "source": "bitcoinonly",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -660,7 +660,7 @@
     "source_url": "https://miranesia.com/bali/canggu/bitcoin-meetup-canggu-2026-10-21-ae787ed1384b/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -679,7 +679,7 @@
     "source_url": "https://miranesia.com/bali/canggu/how-tiktok-knows-you-better-than-you-do-2026-10-21-94b7d0b9b70e/",
     "source": "miranesia",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -698,7 +698,7 @@
     "source_url": "https://baligasm.com/event/ubud-writers-and-readers-festival-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -717,7 +717,7 @@
     "source_url": "https://balisquad.com/event/loko-community-1-LqNcbJ",
     "source": "balisquad",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -736,7 +736,7 @@
     "source_url": "https://balisquad.com/event/bukitsocial-gv-0G4",
     "source": "balisquad",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -755,7 +755,7 @@
     "source_url": "https://balisquad.com/event/toastmasters-in-canggu-Pi1T5_",
     "source": "balisquad",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -774,7 +774,7 @@
     "source_url": "https://tropicalnomad.id/events#mh43d332t09f346",
     "source": "tropicalnomad",
     "discovered_at": "2026-10-17T19:27:34.980989Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -793,7 +793,7 @@
     "source_url": "https://balisquad.com/event/the-space-LKqjrR",
     "source": "balisquad",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -812,7 +812,7 @@
     "source_url": "https://balisquad.com/event/secret-comedy-night-bali-ZUbtsG",
     "source": "balisquad",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -831,7 +831,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-nitefreak-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -850,7 +850,7 @@
     "source_url": "https://balisquad.com/event/celiztial-astronomy-stargazing-1-im1dzO",
     "source": "balisquad",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -869,7 +869,7 @@
     "source_url": "https://www.meetup.com/celiztial-astro/events/316991370/",
     "source": "meetup",
     "discovered_at": "2026-10-16T20:08:59.366087Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -888,7 +888,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/tropical-reverie-a-two-day-exclusive-afternoon-tea-by-chef-julien-perrinet/",
     "source": "now_bali",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -907,7 +907,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/uwrf-2026/",
     "source": "now_bali",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -926,7 +926,7 @@
     "source_url": "https://balisquad.com/event/bukitsocial-xQItRp",
     "source": "balisquad",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -945,7 +945,7 @@
     "source_url": "https://miranesia.com/bali/sanur/hackanur-2026-10-22-a5327b27714f/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -964,7 +964,7 @@
     "source_url": "https://miranesia.com/bali/sanur/workshop-2026-10-22-2c243c27fb4f/",
     "source": "miranesia",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 2,
     "status": "confirmed"
   },
@@ -983,7 +983,7 @@
     "source_url": "https://miranesia.com/bali/sanur/action-ai-workshop-2026-10-22-063672690dbb/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1002,7 +1002,7 @@
     "source_url": "https://miranesia.com/bali/sanur/esg-sustainability-climate-tech-networking-lunch-2026-10-22-03aa3d28888a/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1021,7 +1021,7 @@
     "source_url": "https://miranesia.com/bali/sanur/towards-digital-sovereignty-2026-10-22-5b5475444d76/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1040,7 +1040,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/tropical-reverie-afternoon-tea-at-andaz-bali-by-chef-julien/",
     "source": "honeycombers",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1059,7 +1059,7 @@
     "source_url": "https://miranesia.com/bali/sanur/private-session-2026-10-22-0771b3fd1c5a/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1078,7 +1078,7 @@
     "source_url": "https://miranesia.com/bali/sanur/digital-literacy-circle-2026-10-22-2e85e5feae15/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T20:35:53.124052Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1097,7 +1097,7 @@
     "source_url": "https://miranesia.com/bali/canggu/ai-meetup-2026-10-22-775d4f5b1923/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1116,7 +1116,7 @@
     "source_url": "https://miranesia.com/bali/canggu/canggu-ai-meetup-2026-10-22-fd802c8206f1/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1135,7 +1135,7 @@
     "source_url": "https://tropicalnomad.id/events#0xn8z2ef27f71fg",
     "source": "tropicalnomad",
     "discovered_at": "2026-10-17T19:27:34.980989Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1154,7 +1154,7 @@
     "source_url": "https://miranesia.com/bali/sanur/from-prototype-to-production-2026-10-23-251ba9434f67/",
     "source": "miranesia",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1174,8 +1174,8 @@
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "f423fff345d13485fa9d6947c5be7399da3b249f",
@@ -1192,7 +1192,7 @@
     "source_url": "https://miranesia.com/bali/sanur/energy-mining-arbitration-workshop-2-2026-10-23-aef449c25cf3/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1211,7 +1211,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-full-moon-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1227,11 +1227,11 @@
     "category": "Coworking & Tech",
     "cost": null,
     "free": false,
-    "source_url": "https://miranesia.com/bali/canggu/bali-builders-meet-so-many-projects-so-why-is-cash-still-tig-2026-10-23-2967047bb7f1/",
+    "source_url": "https://miranesia.com/bali/canggu/bali-builders-meet-2026-10-23-2967047bb7f1/",
     "source": "miranesia",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
-    "sequence": 0,
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
+    "sequence": 1,
     "status": "confirmed"
   },
   {
@@ -1249,7 +1249,7 @@
     "source_url": "https://miranesia.com/bali/canggu/bitcoin-workshop-2026-10-23-2bcc9eba4971/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1268,7 +1268,7 @@
     "source_url": "https://tropicalnomad.id/events#utaykke85c99rog",
     "source": "tropicalnomad",
     "discovered_at": "2026-10-17T19:27:34.980989Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1287,7 +1287,7 @@
     "source_url": "https://baligasm.com/event/w-bali-seminyak-erika-pena-20th-anniversary-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1306,7 +1306,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/waatu-takes-over-buzo-nom-nom-x-cocktail-collective/",
     "source": "honeycombers",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1325,7 +1325,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-vanco-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1344,7 +1344,7 @@
     "source_url": "https://www.meetup.com/nomads-giving-back-bali-community/events/317005944/",
     "source": "meetup",
     "discovered_at": "2026-10-17T19:27:34.980989Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1363,7 +1363,7 @@
     "source_url": "https://miranesia.com/bali/undisclosed/maintainable-ios-apps-2026-10-24-fa6716fde9bc/",
     "source": "miranesia",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1382,7 +1382,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-franky-wah-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1401,7 +1401,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/billiard-competition-at-maha-resort-bali/",
     "source": "honeycombers",
     "discovered_at": "2026-10-16T20:08:59.366087Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1420,7 +1420,7 @@
     "source_url": "https://miranesia.com/bali/canggu/builders-house-2026-10-24-3f260fd8fcac/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1439,7 +1439,7 @@
     "source_url": "https://baligasm.com/event/sol-rooftop-bali-shock-one-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1458,7 +1458,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/house-of-love-session-002/",
     "source": "honeycombers",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1477,28 +1477,9 @@
     "source_url": "https://thehoneycombers.com/bali/event/chef-blake-thorney-brenton-banner-blossom-steakhouse/",
     "source": "honeycombers",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 1,
     "status": "confirmed"
-  },
-  {
-    "uid": "2e86fd8120aa69c093948b744c6fa7996e9ad3a7",
-    "name": "Maintainable iOS Apps",
-    "location": "Bali",
-    "description": "Reva Prasetya shares engineering perspectives on sustaining iOS apps, with a focus on Swift and clean architecture. An interactive discussion offers practical approaches to building reliable, testable features for iOS developers and Swift learners. (Organizer: Kusuma) Register: https://lu.ma/4y9qhhdd",
-    "start_utc": "2026-10-24T15:00:00Z",
-    "finish_utc": null,
-    "all_day": false,
-    "area": "Other",
-    "category": "Coworking & Tech",
-    "cost": "0",
-    "free": true,
-    "source_url": "https://miranesia.com/bali/undisclosed/maintainable-ios-apps-2026-10-24-fa6716fde9bc/",
-    "source": "miranesia",
-    "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-18T19:45:32.092256Z",
-    "sequence": 1,
-    "status": "stale"
   },
   {
     "uid": "58fc65233291794e1bf6a2a5fb1ab152f78a73d7",
@@ -1515,7 +1496,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-nico-de-andrea-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1534,7 +1515,7 @@
     "source_url": "https://miranesia.com/bali/canggu/grok-bot-meetup-bali-2026-10-25-710e9f48bce4/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1553,7 +1534,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/balinese-megibung-art-cafe-bumbu-bali/",
     "source": "honeycombers",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1572,7 +1553,7 @@
     "source_url": "https://miranesia.com/bali/ubud/beloved-clients-2026-10-26-8b918410c96d/",
     "source": "miranesia",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1591,8 +1572,27 @@
     "source_url": "https://thehoneycombers.com/bali/event/land-sea-juicy-burgers-fresh-seafood-oneeighty/",
     "source": "honeycombers",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 1,
+    "status": "confirmed"
+  },
+  {
+    "uid": "354173357568a19decf179d15155d4108edda8ea",
+    "name": "Agentic Engineering and Vibe Coding Meetup",
+    "location": "Bitcoin House, Canggu",
+    "description": "Bitcoiners, business owners and non-coders get to try AI tools like Replit, Codex and Shakespeare in a small group, learning from each other as they go. You'll leave with real hands-on experience and ideas for building your own website or app with AI. Bring your questions. (Organizer: Code Orange Dev School) Register: https://www.eventbrite.com/e/agentic-engineering-and-vibe-coding-meetup-tickets-1986686967199",
+    "start_utc": "2026-10-27T09:00:00Z",
+    "finish_utc": "2026-10-27T10:30:00Z",
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Coworking & Tech",
+    "cost": null,
+    "free": false,
+    "source_url": "https://miranesia.com/bali/canggu/agentic-engineering-and-vibe-coding-meetup-2026-10-27-2694e3cae2a7/",
+    "source": "miranesia",
+    "discovered_at": "2026-10-15T04:46:59.190032Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
+    "sequence": 0,
     "status": "confirmed"
   },
   {
@@ -1615,25 +1615,6 @@
     "status": "confirmed"
   },
   {
-    "uid": "354173357568a19decf179d15155d4108edda8ea",
-    "name": "Agentic Engineering and Vibe Coding Meetup",
-    "location": "Bitcoin House, Canggu",
-    "description": "Bitcoiners, business owners and non-coders get to try AI tools like Replit, Codex and Shakespeare in a small group, learning from each other as they go. You'll leave with real hands-on experience and ideas for building your own website or app with AI. Bring your questions. (Organizer: Code Orange Dev School) Register: https://www.eventbrite.com/e/agentic-engineering-and-vibe-coding-meetup-tickets-1986686967199",
-    "start_utc": "2026-10-27T09:00:00Z",
-    "finish_utc": "2026-10-27T10:30:00Z",
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Coworking & Tech",
-    "cost": null,
-    "free": false,
-    "source_url": "https://miranesia.com/bali/canggu/agentic-engineering-and-vibe-coding-meetup-2026-10-27-2694e3cae2a7/",
-    "source": "miranesia",
-    "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
     "uid": "93b3bd396e7daa92738bcf1fb87c957b65897341",
     "name": "Tuesday Game Night at Hatch",
     "location": "Hatch Uluwatu",
@@ -1649,8 +1630,8 @@
     "source": "balisquad",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "13b0d3d043bfe1370dbbcdcfe54f26dfb50aa3f9",
@@ -1667,7 +1648,7 @@
     "source_url": "https://tropicalnomad.id/events#2439670926gdx47",
     "source": "tropicalnomad",
     "discovered_at": "2026-10-17T19:27:34.980989Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1686,7 +1667,7 @@
     "source_url": "https://miranesia.com/bali/canggu/ai-for-everyone-with-harry-verity-2026-10-27-c3f88b9d6c98/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1705,7 +1686,7 @@
     "source_url": "https://baligasm.com/event/desa-kitsune-les-clowns-du-chaos-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1725,8 +1706,8 @@
     "source": "balisquad",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "ff4439059966cbdd3ff0a49a818cfc5775ad0ca2",
@@ -1743,7 +1724,7 @@
     "source_url": "https://tropicalnomad.id/events#25qcw26146qx966",
     "source": "tropicalnomad",
     "discovered_at": "2026-10-17T19:27:34.980989Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1762,7 +1743,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/teppanyaki-special-menu-and-sake-night/",
     "source": "honeycombers",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1781,7 +1762,7 @@
     "source_url": "https://baligasm.com/event/da-maria-inno-halloween-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1800,7 +1781,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-franky-wah-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1819,28 +1800,9 @@
     "source_url": "https://thehoneycombers.com/bali/event/two-kitchen-one-table-satoshi-x-kindling/",
     "source": "honeycombers",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
-  },
-  {
-    "uid": "4d8bb1fea912bda6cb6c8fdebf27e042c3ff675b",
-    "name": "Two Kitchen One Table | SATOSHI x KINDLING",
-    "location": "Satoshi Bali, Jl. Raya Bumbak No.55, Kerobokan, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
-    "description": "An evening of culinary exchange comes to SATOSHI as we welcome KINDLING Jakarta for a special kitchen collaboration with Chef Vallian Gunawan. Bringing together two kitchens, distinct perspectives, and a shared passion for culinary craft, this one-night gathering invites you to experience an exciting meeting of flavours in the intimate atmosphere of SATOSHI. Join us […]",
-    "start_utc": "2026-10-28T12:00:00Z",
-    "finish_utc": "2026-10-28T15:59:00Z",
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Food & Drink",
-    "cost": "1800000++",
-    "free": false,
-    "source_url": "https://thehoneycombers.com/bali/event/two-kitchen-one-table-satoshi-x-kindling/",
-    "source": "honeycombers",
-    "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-18T19:45:32.092256Z",
-    "sequence": 1,
-    "status": "stale"
   },
   {
     "uid": "28269c7eec49fd829b90c636cf513306c417a9dc",
@@ -1857,7 +1819,7 @@
     "source_url": "https://miranesia.com/bali/sanur/hackanur-2026-10-29-1414bdeff76f/",
     "source": "miranesia",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1876,7 +1838,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-full-moon-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1895,7 +1857,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/shelter-session-vol-13/",
     "source": "honeycombers",
     "discovered_at": "2026-10-17T19:45:18.218734Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1914,7 +1876,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/halloween-party-ubud-the-blue-door/",
     "source": "honeycombers",
     "discovered_at": "2026-10-03T20:16:13.177218Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 4,
     "status": "confirmed"
   },
@@ -1933,7 +1895,7 @@
     "source_url": "https://www.meetup.com/backyard-event-at-atlas-beach-club/events/316866983/",
     "source": "meetup",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1952,7 +1914,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/local-gastronomy-legacy-global-recognition/",
     "source": "honeycombers",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1971,7 +1933,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/7am-bakers-7pm-diners-bakers-market/",
     "source": "honeycombers",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1990,7 +1952,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-jonas-blue-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2009,7 +1971,7 @@
     "source_url": "https://baligasm.com/event/sundays-beach-club-hunters-moon-beach-party-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2028,7 +1990,7 @@
     "source_url": "https://baligasm.com/event/desa-kitsune-sinners-soiree-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2047,7 +2009,7 @@
     "source_url": "https://baligasm.com/event/the-mesa-bali-junction-africa-vol-9-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2066,7 +2028,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-chris-luno-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2085,7 +2047,7 @@
     "source_url": "https://baligasm.com/event/ulu-cliffhouse-amour-in-paradise-x-sussudio-halloween-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2104,7 +2066,7 @@
     "source_url": "https://baligasm.com/event/block42-at-nuanu-transit-halloween-pre-party-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2124,8 +2086,8 @@
     "source": "honeycombers",
     "discovered_at": "2026-10-17T19:45:18.218734Z",
     "last_seen_at": "2026-10-19T21:46:53.768867Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "41929f8169b3098b786ec15d2174ac8cc3c785af",
@@ -2142,7 +2104,7 @@
     "source_url": "https://www.meetup.com/nomads-giving-back-bali-community/events/317006229/",
     "source": "meetup",
     "discovered_at": "2026-10-17T19:27:34.980989Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2161,7 +2123,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/little-monsters-halloween-brunch/",
     "source": "honeycombers",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2180,7 +2142,7 @@
     "source_url": "https://baligasm.com/event/atlas-beach-club-murder-on-the-dance-floor-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2199,7 +2161,7 @@
     "source_url": "https://baligasm.com/event/atlas-super-club-canggu-fight-night-41-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -2218,7 +2180,7 @@
     "source_url": "https://baligasm.com/event/luna-beach-club-jungle-of-the-damned-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2237,7 +2199,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-odyssey-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2256,7 +2218,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-hayden-james-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2275,7 +2237,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/kamasan-portait-painting-workshop-with-bali-artist-made-chandra/",
     "source": "honeycombers",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2294,7 +2256,7 @@
     "source_url": "https://baligasm.com/event/nuanu-creative-city-shows-on-ice-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2313,7 +2275,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/vines-after-dark/",
     "source": "honeycombers",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2332,7 +2294,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/pasar-senggol-night-market-carnival/",
     "source": "honeycombers",
     "discovered_at": "2026-10-20T19:19:56.544500Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2351,7 +2313,7 @@
     "source_url": "https://baligasm.com/event/desa-kitsune-disko-afrika-night-of-the-shadows-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2370,7 +2332,7 @@
     "source_url": "https://baligasm.com/event/la-brisa-bali-halloween-basement-love-x-pnny-ft-young-marco-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2389,7 +2351,7 @@
     "source_url": "https://baligasm.com/event/ulu-cliffhouse-lost-and-found-halloween-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2408,7 +2370,7 @@
     "source_url": "https://baligasm.com/event/tabu-dia-de-los-muertos-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2427,7 +2389,7 @@
     "source_url": "https://baligasm.com/event/block42-at-nuanu-dracula-on-ice-halloween-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -2446,7 +2408,7 @@
     "source_url": "https://baligasm.com/event/gate-88-unchained-halloween-face2face-rave-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2465,7 +2427,7 @@
     "source_url": "https://baligasm.com/event/atlas-super-club-halloween-latin-party-oct-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2484,7 +2446,7 @@
     "source_url": "https://baligasm.com/event/ku-de-ta-family-sunday-halloween-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2503,7 +2465,7 @@
     "source_url": "https://baligasm.com/event/atlas-beach-club-rnb-sundays-day-fade-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2522,7 +2484,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-halloween-costume-contest-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2541,7 +2503,7 @@
     "source_url": "https://baligasm.com/event/kuta-social-club-melbourne-cup-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2560,7 +2522,7 @@
     "source_url": "https://baligasm.com/event/desa-kitsune-jordan-john-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2579,7 +2541,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-enoo-napa-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2598,7 +2560,7 @@
     "source_url": "https://baligasm.com/event/nuanu-creative-city-genius-future-summit-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2617,7 +2579,26 @@
     "source_url": "https://baligasm.com/event/savaya-bali-yousuke-yukimatsu-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "4dcad439c0f541d231ed0e0f766c6404814e71d9",
+    "name": "Bitcoin Beach Walk Bali",
+    "location": "Pererenan Beach, Jl. Pantai Pererenan No.171, Kabupaten Badung",
+    "description": "A Bitcoiner community meetup where we will walk from big **PERERENAN Beach sign** to **Warung Pantai Seseh.** We will head out at 17:10 sharp from Pererenan Beach sign, but (Organizer: Stacks Indonesia: Build on Bitcoin)",
+    "start_utc": "2026-11-06T09:00:00Z",
+    "finish_utc": null,
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Coworking & Tech",
+    "cost": null,
+    "free": false,
+    "source_url": "https://www.meetup.com/stacks-indonesia/events/317022482/",
+    "source": "meetup",
+    "discovered_at": "2026-10-18T19:45:32.092256Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2641,25 +2622,6 @@
     "status": "confirmed"
   },
   {
-    "uid": "4dcad439c0f541d231ed0e0f766c6404814e71d9",
-    "name": "Bitcoin Beach Walk Bali",
-    "location": "Pererenan Beach, Jl. Pantai Pererenan No.171, Kabupaten Badung",
-    "description": "A Bitcoiner community meetup where we will walk from big **PERERENAN Beach sign** to **Warung Pantai Seseh.** We will head out at 17:10 sharp from Pererenan Beach sign, but (Organizer: Stacks Indonesia: Build on Bitcoin)",
-    "start_utc": "2026-11-06T09:00:00Z",
-    "finish_utc": null,
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Coworking & Tech",
-    "cost": null,
-    "free": false,
-    "source_url": "https://www.meetup.com/stacks-indonesia/events/317022482/",
-    "source": "meetup",
-    "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
     "uid": "767e0c2a5c9ae0c09b02c2cfe12efcc72e3d67fe",
     "name": "ELVIS GUETTA",
     "location": "Zumana Bali, Jl. Kartika Plaza No.2, Kuta, Badung, 80361",
@@ -2674,7 +2636,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-elvis-guetta-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2693,7 +2655,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-patrick-mason-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2712,7 +2674,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-cameron-jack-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2731,7 +2693,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-elvis-guetta-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2769,7 +2731,7 @@
     "source_url": "https://baligasm.com/event/desa-kitsune-baron-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2788,7 +2750,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-tayllor-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2807,7 +2769,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-southern-tribe-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2845,7 +2807,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-lee-burridge-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2864,7 +2826,7 @@
     "source_url": "https://baligasm.com/event/the-apurva-kempinski-bali-gema-nusantara-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2883,7 +2845,7 @@
     "source_url": "https://baligasm.com/event/atlas-beach-club-afro-bros-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2902,7 +2864,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-mk-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2921,7 +2883,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-lee-burridge-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2940,7 +2902,7 @@
     "source_url": "https://baligasm.com/event/the-jungle-club-ubud-rnb-sunday-day-fade-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2959,7 +2921,7 @@
     "source_url": "https://baligasm.com/event/desa-kitsune-benja-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2978,7 +2940,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-gioli-and-assia-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2997,7 +2959,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-damian-lazarus-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3016,7 +2978,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-gioli-and-assia-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3035,7 +2997,7 @@
     "source_url": "https://baligasm.com/event/desa-kitsune-franc-fala-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3054,7 +3016,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-damian-lazarus-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3073,7 +3035,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-full-moon-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3092,7 +3054,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-joseph-capriati-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3111,7 +3073,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-dj-habibeats-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3130,7 +3092,7 @@
     "source_url": "https://baligasm.com/event/sunset-beach-bali-ritual-sunset-mansion-michael-mayer-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3149,7 +3111,7 @@
     "source_url": "https://baligasm.com/event/mrs-sippy-bali-schoolies-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3168,7 +3130,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-joseph-capriati-nov-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3187,7 +3149,7 @@
     "source_url": "https://baligasm.com/event/bali-beach-glamping-connections-bali-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3206,7 +3168,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-defected-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3225,7 +3187,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-mind-against-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3244,7 +3206,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-ameme-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3263,7 +3225,7 @@
     "source_url": "https://baligasm.com/event/desa-kitsune-ameme-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3282,7 +3244,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-luuk-van-dijk-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3301,7 +3263,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-dj-tennis-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3320,7 +3282,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-camelphat-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3339,7 +3301,7 @@
     "source_url": "https://baligasm.com/event/gor-purna-krida-bali-square-garden-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3358,7 +3320,7 @@
     "source_url": "https://baligasm.com/event/padma-resort-legian-george-harliono-hera-hyesang-park-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3377,7 +3339,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-liva-k-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3396,7 +3358,7 @@
     "source_url": "https://baligasm.com/event/bndcc-bjorn-again-abba-show-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3415,7 +3377,7 @@
     "source_url": "https://baligasm.com/event/zumana-bali-kitty-amor-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-19T21:46:53.768867Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3434,7 +3396,7 @@
     "source_url": "https://baligasm.com/event/gate-88-unchained-lil-texas-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-18T19:45:32.092256Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3472,7 +3434,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-southern-tribe-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3491,7 +3453,7 @@
     "source_url": "https://baligasm.com/event/savaya-bali-vintage-culture-dec-2026",
     "source": "baligasm",
     "discovered_at": "2026-10-15T04:46:59.190032Z",
-    "last_seen_at": "2026-10-20T19:19:56.544500Z",
+    "last_seen_at": "2026-10-20T20:56:52.478483Z",
     "sequence": 0,
     "status": "confirmed"
   }
