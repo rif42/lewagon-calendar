@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-10-20T20:56:52.478483Z",
-  "event_count": 182,
+  "ran_at": "2026-10-21T20:56:53.210837Z",
+  "event_count": 186,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 100,
-      "normalized": 100
+      "count": 99,
+      "normalized": 99
     },
     "notion_favolist": {
       "status": "ok",
@@ -19,13 +19,13 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 30,
-      "normalized": 30
+      "count": 31,
+      "normalized": 31
     },
     "now_bali": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "count": 4,
+      "normalized": 4
     },
     "eventbrite": {
       "status": "error",
@@ -41,23 +41,24 @@
     "bwork": {
       "status": "error",
       "count": 0,
-      "error": "RuntimeError: parser assert failed: no event cards on https://bwork.id/canggu/",
-      "normalized": 0
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "bitcoinonly": {
-      "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "status": "error",
+      "count": 0,
+      "error": "RuntimeError: parser assert failed: no dated links on https://bitcoinonly.events/bitcoin-indonesia/",
+      "normalized": 0
     },
     "miranesia": {
       "status": "ok",
-      "count": 27,
-      "normalized": 27
+      "count": 23,
+      "normalized": 23
     },
     "tropicalnomad": {
       "status": "ok",
-      "count": 5,
-      "normalized": 5
+      "count": 4,
+      "normalized": 4
     },
     "bitcoinid_bali": {
       "status": "ok",
