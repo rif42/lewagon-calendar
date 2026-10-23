@@ -150,7 +150,12 @@ def _parse_detail(html: str, url: str, card: dict) -> dict | None:
             year = int(m.group(3))
         except ValueError:
             return None
-        # Cross-check: card bigdate must name the same month/day.
+        # Cross-check: card bigdate must name the same month/day. The detail
+        # page year has been seen bogus (past-dated cards carry a stale
+        # year while the listing card reuses the same month/day for the
+        # upcoming occurrence), so the year is corroborated against the
+        # discovery window: prefer the detail year, else roll month/day
+        # to the year that lands inside today -> +14d.
         try:
             card_month = datetime.strptime(card["month"][:3], "%b").month
             card_day = int(re.search(r"\d+", card["day"]).group())
@@ -160,6 +165,29 @@ def _parse_detail(html: str, url: str, card: dict) -> dict | None:
                 return None
         except (ValueError, AttributeError, TypeError):
             pass  # card bigdate unreadable: trust the detail page
+        else:
+            today_d = datetime.now().date()
+            horizon_d = today_d + timedelta(days=_WINDOW_DAYS)
+            try:
+                detail_date = datetime(year, month, day).date()
+            except ValueError:
+                return None
+            if not (today_d <= detail_date <= horizon_d):
+                fixed = None
+                for cand_year in (today_d.year, today_d.year + 1,
+                                 today_d.year - 1):
+                    try:
+                        cand = datetime(cand_year, month, day).date()
+                    except ValueError:
+                        continue
+                    if today_d <= cand <= horizon_d:
+                        fixed = cand_year
+                        break
+                if fixed is None:
+                    return None  # outside window under every year: skip
+                print(f"[{SOURCE}] year roll {year}->{fixed} "
+                      f"(card+window corroborated): {url}", file=sys.stderr)
+                year = fixed
         # Time-of-day from the listing card (detail Time field is "& PM").
         hour, minute = 18, 0  # evening default, never invent precision
         tm = _CARD_TIME_RE.search(card["text"])
@@ -180,7 +208,8 @@ def _parse_detail(html: str, url: str, card: dict) -> dict | None:
     # Venue: detail "Place : ..." line; must name BWork (hoax-check:
     # never invent a Canggu venue string).
     venue = ""
-    pm = re.search(r"Place\s*:\s*([^|]{3,80}?)(?:\s{2,}|\s*[A-Z][a-z]+-to-|\s*Join|\s*Register|$)", body)
+    pm = re.search(r"Place\s*:\s*(.{3,80}?)"
+                   r"(?:\s{2,}|Price\s*:|\s*[A-Z][a-z]+-to-|\s*Join|\s*Register|$)", body)
     if pm:
         venue = _text(pm.group(1))
     if "bwork" not in venue.lower():
@@ -270,6 +299,10 @@ def fetch() -> list[dict]:
                 continue
             events.append(event)
         print(f"[{SOURCE}] {len(events)} events from {len(cards)} cards")
+        # NOTE: the quiet-fortnight [] below hits the orchestrator's 0-raw
+        # parser assert (error status) -- deliberate: an all-quiet listing is
+        # indistinguishable from a redesign that drops dates, so error keeps
+        # last-good state AND flags the page for review.
         if not events:
             # Listing parsed fine (cards found) but nothing falls inside the
             # today -> +14d discovery window (e.g. all cards are past-dated).

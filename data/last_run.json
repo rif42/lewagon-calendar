@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-10-20T19:19:56.544500Z",
-  "event_count": 184,
+  "ran_at": "2026-10-23T19:18:50.584950Z",
+  "event_count": 157,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 100,
-      "normalized": 100
+      "count": 98,
+      "normalized": 98
     },
     "notion_favolist": {
       "status": "ok",
@@ -19,18 +19,18 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 30,
-      "normalized": 30
+      "count": 31,
+      "normalized": 31
     },
     "now_bali": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "count": 5,
+      "normalized": 5
     },
     "eventbrite": {
       "status": "ok",
-      "count": 5,
-      "normalized": 5
+      "count": 6,
+      "normalized": 6
     },
     "meetup": {
       "status": "ok",
@@ -38,30 +38,35 @@
       "normalized": 5
     },
     "bwork": {
-      "status": "error",
-      "count": 0,
-      "error": "RuntimeError: parser assert failed: no event cards on https://bwork.id/canggu/",
-      "normalized": 0
+      "status": "ok",
+      "count": 1,
+      "normalized": 1
     },
     "bitcoinonly": {
-      "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "status": "error",
+      "count": 0,
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "miranesia": {
       "status": "ok",
-      "count": 27,
-      "normalized": 27
+      "count": 14,
+      "normalized": 14
     },
     "tropicalnomad": {
       "status": "ok",
-      "count": 5,
-      "normalized": 5
+      "count": 2,
+      "normalized": 2
     },
     "bitcoinid_bali": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "count": 1,
+      "normalized": 1
+    },
+    "luma": {
+      "status": "ok",
+      "count": 5,
+      "normalized": 5
     }
   }
 }

@@ -263,9 +263,13 @@ def fetch() -> list[dict]:
             events.append(event)
         print(f"[{SOURCE}] {len(events)} events from {len(cards)} upcoming")
         if not events:
-            raise RuntimeError(
-                f"parser assert failed: no dated links on {LISTING_URL}"
-            )
+            # Hub parsed fine (upcoming blocks found) but every block was
+            # non-Bali or outside today -> +14d (e.g. only Jakarta rows this
+            # week). That is a quiet fortnight, not a redesign: return []
+            # so the orchestrator keeps last-good state instead of erroring.
+            print(f"[{SOURCE}] 0 in-window Bali events from {len(cards)} "
+                  f"upcoming (non-Bali or outside today -> +14d); returning []")
+            return []
         return events
     except RuntimeError:
         raise
