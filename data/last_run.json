@@ -1,5 +1,5 @@
 {
-  "ran_at": "2026-10-23T19:18:50.584950Z",
+  "ran_at": "2026-10-23T19:34:06.077957Z",
   "event_count": 157,
   "sources": {
     "baligasm": {
@@ -7,37 +7,12 @@
       "count": 98,
       "normalized": 98
     },
-    "notion_favolist": {
-      "status": "ok",
-      "count": 59,
-      "normalized": 59
-    },
     "balisquad": {
       "status": "ok",
       "count": 12,
       "normalized": 12
     },
-    "honeycombers": {
-      "status": "ok",
-      "count": 31,
-      "normalized": 31
-    },
-    "now_bali": {
-      "status": "ok",
-      "count": 5,
-      "normalized": 5
-    },
-    "eventbrite": {
-      "status": "ok",
-      "count": 6,
-      "normalized": 6
-    },
-    "meetup": {
-      "status": "ok",
-      "count": 5,
-      "normalized": 5
-    },
-    "bwork": {
+    "bitcoinid_bali": {
       "status": "ok",
       "count": 1,
       "normalized": 1
@@ -48,25 +23,50 @@
       "normalized": 0,
       "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
-    "miranesia": {
-      "status": "ok",
-      "count": 14,
-      "normalized": 14
-    },
-    "tropicalnomad": {
-      "status": "ok",
-      "count": 2,
-      "normalized": 2
-    },
-    "bitcoinid_bali": {
+    "bwork": {
       "status": "ok",
       "count": 1,
       "normalized": 1
+    },
+    "eventbrite": {
+      "status": "ok",
+      "count": 6,
+      "normalized": 6
+    },
+    "honeycombers": {
+      "status": "ok",
+      "count": 31,
+      "normalized": 31
     },
     "luma": {
       "status": "ok",
       "count": 5,
       "normalized": 5
+    },
+    "meetup": {
+      "status": "ok",
+      "count": 5,
+      "normalized": 5
+    },
+    "miranesia": {
+      "status": "ok",
+      "count": 14,
+      "normalized": 14
+    },
+    "notion_favolist": {
+      "status": "ok",
+      "count": 59,
+      "normalized": 59
+    },
+    "now_bali": {
+      "status": "ok",
+      "count": 5,
+      "normalized": 5
+    },
+    "tropicalnomad": {
+      "status": "ok",
+      "count": 2,
+      "normalized": 2
     }
   }
 }
