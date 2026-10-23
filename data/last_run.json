@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-10-23T19:34:06.077957Z",
-  "event_count": 157,
+  "ran_at": "2026-10-23T20:42:22.441458Z",
+  "event_count": 158,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -29,14 +29,15 @@
       "normalized": 1
     },
     "eventbrite": {
-      "status": "ok",
-      "count": 6,
-      "normalized": 6
+      "status": "error",
+      "count": 0,
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "honeycombers": {
       "status": "ok",
-      "count": 31,
-      "normalized": 31
+      "count": 32,
+      "normalized": 32
     },
     "luma": {
       "status": "ok",
@@ -50,8 +51,8 @@
     },
     "miranesia": {
       "status": "ok",
-      "count": 14,
-      "normalized": 14
+      "count": 13,
+      "normalized": 13
     },
     "notion_favolist": {
       "status": "ok",
