@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-10-23T20:42:22.441458Z",
-  "event_count": 158,
+  "ran_at": "2026-10-24T19:53:38.765444Z",
+  "event_count": 169,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 98,
-      "normalized": 98
+      "count": 95,
+      "normalized": 95
     },
     "balisquad": {
       "status": "ok",
@@ -20,8 +20,8 @@
     "bitcoinonly": {
       "status": "error",
       "count": 0,
-      "normalized": 0,
-      "error": "parser assert failed: yielded 0 raw events (no dated links)"
+      "error": "RuntimeError: parser assert failed: no upcoming blocks on https://bitcoinonly.events/bitcoin-indonesia/",
+      "normalized": 0
     },
     "bwork": {
       "status": "ok",
@@ -36,8 +36,8 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 32,
-      "normalized": 32
+      "count": 37,
+      "normalized": 37
     },
     "luma": {
       "status": "ok",
@@ -46,13 +46,13 @@
     },
     "meetup": {
       "status": "ok",
-      "count": 5,
-      "normalized": 5
+      "count": 4,
+      "normalized": 4
     },
     "miranesia": {
       "status": "ok",
-      "count": 13,
-      "normalized": 13
+      "count": 12,
+      "normalized": 12
     },
     "notion_favolist": {
       "status": "ok",
