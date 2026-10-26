@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-10-26T19:31:47.170110Z",
-  "event_count": 173,
+  "ran_at": "2026-10-26T21:58:20.981742Z",
+  "event_count": 171,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -9,8 +9,8 @@
     },
     "balisquad": {
       "status": "ok",
-      "count": 16,
-      "normalized": 16
+      "count": 14,
+      "normalized": 14
     },
     "bitcoinid_bali": {
       "status": "ok",
@@ -29,9 +29,10 @@
       "normalized": 1
     },
     "eventbrite": {
-      "status": "ok",
-      "count": 6,
-      "normalized": 6
+      "status": "error",
+      "count": 0,
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "honeycombers": {
       "status": "ok",
@@ -50,8 +51,8 @@
     },
     "miranesia": {
       "status": "ok",
-      "count": 12,
-      "normalized": 12
+      "count": 11,
+      "normalized": 11
     },
     "notion_favolist": {
       "status": "ok",
