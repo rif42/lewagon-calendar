@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:lewagon-event-calendar
 BEGIN:VEVENT
 UID:6de3b0c930e929c0c27ba2b8f56408614c2435e0@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:ATOMIC 17
 LOCATION:Atomic 17\, Renaissance Nusa Dua\, Bali
@@ -24,7 +24,7 @@ DTEND:20261208T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d813c53654d76fe0add18d1928ad98cfb61e0165@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Cascayu Promotion
 LOCATION:Cascayu\, Renaissance Nusa Dua\, Bali
@@ -41,7 +41,7 @@ DTEND:20261210T090000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7b723e8e6daba9b71eb3a23e869baecf55144b68@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:The Art of Coffee at The Lobby Bar and Lounge\, The Westin Resort N
  usa Dua\, Bali
@@ -62,7 +62,7 @@ DTEND:20261031T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:0df049e7439a69c60b7238bb13ffa8ba563a29af@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Glow and Unwid
 LOCATION:THE SPA\, Renaissance Nusa Dua Resort
@@ -80,7 +80,7 @@ DTEND:20261231T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:83eed94d1c60fe0633bd4aedaffdbe67e3b1779c@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:MR.SMASH BURGER COWBOY CANDY COMBO
 LOCATION:Mr.Smash Burger\, Canggu - Batu Bolong - Seminyak - Ubud - Uluwatu
@@ -99,7 +99,7 @@ DTEND:20261108T155900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:aae504cd2c37611f8058b72502974be0cc4b293f@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:CIRCA Friday Luigis x SAY LESS
 LOCATION:Luigis Hot Pizza\, Jl. Batu Mejan Canggu\, Canggu\, Kec. Kuta Utar
@@ -118,7 +118,7 @@ DTEND:20270107T160000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c95faeb9ad625403e9753091966270fa2dc155e3@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Sasama Collective Art Exhibitions
 LOCATION:BK Creative Hub\, Seminyak\, Jl. Plawa Gg. Melati No.2\, Seminyak\
@@ -139,7 +139,7 @@ DTEND:20261031T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e4f33711c294bccbfd949efd4e99e1d8c87d43cb@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Italian Buffet Night
 LOCATION:Bene Italian Kitchen\, Sheraton Bali Kuta Resort
@@ -156,179 +156,8 @@ DTSTART:20261014T100000Z
 DTEND:20261028T140000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e0b442bc2503532dd4c0334f4d9090508c13dbd6@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:1
-SUMMARY:Lunch & Learn: Bahasa Indonesia
-LOCATION:B Work Bali\, Jl. Nelayan No.9C\, Canggu\, Kec. Kuta Utara\, Kabup
- aten Badung\, Bali 80361\, Indonesia
-DESCRIPTION:Elevate your professional journey with BWork. Our calendar is p
- acked with networking\, skill-sharing workshops\, and community mixers des
- igned to help you grow. Register: https://luma.com/rq3t4re9\n\nMore info: 
- https://luma.com/rq3t4re9\n\nPlease verify with the organizer before atten
- ding.
-URL:https://luma.com/rq3t4re9
-STATUS:TENTATIVE
-DTSTART:20261026T040000Z
-DTEND:20261026T050000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:db729a2a9d52039e28c7f614b0f4a9f0e6f86a3a@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:2
-SUMMARY:Ladies Weekly Coffee & Coworking
-LOCATION:Awan Connection - Cafe & Coworking Space
-DESCRIPTION:9 going · You'll LOVE this way to start the week with a combin
- ation of productivity and connection with women's co-working. In the years
-  I've hosted thi...\n\nMore info: https://balisquad.com/event/awan-connect
- ion-lPICIc\n\nPlease verify with the organizer before attending.
-URL:https://balisquad.com/event/awan-connection-lPICIc
-STATUS:TENTATIVE
-DTSTART:20261026T043000Z
-DTEND:20261026T090000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:11770c3e6a97c16674252ee6d0e0165346f78abe@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:1
-SUMMARY:OFF DUTY CLUB | Ulu's Poolside Mondays
-LOCATION:Ulu Cliffhouse
-DESCRIPTION:3 going · YOU WORKED THE WEEKEND. NOW IT’S YOUR TURN. 🌶
- ️🥭 REDEEM YOUR INVITATION Four things for your Monday: good music\, a
-  cliffside pool\, Spritz in...\n\nMore info: https://balisquad.com/event/u
- lu-cliffhouse-XZTSAr\n\nPlease verify with the organizer before attending.
-URL:https://balisquad.com/event/ulu-cliffhouse-XZTSAr
-STATUS:TENTATIVE
-DTSTART:20261026T060000Z
-DTEND:20261026T070000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:3cf2ed3352065bf472590d2939d33d0dd9959e2b@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:1
-SUMMARY:Beloved Clients
-LOCATION:The Hidden Space Ubud Cafe
-DESCRIPTION:Strategies for gaining and keeping valued clients\, presented b
- y speaker Olga Topilina. Register: https://todo.today/ubud/2026/10/26/belo
- ved-clients-how-to-find-your-perfect-clients-and-build-a-business-you-love
- -3\n\nMore info: https://miranesia.com/bali/ubud/beloved-clients-2026-10-2
- 6-8b918410c96d/\n\nPlease verify with the organizer before attending.
-URL:https://miranesia.com/bali/ubud/beloved-clients-2026-10-26-8b918410c96d
- /
-STATUS:TENTATIVE
-DTSTART:20261026T083000Z
-DTEND:20261026T100000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2893418209b8e0cf21f22bd57cd5e7929bd28b13@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:1
-SUMMARY:Welcome Drinks
-LOCATION:Tribal Bali Coworking Hostel
-DESCRIPTION:​Meet. Connect. Feel at home. ​Every Monday\, we invite you
-  to join a casual gathering designed to help you settle in\, meet fellow T
- ribalers\, and kickstart...\n\nMore info: https://balisquad.com/event/trib
- al-bali-1-kduZsu\n\nPlease verify with the organizer before attending.
-URL:https://balisquad.com/event/tribal-bali-1-kduZsu
-STATUS:TENTATIVE
-DTSTART:20261026T093000Z
-DTEND:20261026T103000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:42a9b8039dde1c6cabeb662508b77e8770665a55@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:1
-SUMMARY:Beach Volleyball Social Games
-LOCATION:Bali Volleyball Academy (BVA)
-DESCRIPTION:Join us for fun\, beginner-friendly Beach Volleyball & Beach Te
- nnis sessions at Bali Volleyball Academy! 🌴☀️ Whether it’s your f
- irst time or you just want...\n\nMore info: https://balisquad.com/event/ba
- li-volleyball-academy-Gp4U-K\n\nPlease verify with the organizer before at
- tending.
-URL:https://balisquad.com/event/bali-volleyball-academy-Gp4U-K
-STATUS:TENTATIVE
-DTSTART:20261026T100000Z
-DTEND:20261026T120000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2197aafec598f2b4578352fa80f76b9256c7ead7@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:1
-SUMMARY:FREE Monday Night Padel in Uluwatu
-LOCATION:Padel house 1969
-DESCRIPTION:8 going · Come Join us for perfect mix of fun\, fitness\, and 
- friendly competition! 🏸💦💪 ⌚ When : Monday\, 18:30-20:00 WITA 
- 📍 Where : Padel House 1969\,...\n\nMore info: https://balisquad.com/eve
- nt/mei-XKbOaN\n\nPlease verify with the organizer before attending.
-URL:https://balisquad.com/event/mei-XKbOaN
-STATUS:TENTATIVE
-DTSTART:20261026T103000Z
-DTEND:20261026T120000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:a1364cd7c26850e20edcedde52d75235a0b1a92a@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:1
-SUMMARY:IMPROV GAMES & LAUGHTER! 🙌
-LOCATION:Awan Connection - Cafe & Coworking Space
-DESCRIPTION:Hey Y'all! 🤠 Lets upgrade our Monday — it deserves better 
- 🎭 Join us for an evening of improv games\, effortless laughs\, and just
-  a hint of mischief. Meet...\n\nMore info: https://balisquad.com/event/awa
- n-connection-_UGVQ0\n\nPlease verify with the organizer before attending.
-URL:https://balisquad.com/event/awan-connection-_UGVQ0
-STATUS:TENTATIVE
-DTSTART:20261026T104500Z
-DTEND:20261026T123000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:4cc5039a11362a1ab371f364921147ceb3a987ae@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:1
-SUMMARY:🍺 Monday's Biggest Debate: Who Actually Knows the Answer?
-LOCATION:The Melting Pot Saloon
-DESCRIPTION:Some friendships are built on trust. Others are tested when fou
- r people insist on four completely different answers to the same question!
-  😂 If you've been...\n\nMore info: https://balisquad.com/event/the-melt
- ing-pot-saloon-5DyMVs\n\nPlease verify with the organizer before attending
- .
-URL:https://balisquad.com/event/the-melting-pot-saloon-5DyMVs
-STATUS:TENTATIVE
-DTSTART:20261026T120000Z
-DTEND:20261026T140000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:6735e73e6e87b578e8a88c5ce633f4d4ea290ffe@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:1
-SUMMARY:LADIES NIGHT at ROOM
-LOCATION:The Room Bar - Bali
-DESCRIPTION:16 going · Rave Royale: Ladies Night Special @ The Room Berawa
-  Bali’s premier Monday night move is back at The Room Berawa. Rave Royal
- e presents a massi...\n\nMore info: https://balisquad.com/event/dj-mk4-H7E
- eHx\n\nPlease verify with the organizer before attending.
-URL:https://balisquad.com/event/dj-mk4-H7EeHx
-STATUS:TENTATIVE
-DTSTART:20261026T150000Z
-DTEND:20261026T190000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:241ff9e928630396a31d0ac1efaff0c018ae348c@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
-SUMMARY:Mastermind: Tribal Solutions
-LOCATION:Tribal Bali Coworking Hostel
-DESCRIPTION:​Join us for the Tribal Solutions: a dynamic 1-hour session w
- here ideas spark\, challenges get solved\, and connections are made! ​He
- re’s how it works: 💡 In...\n\nMore info: https://balisquad.com/event/
- tribal-bali-1-I151Vi\n\nPlease verify with the organizer before attending.
-URL:https://balisquad.com/event/tribal-bali-1-I151Vi
-STATUS:CONFIRMED
-DTSTART:20261027T030000Z
-DTEND:20261027T040000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:c51ca84b23e1a8fef5e2b4dc625308720931970f@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Land & Sea: Juicy Burgers & Fresh Seafood on the Cliffside
 LOCATION:Oneeighty at The Edge\, The Edge. Jalan Pura Goa Lempeh Banjar Din
@@ -350,7 +179,7 @@ DTEND:20261027T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8b9daf07f4d744d8066577583332950786c5e637@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Land & Sea: Oneeighty° X 2080 Burger
 LOCATION:oneeighty° at The Edge Bali\, Banjar Dinas Kangin Jl. Pura\, Uluw
@@ -369,8 +198,23 @@ DTSTART:20261027T030000Z
 DTEND:20261027T100000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:241ff9e928630396a31d0ac1efaff0c018ae348c@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Mastermind: Tribal Solutions
+LOCATION:Tribal Bali Coworking Hostel
+DESCRIPTION:​Join us for the Tribal Solutions: a dynamic 1-hour session w
+ here ideas spark\, challenges get solved\, and connections are made! ​He
+ re’s how it works: 💡 In...\n\nMore info: https://balisquad.com/event/
+ tribal-bali-1-I151Vi\n\nPlease verify with the organizer before attending.
+URL:https://balisquad.com/event/tribal-bali-1-I151Vi
+STATUS:CONFIRMED
+DTSTART:20261027T030000Z
+DTEND:20261027T040000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:dde30efba821cf896ccf31adfe37396ca61d48af@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:1
 SUMMARY:Free Beginner Indonesian Language Class
 LOCATION:BukitHub Coworking ( 24x7 )
@@ -385,7 +229,7 @@ DTEND:20261027T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:93b3bd396e7daa92738bcf1fb87c957b65897341@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Tuesday Game Night at Hatch
 LOCATION:Hatch Uluwatu
@@ -400,7 +244,7 @@ DTEND:20261027T154500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:328d0d5f359f8099699edb5b1f4b54d260f80c52@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:2
 SUMMARY:Agentic Engineering and Vibe Coding Meetup
 LOCATION:Bitcoin House Bali
@@ -415,7 +259,7 @@ DTEND:20261027T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:354173357568a19decf179d15155d4108edda8ea@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Agentic Engineering and Vibe Coding Meetup
 LOCATION:Bitcoin House\, Canggu
@@ -436,7 +280,7 @@ DTEND:20261027T103000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:13b0d3d043bfe1370dbbcdcfe54f26dfb50aa3f9@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Members Connect
 LOCATION:Tropical Garden\, Tropical Nomad Coworking\, Jl. Subak Canggu No.2
@@ -452,7 +296,7 @@ DTEND:20261027T103000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:55fa93b4946d8484ba15db877abb4097205517de@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Women's Circle
 LOCATION:The Space Bali Yoga & Co-working Uluwatu
@@ -467,7 +311,7 @@ DTEND:20261027T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1da7ccb7ba24266b4474981593c7c65828ea123a@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:DEEP LOVE : ♥️ WHERE ARE THE FEMININE WOMEN?
 LOCATION:Awan Connection - Cafe & Coworking Space
@@ -482,7 +326,7 @@ DTEND:20261027T133000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:89952627f19d22cadc70e2bc089a543e6ef0682c@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Futsal Club
 LOCATION:Canggu
@@ -497,7 +341,7 @@ DTEND:20261027T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:43e841cbb125ae8aa80f8f2b3f728e112d425352@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:The 8 Ball Classic Tournament | Every Tuesday 7PM 🎱
 LOCATION:The Green Felt Billiard Hall Bali
@@ -513,7 +357,7 @@ DTEND:20261027T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ba12aabdff48b68356716675e83de25fcff47ba9@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:AI For Everyone with Harry Verity
 LOCATION:B Work Bali\, Jl. Nelayan No.9C\, Canggu\, Kec. Kuta Utara\, Kabup
@@ -530,7 +374,7 @@ DTEND:20261027T123000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2e72b0651fe46882a0c1058d7341433ad8e3c245@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:AI For Everyone with Harry Verity
 LOCATION:B Work\, Canggu
@@ -550,7 +394,7 @@ DTEND:20261027T123000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a38e39ab6283194d4cc975df1056ab689e180f7a@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:SECRET COMEDY NIGHT CROWD WORK SHOW IN CANGGU
 LOCATION:The Room Bar - Bali
@@ -566,7 +410,7 @@ DTEND:20261027T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ae2cc9139e7c4e9d5e93a9bd4c73a6fbb6633ee7@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Acoustic Rhythm and Cocktail Festival
 LOCATION:No Jl. Melasti No.1
@@ -582,8 +426,8 @@ DTEND:20261027T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b4d6e8b05fc3362f5b027e17e7cbeecee835323b@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
+DTSTAMP:20261027T213126Z
+SEQUENCE:1
 SUMMARY:LES CLOWNS DU CHAOS
 LOCATION:Desa Kitsune\, Jl. Munduk Catu No.9\, Canggu\, Kec. Kuta Utara\, K
  abupaten Badung\, Bali 80363
@@ -607,7 +451,7 @@ DTEND:20261027T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:788949d12742fa741bb97dd4cb1e8b30be8842e8@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Badminton Tuesday NIght 4C2H
 LOCATION:Lining Badminton Hall
@@ -622,7 +466,7 @@ DTEND:20261027T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:258a18c5c084a086c943479f47564454d7aa7c15@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:SATOSHI × KINDLING: Two Kitchens\, One Table
 LOCATION:SATOSHI Restaurant × Music Library
@@ -650,7 +494,7 @@ DTEND;VALUE=DATE:20261029
 END:VEVENT
 BEGIN:VEVENT
 UID:c89a9c19e30b51f3e1bc3a47f3bd545857f86755@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:A One Day Crossover
 LOCATION:Olli Baked Goods and Lamuri South Indian & Sumatran Cuisine\, Jl. 
@@ -668,8 +512,23 @@ DTSTART:20261028T000000Z
 DTEND:20261028T143000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:e82bb20bb2abd72e18778af161081d46fde01099@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Wednesday Brunch at Mr.Summit
+LOCATION:Mr. Summit Uluwatu
+DESCRIPTION:☕🥐 Midweek Brunch & Coffee Catch-Up Looking for a relaxed 
+ way to spend your Wednesday morning? Join us at Mr. Summit for brunch\, co
+ ffee\, and good company....\n\nMore info: https://balisquad.com/event/mei-
+ L25GOJ\n\nPlease verify with the organizer before attending.
+URL:https://balisquad.com/event/mei-L25GOJ
+STATUS:CONFIRMED
+DTSTART:20261028T020000Z
+DTEND:20261028T050000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:d09381ca075666338a32c9f379cb1a9cbd61773c@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:NEW MEMBERS COFFEE BREAK (MEMBERS ONLY)
 LOCATION:BWork Uluwatu
@@ -683,8 +542,38 @@ DTSTART:20261028T040000Z
 DTEND:20261028T050000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:3f249701d95b2696faa1557eb2005b0d2b893766@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:The Intuition Hack: Smarter Decisions\, Less Overthinking
+LOCATION:Samm's Farm
+DESCRIPTION:In a world where the future feels increasingly uncertain\, with
+  AI reshaping industries\, old systems collapsing\, and constant change al
+ l around us\, the most...\n\nMore info: https://balisquad.com/event/loko-c
+ ommunity-1-139ewX\n\nPlease verify with the organizer before attending.
+URL:https://balisquad.com/event/loko-community-1-139ewX
+STATUS:CANCELLED
+DTSTART:20261028T090000Z
+DTEND:20261028T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:c079fe9b66fe10e568950758cdb00664fd11b35c@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Downtime Cafe - Boardgames
+LOCATION:Downtime Cafe
+DESCRIPTION:Don’t be left out! Downtime Cafe is the best place in Bali to
+  have fun and hangout with your friends! Great games\,great food\, guarant
+ eed to bring out laugh...\n\nMore info: https://balisquad.com/event/downti
+ me-bali-cTeYez\n\nPlease verify with the organizer before attending.
+URL:https://balisquad.com/event/downtime-bali-cTeYez
+STATUS:CONFIRMED
+DTSTART:20261028T090000Z
+DTEND:20261028T140000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:ff4439059966cbdd3ff0a49a818cfc5775ad0ca2@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Members BBQ
 LOCATION:Tropical Garden\, Tropical Nomad Coworking\, Jl. Subak Canggu No.2
@@ -700,7 +589,7 @@ DTEND:20261028T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:4b677d6bc1cc74c48baf1095b987c904dc5b628b@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Teppanyaki Special Menu and Sake Night
 LOCATION:Shima Teppanyaki\, Petitenget St No.5E\, Kerobokan Kelod\, Kuta Ut
@@ -719,8 +608,38 @@ DTSTART:20261028T100000Z
 DTEND:20261028T143000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:fc2ea41e625219df0a66830b2ab765b7e2e8ecd4@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Community Dinner
+LOCATION:Canggu
+DESCRIPTION:Dinner\, but make it easy to meet people. Skip the usual networ
+ king awkwardness. ​Our host will share simple conversation prompts throu
+ ghout the meal\, makin...\n\nMore info: https://balisquad.com/event/tribal
+ -bali-1-vu7LKP\n\nPlease verify with the organizer before attending.
+URL:https://balisquad.com/event/tribal-bali-1-vu7LKP
+STATUS:CONFIRMED
+DTSTART:20261028T103000Z
+DTEND:20261028T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bbd6ea92681a20e7c40ac6f2562448555549bd1@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Improv Games - Laugh & Play
+LOCATION:BWork Uluwatu
+DESCRIPTION:7 going · Improv Games - Laugh & Play 🗓️ Wednesday ⏰ 6:
+ 30 PM 📍 BWork\, Uluwatu Just a bunch of people getting together to play
+  fun\, silly improv games...\n\nMore info: https://balisquad.com/event/buk
+ itsocial-FNvUJz\n\nPlease verify with the organizer before attending.
+URL:https://balisquad.com/event/bukitsocial-FNvUJz
+STATUS:CONFIRMED
+DTSTART:20261028T103000Z
+DTEND:20261028T123000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:622cef3e0e1f14b46f9458e1a95d84cffcef274d@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Spending on Ads but Why Are You Still Stuck at $2K/Day?
 LOCATION:Meet Me Cafe\, Seminyak
@@ -739,8 +658,38 @@ DTSTART:20261028T103000Z
 DTEND:20261028T130000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:c3e8e90212454250cbbba9c818003c4cee604d32@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Founders Helping Founders – Solve Business Challenges Together
+LOCATION:Mata Berawa
+DESCRIPTION:10 going · Founders Helping Founders – Solve Business Challe
+ nges Together A solution-focused meetup for solopreneurs and founders to t
+ ackle business cha...\n\nMore info: https://balisquad.com/event/loko-commu
+ nity-1-DbM5t1\n\nPlease verify with the organizer before attending.
+URL:https://balisquad.com/event/loko-community-1-DbM5t1
+STATUS:CONFIRMED
+DTSTART:20261028T110000Z
+DTEND:20261028T120000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ac81d4dfa75226f7b78270648976e2fe9ad01821@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Men's Circle
+LOCATION:The Space Bali Yoga & Co-working Uluwatu
+DESCRIPTION:Men’s Circle Join us for a grounded and supportive gathering 
+ created for men to connect\, reflect\, and be truly heard. In this intenti
+ onal circle\, we share...\n\nMore info: https://balisquad.com/event/the-sp
+ ace-Kn3vx1\n\nPlease verify with the organizer before attending.
+URL:https://balisquad.com/event/the-space-Kn3vx1
+STATUS:CONFIRMED
+DTSTART:20261028T113000Z
+DTEND:20261028T123000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:7607efee8e7dc15a3f3c747533357a85ffbaf5dd@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:FRANKY WAH
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -759,7 +708,7 @@ DTEND:20261028T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:abaa4567cd17b48919c75a54d0649bdf86beb596@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:INNO HALLOWEEN
 LOCATION:Da Maria\, Jl. Petitenget No.170\, Kerobokan Kelod
@@ -783,7 +732,7 @@ DTEND:20261028T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d59ce7416f93ea158a61963557386c855b71a004@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Two Kitchens\, One Table | SATOSHI x KINDLING
 LOCATION:Satoshi Bali\, Jl. Raya Bumbak No.55\, Kerobokan\, Kec. Kuta Utara
@@ -803,8 +752,23 @@ DTSTART:20261028T120000Z
 DTEND:20261028T155900Z
 END:VEVENT
 BEGIN:VEVENT
+UID:78db3e5978af5bb95ea8715042d06fa0d69873e9@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Hackanur
+LOCATION:Over the Moon Cafe
+DESCRIPTION:We’re a community-run group of indie makers\, coders\, design
+ ers and hardware hackers who build their own independent apps and startups
+ . 9 am to Noon 9:30 AM...\n\nMore info: https://balisquad.com/event/hackan
+ ur-xJDko9\n\nPlease verify with the organizer before attending.
+URL:https://balisquad.com/event/hackanur-xJDko9
+STATUS:CONFIRMED
+DTSTART:20261029T010000Z
+DTEND:20261029T040000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:28269c7eec49fd829b90c636cf513306c417a9dc@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Hackanur
 LOCATION:Over the Moon Cafe\, Sanur
@@ -822,7 +786,7 @@ DTEND:20261029T040000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2ade73510d337ecd97819a4e91aa06e31b4af4f7@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:FULL MOON
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -841,7 +805,7 @@ DTEND:20261029T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b4ac9b2fd20dd34a86948965333b296da761b5b6@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Digital Literacy Circle
 LOCATION:Rumah Muntir\, Sanur
@@ -860,8 +824,25 @@ DTSTART:20261029T080000Z
 DTEND:20261029T100000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:06af6ab26cb7808112ec97d6e507aae51f09a779@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Build a Profitable Personal Brand
+LOCATION:Cafe Coach\, Canggu
+DESCRIPTION:Learn how expert professionals can strengthen a personal brand 
+ and online presence\, led by speaker Mijgon Bakhti. Register: https://www.
+ instagram.com/cafe_coach_bali\n\nMore info: https://miranesia.com/bali/can
+ ggu/build-a-profitable-personal-brand-2026-10-29-af20740ca159/\n\nPlease v
+ erify with the organizer before attending.
+URL:https://miranesia.com/bali/canggu/build-a-profitable-personal-brand-202
+ 6-10-29-af20740ca159/
+STATUS:CONFIRMED
+DTSTART:20261029T090000Z
+DTEND:20261029T103000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:892a91a5ac1a1a39f9a57bb72baffc636659ffeb@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Ubud’s Biggest Halloween is Back
 LOCATION:The Blue Door\, Jl. Monkey Forest\, Ubud
@@ -880,7 +861,7 @@ DTEND:20261031T190000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e36b034800a8db5466f659e0cf896d5c992b7c76@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Shelter Session Vol. 13 Ft. 2 Michelin Star Tom Aikens x Andrew Wal
  sh x Stephen Moore
@@ -901,7 +882,7 @@ DTEND:20261029T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9d9e109c18f6c5b7f8176eee200dc41be35ea3ff@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:BACKYARD (RNB AND HIPHOP PARTY) by DJ ELEXSANDOM
 LOCATION:Canggu\, 1 Canggu St\, Canggu\, Bali
@@ -919,7 +900,7 @@ DTEND:20261029T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9f49f586e925aa5f8e74d0b308c03c82f2625cd8@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Local Gastronomy Legacy\, Global Recognition
 LOCATION:InterContinental Bali Resort\, Jl. Raya Uluwatu No.45\, Jimbaran\,
@@ -941,7 +922,7 @@ DTEND:20261101T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1ea397f39e11032021f0e7a60d71c36752cb37b5@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:7AM Bakers 7PM Diners Bakers Market
 LOCATION:7AM Bakers 7PM Diners Ubud\, Jl. Raya Pengosekan No.2013B Ground F
@@ -960,8 +941,25 @@ DTSTART:20261030T010000Z
 DTEND:20261030T040000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:6257c78aad8aecce4ab5d9c4fcfe6a6d5c06f8c3@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Brunch After Padel at the Brunch Club Pererenan
+LOCATION:Brunch Club Pererenan\, Jl. Pantai Pererenan No.110\, Pererenan\, 
+ Kec. Mengwi\, Kabupaten Badung\, Bali 80351\, Indonesia
+DESCRIPTION:Elevate your professional journey with BWork. Our calendar is p
+ acked with networking\, skill-sharing workshops\, and community mixers des
+ igned to help you grow. Register: https://luma.com/b1u7qfw0\n\nMore info: 
+ https://luma.com/b1u7qfw0\n\nPlease verify with the organizer before atten
+ ding.
+URL:https://luma.com/b1u7qfw0
+STATUS:CONFIRMED
+DTSTART:20261030T030000Z
+DTEND:20261030T040000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:e51ea1cf511688b80d5a74648d8cea1ac2ad6090@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:JONAS BLUE
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -982,7 +980,7 @@ DTEND:20261030T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ede0c7282eb6ca0fe2fc0356502fccd3d564dada@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:East Meets Bali. Two kitchens. Two culinary personalities. One unfo
  rgettable feast.
@@ -1004,7 +1002,7 @@ DTEND:20261030T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b171d7556c826baaec67dfebc2b22e8cd49244e0@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:BooOooOooWork: PLAYTIME IS OVER
 LOCATION:BWork Canggu
@@ -1021,7 +1019,7 @@ DTEND:20261030T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:4f1213c0b215213bea303a02af3f004b207101f5@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:BooOooOooWork: PLAYTIME IS OVER
 LOCATION:B Work Bali\, Jl. Nelayan No.9C\, Canggu\, Kec. Kuta Utara\, Kabup
@@ -1038,7 +1036,7 @@ DTEND:20261030T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fafd48055cb3a19982294e47a65fc33c0c78b1f8@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Hunter's Moon Beach Party
 LOCATION:Sundays Beach Club\, Jl. Pantai Selatan Gau\, Banjar Wijaya Kusuma
@@ -1061,7 +1059,7 @@ DTEND:20261030T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:666177c47776364fd330326e83cedbb2aaa4d9d9@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Local Heroes Vol. I — D’Abian Bali × Hujan Locale
 LOCATION:Hujan Locale\, Jl. Sri Wedari No.5\, Ubud\, Kecamatan Ubud\, Kabup
@@ -1082,7 +1080,7 @@ DTEND:20261030T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fe99a9140e52a29082b761e3feeacd3e535ae668@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:TOKOYO FANTASY ISLAND
 LOCATION:Canggu\, 1 Canggu St\, Canggu\, Bali
@@ -1098,7 +1096,7 @@ DTEND:20261030T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ab812e2e906e6468161f8956f39a82719c5590eb@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:SINNER'S SOIREE
 LOCATION:Desa Kitsune\, Jl. Munduk Catu No.9\, Canggu\, Kec. Kuta Utara\, K
@@ -1122,7 +1120,7 @@ DTEND:20261030T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e00cd5e057a39ad5d8d5d6f62dc2c7a12861a7b8@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:JUNCTION AFRICA VOL. 9
 LOCATION:The Mesa Bali\, JL. PANTAI BERAWA KUTA UTARA BADUNG
@@ -1173,7 +1171,7 @@ DTEND:20261030T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:00c1bf3ea9023e185cf9c6f650d0dab47f002a93@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:CHRIS LUNO
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -1193,7 +1191,7 @@ DTEND:20261030T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fb987503dc80f5364153b3f2591c12b4f1494aca@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:AMOUR IN PARADISE X SUSSUDIO | FRIDAY HALLOWEEN PARTY at OCEAN DECK
 LOCATION:Ulu Cliffhouse\, Pecatu\, South Kuta\, Pecatu
@@ -1218,7 +1216,7 @@ DTEND:20261030T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2a7868c2fc02130c590deb6a956702cfea41a4ab@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:TRANSIT: Halloween Pre-Party
 LOCATION:BLOCK42 at NUANU\, Beraban\, Kediri\, Tabanan
@@ -1238,7 +1236,7 @@ DTEND:20261030T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fa333a29fff22421e8d854aa9ee0fe27905f56f9@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Club Corazon & Tacos Aqui Unleashes Three Nights of Latin Heat
 LOCATION:CLUB CORAZON\, Jl. Labuansait No.69\, Pecatu\, Kec. Kuta Sel.\, Ka
@@ -1259,7 +1257,7 @@ DTEND:20261031T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3afbba6a24b068c95565068ce0f4756e30788a96@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Renaissance Day of Discovery 2026
 LOCATION:Renaissance Bali Uluwatu Resort & Spa
@@ -1282,7 +1280,7 @@ DTEND;VALUE=DATE:20261101
 END:VEVENT
 BEGIN:VEVENT
 UID:31bb32c3326d503959002c2648360bd0a08a5c3f@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:1
 SUMMARY:Recovr Pals Club: Halloween Morning Edition
 LOCATION:Old Pals & Camino de Padel
@@ -1310,7 +1308,7 @@ DTEND;VALUE=DATE:20261101
 END:VEVENT
 BEGIN:VEVENT
 UID:41929f8169b3098b786ec15d2174ac8cc3c785af@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Plant & Release: Baby Turtle Release\, Kayaking & Mangrove Planting
 LOCATION:Denpasar\, Center\, Denpasar
@@ -1328,7 +1326,7 @@ DTEND:20261031T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ca16182c6ad268e8628bfb0d190144355f0ac2ed@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Little Monsters Halloween Brunch
 LOCATION:FROM HERE BALI\, Jl. Danau Poso No. 54\, Sanur\, Bali
@@ -1347,7 +1345,7 @@ DTEND:20261031T070000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:4c1fd3695eeca1080a274bb3d88f97c3b0891b66@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:MURDER ON THE DANCE FLOOR - DJ NADZ
 LOCATION:Atlas Beach Club\, Jl. Pantai Berawa No.88\, Tibubeneng
@@ -1368,7 +1366,7 @@ DTEND:20261031T050000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ade9f0e1ef96b2cba798877992fb97c62686a231@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Canggu Fight Night 41
 LOCATION:Atlas Super Club\, Jl. Pantai Berawa No.88\, Tibubeneng
@@ -1388,7 +1386,7 @@ DTEND:20261031T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8819405a209e1efec005044abc7ec083208c64ad@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:LUNA'S - JUNGLE OF THE DAMNED - HALLOWEEN SPECIAL
 LOCATION:Luna Beach Club\, Jl. Kayangan\, Beraban\, Kec. Kediri Tabanan
@@ -1441,8 +1439,29 @@ DTSTART:20261031T060000Z
 DTEND:20261031T070000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:b786a8baaa4d6002ec0d4e1abf3d60337da60eb0@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:HALLOWEEN TREATS at BalikiddoPastry
+LOCATION:BALIKIDDOPASTRY\, Kerobokan. Perumahan Padang kartika 1 gang V no 
+ 30 (rumah paling ujung sebelah kanan)
+DESCRIPTION:DON’T MISS OUT OUR HALLOWEEN TREAT 🍪 BLOODY VAMPIRE COOKIE
+ S 🧛‍♂️ 🕷️ SPIDERS & PUMKINS CHOCOLATE MOLDING 🎃 When : Sa
+ turday\,31 Oct Start : 2PM Where: Kerobokan Duration : 75 minutes Price : 
+ 250 K 6 space available. Quality ingredients. Real pastry. Happy kids. At 
+ BalikiddoPastry\, our classes are led by a French-qualified pastry chef\, 
+ […]\n\nMore info: https://thehoneycombers.com/bali/event/halloween-treat
+ s-at-balikiddopastry/\n\nPlease verify with the organizer before attending
+ .
+URL:https://thehoneycombers.com/bali/event/halloween-treats-at-balikiddopas
+ try/
+STATUS:CONFIRMED
+DTSTART:20261031T060000Z
+DTEND:20261031T070000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:9ce2bbfd84f6dfc477cb79034bc45dc8f3c5872f@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:HAYDEN JAMES
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -1463,7 +1482,7 @@ DTEND:20261031T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5a9e4eff4d1349f957b257229b9fac596b42e8b6@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:ODYSSEY
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -1482,8 +1501,8 @@ DTEND:20261031T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c11d1012d781943e48205934911e740d507fb885@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:1
+DTSTAMP:20261027T213126Z
+SEQUENCE:2
 SUMMARY:Kamasan Portait Painting Workshop with Bali Artist Made Chandra
 LOCATION:BK Creative Hub\, Jl. Plawa Gg. Melati No.2\, Seminyak\, Kec. Kuta
  \, Kabupaten Badung\, Bali 80361
@@ -1497,13 +1516,13 @@ DESCRIPTION:Spend an afternoon exploring Balinese art through a hands-on Ka
   organizer before attending.
 URL:https://thehoneycombers.com/bali/event/kamasan-portait-painting-worksho
  p-with-bali-artist-made-chandra/
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 DTSTART:20261031T070000Z
 DTEND:20261031T093000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5bb095ac8df5c8643be2109317e2465d5f9e0dbc@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Shows on Ice! First time in Bali
 LOCATION:Nuanu Creative City\, Beraban\, Kediri\, Tabanan
@@ -1569,7 +1588,7 @@ DTEND:20261031T090000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ccec0d5343003d458b0f88cca42c7d259194e5e3@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Dolan's Haunted House
 LOCATION:Dolan Restaurant & Park\, Dolan Restaurant & Park\, Jl. Pura Dalem
@@ -1589,7 +1608,7 @@ DTEND:20261031T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:77479b56c1d92763a5326ad66252c74cf1e22d8d@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Vines After Dark
 LOCATION:7AM 7PM Ubud\, pen · Closes 12.00 am Jl. Raya Pengosekan No.2013B
@@ -1608,7 +1627,7 @@ DTEND:20261031T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8f568b8366c9073d3581a8136cf57dd1744e237b@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Traditional Shadow Puppet Wayang Show at Blue Karma Creative Hub
 LOCATION:BK Creative Hub\, Jl. Plawa Gg. Melati No.2\, Seminyak\, Kec. Kuta
@@ -1629,7 +1648,7 @@ DTEND:20261031T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:11b7df769827f5736b0e6a1e2ebf2ce82d947070@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Pasar Senggol Night Market & Carnival
 LOCATION:Renaissance Bali Uluwatu Resort & Spa\, Jl. Pantai Balangan I No.1
@@ -1648,7 +1667,7 @@ DTEND:20261031T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5b577721fc3e52737886ff27ab6204d4941d299c@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:DISKO AFRIKA : NIGHT OF THE SHADOWS
 LOCATION:Desa Kitsuné\, Jl. Munduk Catu No.9\, Canggu\, Kec. Kuta Utara\, 
@@ -1672,17 +1691,18 @@ DTEND:20261031T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fd924fcd7f8cefed157065062183a2c88b596f8f@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
+DTSTAMP:20261027T213126Z
+SEQUENCE:1
 SUMMARY:WIN WIN RESTAURANT: IT’S A MET GALA HALLOWEEN 🖤
 LOCATION:WIN WIN RESTAURANT AT ETTA THE PLACE\, Inside Etta The Place\, Jl.
   Pemelisan Agung\, Tibubeneng\, Kuta Utara\, Kabupaten Badung\, Bali
-DESCRIPTION:THINK BLACK TIE WITH A DARK TWIST\, ENJOY OPULENT CANAPÉS\, CO
- CKTAILS + PLENTY OF SURPRISES. BOOK DINNER AT @winwintherestaurant AND YOU
- R ENTRY TO THE PARTY IS ON FREE. NOT DINING? TICKETS ARE 300K. PROCEEDS GO
-  TO @sungaiwatch BOOK NOW\, SPACES ARE LIMITED.\n\nMore info: https://theh
- oneycombers.com/bali/event/win-win-restaurant-its-a-met-gala-halloween/\n\
- nPlease verify with the organizer before attending.
+DESCRIPTION:It’s a Met Gala Halloween 🖤 When: Saturday 31st. Where: Pa
+ lace Disco at Etta the Place. Time: 8pm til late. Think black tie with a d
+ ark twist\, enjoy opulent canapés\, cocktails + plenty of surprises. Book
+  dinner at Win Win\, the newly opened restaurant at Etta the Place\, and y
+ our entry to the party is […]\n\nMore info: https://thehoneycombers.com/
+ bali/event/win-win-restaurant-its-a-met-gala-halloween/\n\nPlease verify w
+ ith the organizer before attending.
 URL:https://thehoneycombers.com/bali/event/win-win-restaurant-its-a-met-gal
  a-halloween/
 STATUS:CONFIRMED
@@ -1690,8 +1710,26 @@ DTSTART:20261031T120000Z
 DTEND:20261031T160000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:e2f3d57ef78d0bfd21a3b06b634243fc011f356c@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Bad Spirits
+LOCATION:Tamba By Junsei\, Jl. Danau Tamblingan No. 49\, Sanur\, Bali
+DESCRIPTION:*BAD SPIRITS*\, on Saturday\, 31 October. We’re hosting a Hal
+ loween night at Tamba featuring special cocktails\, tarot readings\, a bes
+ t-dressed competition\, and music by Punang Adipradana & re.kreasi.studio.
+  *Event details:* 🎃 BAD SPIRITS: A Halloween Affair 🗓 Saturday\, 31 
+ October 2026 🕣 From 8.30 PM onwards 📍 Tamba by Junsei\, Jl. Danau Ta
+ mblingan No. 49\, […]\n\nMore info: https://thehoneycombers.com/bali/eve
+ nt/bad-spirits/\n\nPlease verify with the organizer before attending.
+URL:https://thehoneycombers.com/bali/event/bad-spirits/
+STATUS:CONFIRMED
+DTSTART:20261031T123000Z
+DTEND:20261031T160000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:ed2fceeed391ca3d8127bbf12d569cb8273e1806@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:LOST & FOUND - LOST SOULS | HALLOWEEN PARTY at The Ocean Deck
 LOCATION:Ulu Cliffhouse\, Pecatu\, South Kuta\, Pecatu
@@ -1714,7 +1752,7 @@ DTEND:20261031T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f9b1c166de44174511bad488ff16690c1aaff744@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:La Brisa Halloween x Basement Love x PNNY ft. Young Marco
 LOCATION:La Brisa Bali\, Jl. Pantai Batu Mejan\, Canggu
@@ -1738,7 +1776,7 @@ DTEND:20261031T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8ae8f80ad91f806a5fd35bb4b1e7dd1e255f83b8@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:DIA DE LOS MUERTOS
 LOCATION:Tabu\, Jl. Labuansait No.10\, Pecatu
@@ -1763,8 +1801,32 @@ DTSTART:20261031T130000Z
 DTEND:20261031T140000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:b50f45c48649f7cee54596c25186807b30f43413@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Unchained: Halloween Face2Face Rave
+LOCATION:GATE 88\, Jl. Raya Kerobokan No.88\, Kerobokan Kelod\, Kuta Utara
+DESCRIPTION:🔥 UNCHAINED PRESENTS: HALLOWEEN FACETOFACE 🔥 Rooftop Rave
+  — October 31 | 22:00–05:00 This Halloween\, Unchained takes over the 
+ rooftop for a 7-hour Face2Face showcase bringing Bali’s hardest sounds t
+ ogether for one massive night. ⛓️ THE LINEUP MOJI F2F TANE & JESYKA AL
+ LYN F2F LAZ+H OLLIE CROWE F2F BULLO WARATH F2F M999 AIDEN V ALMO No ordina
+ ry sets. No safe choices. Just Face2Face battles\, relentless energy and s
+ even hours of hard techno under the Bali night sky. Come for the music. St
+ ay for the chaos. October 31 • 22:00–05:00 UNCHAINED HALLOWEEN ⛓️
+ 🎃 Tickets: https://megatix.co.id/events/unchained-halloween-face2face-r
+ ave?utm_source=baligasm\n\nMore info: https://baligasm.com/event/gate-88-u
+ nchained-halloween-face2face-rave-oct-2026\n\nPlease verify with the organ
+ izer before attending.
+URL:https://baligasm.com/event/gate-88-unchained-halloween-face2face-rave-o
+ ct-2026
+STATUS:CONFIRMED
+DTSTART:20261031T140000Z
+DTEND:20261031T150000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:e413bb3e99b1c75bc6c30efa262a9be0618f2035@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Shows on Ice! Halloween Edition: Dracula on Ice
 LOCATION:BLOCK42 at NUANU\, Beraban\, Kediri\, Tabanan
@@ -1833,32 +1895,8 @@ DTSTART:20261031T140000Z
 DTEND:20261031T150000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:b50f45c48649f7cee54596c25186807b30f43413@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
-SUMMARY:Unchained: Halloween Face2Face Rave
-LOCATION:GATE 88\, Jl. Raya Kerobokan No.88\, Kerobokan Kelod\, Kuta Utara
-DESCRIPTION:🔥 UNCHAINED PRESENTS: HALLOWEEN FACETOFACE 🔥 Rooftop Rave
-  — October 31 | 22:00–05:00 This Halloween\, Unchained takes over the 
- rooftop for a 7-hour Face2Face showcase bringing Bali’s hardest sounds t
- ogether for one massive night. ⛓️ THE LINEUP MOJI F2F TANE & JESYKA AL
- LYN F2F LAZ+H OLLIE CROWE F2F BULLO WARATH F2F M999 AIDEN V ALMO No ordina
- ry sets. No safe choices. Just Face2Face battles\, relentless energy and s
- even hours of hard techno under the Bali night sky. Come for the music. St
- ay for the chaos. October 31 • 22:00–05:00 UNCHAINED HALLOWEEN ⛓️
- 🎃 Tickets: https://megatix.co.id/events/unchained-halloween-face2face-r
- ave?utm_source=baligasm\n\nMore info: https://baligasm.com/event/gate-88-u
- nchained-halloween-face2face-rave-oct-2026\n\nPlease verify with the organ
- izer before attending.
-URL:https://baligasm.com/event/gate-88-unchained-halloween-face2face-rave-o
- ct-2026
-STATUS:CONFIRMED
-DTSTART:20261031T140000Z
-DTEND:20261031T150000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:433be15406958146feb7b60b1f4d83d295ae3b8b@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:HALLOWEEN LATIN PARTY YONAGUNI FIESTA X ATLAS SUPER CLUB
 LOCATION:Atlas Super Club\, Jl. Pantai Berawa No.88\, Tibubeneng
@@ -1900,7 +1938,7 @@ DTEND:20261031T160000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a16817d743824350de73966ed1c6ecf1781d8a31@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Ku De Ta Family Sunday Halloween 2026
 LOCATION:KU DE TA\, Jl. Kayu Aya No.9\, Seminyak
@@ -1928,7 +1966,7 @@ DTEND:20261101T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:be25c8bd80e3fc07dc9aea28fbd61b0dfcc8202f@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:R&B SUNDAYS x DAY FADE - DJ NINO BROWN
 LOCATION:Atlas Beach Club\, Jl. Pantai Berawa No.88\, Tibubeneng
@@ -1950,7 +1988,7 @@ DTEND:20261101T050000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:108fe0ba8cf0ad1116bfba0c5b0c8f00f884835f@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:FALLEN WONDERLAND - HALLOWEEN COSTUME CONTEST
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -1972,24 +2010,8 @@ DTSTART:20261101T070000Z
 DTEND:20261101T080000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:cd27916d5b82ee94463dc3140ae54513357e7d51@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:1
-SUMMARY:Welcome Drinks
-LOCATION:Tribal Bali Coworking Hostel
-DESCRIPTION:​Meet. Connect. Feel at home. ​Every Monday\, we invite you
-  to join a casual gathering designed to help you settle in\, meet fellow T
- ribalers\, and kickstart... (weekly series)\n\nMore info: https://balisqua
- d.com/event/tribal-bali-1-kduZsu\n\nPlease verify with the organizer befor
- e attending.
-URL:https://balisquad.com/event/tribal-bali-1-kduZsu
-STATUS:TENTATIVE
-DTSTART:20261102T093000Z
-DTEND:20261102T103000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:c59f599b61a9cc051e2965c5f65975610f539320@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Melbourne Cup 2026
 LOCATION:Kuta Social Club\, Jl. Pantai Kuta No.32 Mamaka By Ovolo\, Kuta 80
@@ -2010,7 +2032,7 @@ DTEND:20261103T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:82045f3d9873d691dca0b397aa138eec32f9de26@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Tuesday Game Night at Hatch
 LOCATION:Hatch Uluwatu
@@ -2025,8 +2047,28 @@ DTSTART:20261103T090000Z
 DTEND:20261103T154500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:0cd59068948035919ef537726b9471c1126735ee@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Canggu AI Meetup
+LOCATION:Tropical Nomad\, Canggu
+DESCRIPTION:Working AI projects take the floor in seven-minute demos\, each
+  followed by seven minutes of audience Q&A with guest Keira Nesdale. AI bu
+ ilders and project presenters can connect around product development\; pre
+ senters may sign up to show a working project. (Organizer: Nicholas Levens
+ tein) Register: https://www.eventbrite.com/e/canggu-ai-meetup-special-gues
+ t-keira-nesdale-tickets-2003954051513\n\nMore info: https://miranesia.com/
+ bali/canggu/canggu-ai-meetup-2026-11-03-128f532a422b/\n\nPlease verify wit
+ h the organizer before attending.
+URL:https://miranesia.com/bali/canggu/canggu-ai-meetup-2026-11-03-128f532a4
+ 22b/
+STATUS:CONFIRMED
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:95c2c19f673250b94e8a15fd9ac0ab20e3bc2d91@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Acoustic Rhythm and Cocktail Festival
 LOCATION:No Jl. Melasti No.1
@@ -2042,7 +2084,7 @@ DTEND:20261103T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a5ffa7319882a7f1816b7de1d10012234a9c48c6@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:JORDAN JOHN
 LOCATION:Desa Kitsuné\, Jl. Munduk Catu No.9\, Canggu\, Kec. Kuta Utara\, 
@@ -2064,8 +2106,25 @@ DTSTART:20261103T120000Z
 DTEND:20261103T130000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:95e83a10f3afb592e22e68626a987e0f2d63a9e9@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:AI Coworking and Networking
+LOCATION:AT 06 TRAIN AT SIX\, Batu Bolong
+DESCRIPTION:AI Coworking and Networking is a meetup in Canggu. Expect a han
+ ds-on crowd — open to founders. Free to join. Hosted by AT 06. Register:
+  https://balisquad.com/event/at-06--t4Bl_\n\nMore info: https://miranesia.
+ com/bali/canggu/ai-coworking-and-networking-2026-11-04-be1e3c8715b6/\n\nPl
+ ease verify with the organizer before attending.
+URL:https://miranesia.com/bali/canggu/ai-coworking-and-networking-2026-11-0
+ 4-be1e3c8715b6/
+STATUS:CONFIRMED
+DTSTART:20261104T040000Z
+DTEND:20261104T100000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf9b28b79da9d11557b5bd71370c82acee63bd76@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:How I AI | Season 2 · Edition 18
 LOCATION:Seoul Soul Project\, Canggu
@@ -2081,7 +2140,7 @@ DTEND:20261104T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:aab2e5b571009571fc4947115b73727c570ab5e5@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:How I AI
 LOCATION:Seoul Soul Project\, Canggu
@@ -2098,7 +2157,7 @@ DTEND:20261104T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:033b098f6e0c96458c9baa99eed8a3493f399d52@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:BALI FOUNDERS: Startup Growth Mastermind
 LOCATION:B Work Bali\, Jl. Nelayan No.9C\, Canggu\, Kec. Kuta Utara\, Kabup
@@ -2115,7 +2174,7 @@ DTEND:20261104T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:077be708f2b6b55a3181c5d8323b49bf0013b622@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:ENOO NAPA
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -2134,7 +2193,7 @@ DTEND:20261104T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d366b30892745587c446f4592afc0101f9109ce6@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Hackanur
 LOCATION:Over the Moon Cafe\, Sanur
@@ -2152,7 +2211,7 @@ DTEND:20261105T040000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:60859f794e31e4c7c1b066f4a258da6cda028b54@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Genius Future Summit 2026
 LOCATION:Nuanu Creative City\, Beraban\, Kediri\, Tabanan
@@ -2198,7 +2257,7 @@ DTEND:20261105T050000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fef8cfa39f8d9769f0bdbf52f14a50d6d300cf6c@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:1
 SUMMARY:Genius Future Summit 2026
 LOCATION:Nuanu Creative City\, Tabanan
@@ -2217,7 +2276,7 @@ DTEND:20261105T050000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f35c8c10d79f71c155116781720b1c6ef67663d3@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:YOUSUKE YUKIMATSU
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -2238,7 +2297,7 @@ DTEND:20261106T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b5cb82ba09d3520bd767a0d57d8fb7675b38e7d7@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Bitcoin Games Night
 LOCATION:Bitcoin House Bali
@@ -2256,7 +2315,7 @@ DTEND:20261106T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:4dcad439c0f541d231ed0e0f766c6404814e71d9@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Bitcoin Beach Walk Bali
 LOCATION:Pererenan Beach\, Jl. Pantai Pererenan No.171\, Kabupaten Badung
@@ -2272,7 +2331,7 @@ DTEND:20261106T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:aaefaccef2b6b5fd3f28222af0ffaf49eca88671@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Bitcoin Beach Walk Bali
 LOCATION:Pererenan Beach
@@ -2293,7 +2352,7 @@ DTEND:20261106T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f8d78e109ce88a2959144647145ffeaff650a161@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Bitcoin Games Night
 LOCATION:Bitcoin House\, Canggu
@@ -2312,8 +2371,8 @@ DTEND:20261106T103000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:68f2071708c16844f080522631e964bd10743796@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
+DTSTAMP:20261027T213126Z
+SEQUENCE:1
 SUMMARY:Bitcoin Games Night
 LOCATION:Bitcoin House Bali\, Kec. Kuta Utara
 DESCRIPTION:Join our games night to meet likeminded people and learn in a f
@@ -2321,13 +2380,13 @@ DESCRIPTION:Join our games night to meet likeminded people and learn in a f
   https://www.eventbrite.com/e/bitcoin-games-night-tickets-1298178208969\n\
  nPlease verify with the organizer before attending.
 URL:https://www.eventbrite.com/e/bitcoin-games-night-tickets-1298178208969
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 DTSTART:20261106T090000Z
 DTEND:20261106T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:767e0c2a5c9ae0c09b02c2cfe12efcc72e3d67fe@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:ELVIS GUETTA
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -2346,7 +2405,7 @@ DTEND:20261106T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:06cd5e4c5ca92aa83f092a36588f8f07a4456ca5@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Kite Day Out: Traditional Balinese Kite Making & Beach Picnic
 LOCATION:Denpasar\, Center\, Denpasar
@@ -2364,7 +2423,7 @@ DTEND:20261107T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:85d953fc93b0a6c1efc2304d683cc63c523227fc@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:1
 SUMMARY:n8n Workshop Bali
 LOCATION:Institut Teknologi Dan Bisnis Stikom Bali Kampus\, Jimbaran
@@ -2382,7 +2441,7 @@ DTEND:20261107T043000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:50159b67a17e9931863d758168b01e2ed22541e0@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:PATRICK MASON
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -2403,7 +2462,7 @@ DTEND:20261107T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5cdd5266c2b6830b6a1bff1d9c31f246a98295cc@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Cameron Jack
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -2423,7 +2482,7 @@ DTEND:20261107T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:6cf4cdacbf19bce5bb0e409ec6285e63908adb76@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:THE BROLAB 7.0
 LOCATION:Studio Pepe Bali\, Jl. Pemelisan Agung\, Tibubeneng\, Berawa\, Kab
@@ -2441,7 +2500,7 @@ DTEND:20261108T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f068dd61883e2ffc6df3d6f0418fd0ede4795944@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:ELVIS GUETTA
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -2461,40 +2520,8 @@ DTSTART:20261108T050000Z
 DTEND:20261108T060000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:0455607cf057827ee3ef1bc9d5a3c3aaeef5d65e@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
-SUMMARY:Tuesday Game Night at Hatch
-LOCATION:Hatch Uluwatu
-DESCRIPTION:TUESDAY GAMES NIGHT at Hatch Every Tuesday from 5pm – midnigh
- t Embrace your competitive side at Tuesday Games Night! Join us at 5pm for
-  thrilling game tour... (weekly series)\n\nMore info: https://balisquad.co
- m/event/hatch-uluwatu-F-gCKV\n\nPlease verify with the organizer before at
- tending.
-URL:https://balisquad.com/event/hatch-uluwatu-F-gCKV
-STATUS:CONFIRMED
-DTSTART:20261110T090000Z
-DTEND:20261110T154500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:3ee61f42cdc7ec27abeea0c500694e7e04a65dee@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
-SUMMARY:Agentic Engineering Meetup
-LOCATION:Bitcoin House Bali\, Kec. Kuta Utara
-DESCRIPTION:Monthly hands-on vibe coding meetup in Canggu to increase your 
- productivity with AI tools. (Organizer: Code Orange Dev School)\n\nMore in
- fo: https://www.eventbrite.com/e/agentic-engineering-meetup-tickets-199129
- 9805322\n\nPlease verify with the organizer before attending.
-URL:https://www.eventbrite.com/e/agentic-engineering-meetup-tickets-1991299
- 805322
-STATUS:CONFIRMED
-DTSTART:20261110T090000Z
-DTEND:20261110T100000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:ff29430c45594653333f074c9e1f052d8b063e5c@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Agentic Engineering Meetup
 LOCATION:Bitcoin House\, Canggu
@@ -2512,9 +2539,41 @@ DTSTART:20261110T090000Z
 DTEND:20261110T103000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:0455607cf057827ee3ef1bc9d5a3c3aaeef5d65e@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:1
+SUMMARY:Tuesday Game Night at Hatch
+LOCATION:Hatch Uluwatu
+DESCRIPTION:TUESDAY GAMES NIGHT at Hatch Every Tuesday from 5pm – midnigh
+ t Embrace your competitive side at Tuesday Games Night! Join us at 5pm for
+  thrilling game tour... (weekly series)\n\nMore info: https://balisquad.co
+ m/event/hatch-uluwatu-F-gCKV\n\nPlease verify with the organizer before at
+ tending.
+URL:https://balisquad.com/event/hatch-uluwatu-F-gCKV
+STATUS:TENTATIVE
+DTSTART:20261110T090000Z
+DTEND:20261110T154500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3ee61f42cdc7ec27abeea0c500694e7e04a65dee@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:1
+SUMMARY:Agentic Engineering Meetup
+LOCATION:Bitcoin House Bali\, Kec. Kuta Utara
+DESCRIPTION:Monthly hands-on vibe coding meetup in Canggu to increase your 
+ productivity with AI tools. (Organizer: Code Orange Dev School)\n\nMore in
+ fo: https://www.eventbrite.com/e/agentic-engineering-meetup-tickets-199129
+ 9805322\n\nPlease verify with the organizer before attending.
+URL:https://www.eventbrite.com/e/agentic-engineering-meetup-tickets-1991299
+ 805322
+STATUS:TENTATIVE
+DTSTART:20261110T090000Z
+DTEND:20261110T100000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:23f605a3834b5c6a577afa6282b11b9bcd90af0c@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
+DTSTAMP:20261027T213126Z
+SEQUENCE:1
 SUMMARY:Acoustic Rhythm and Cocktail Festival
 LOCATION:No Jl. Melasti No.1
 DESCRIPTION:LIVE ACOUSTIC NIGHTS Enjoy live acoustic performances every Tue
@@ -2523,13 +2582,13 @@ DESCRIPTION:LIVE ACOUSTIC NIGHTS Enjoy live acoustic performances every Tue
  om/event/salty-soul-kitchen-and-bar-NPr0EQ\n\nPlease verify with the organ
  izer before attending.
 URL:https://balisquad.com/event/salty-soul-kitchen-and-bar-NPr0EQ
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 DTSTART:20261110T113000Z
 DTEND:20261110T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:91aa095f1a48b08ea95c8d4314a90917a249a172@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:BARON
 LOCATION:Desa Kitsuné\, Jl. Munduk Catu No.9\, Canggu\, Kec. Kuta Utara\, 
@@ -2551,7 +2610,7 @@ DTEND:20261110T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ece6523047a2d8297cf50e410c5912192c442f91@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:How I AI | Season 2 · Edition 19
 LOCATION:Seoul Soul Project\, 80361\, Jl. Canggu Padang Linjong No.61\, Can
@@ -2569,7 +2628,7 @@ DTEND:20261111T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1ab6d3e49930f35aee5d5d2f6e5eadfc18b1a959@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:TAYLLOR
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -2588,7 +2647,7 @@ DTEND:20261111T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:501fdae5f590b371b276ea811e934d867addad70@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Bali Startup and Tech Networking Drinks & Dinner - Canggu #39
 LOCATION:Yema Kitchen\, Jl. Tanah Barak No.31\, Kabupaten Badung
@@ -2605,7 +2664,7 @@ DTEND:20261112T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d5c43cb4902058372c4249374836160d4b81135e@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:SOUTHERN TRIBE
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -2626,8 +2685,8 @@ DTEND:20261113T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3acbdcbd914bf2edcc80f2956d52cefd32cbbb33@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
+DTSTAMP:20261027T213126Z
+SEQUENCE:1
 SUMMARY:Bitcoin for Beginners
 LOCATION:Bitcoin House Bali\, Kec. Kuta Utara
 DESCRIPTION:Bitcoin meetup at the Bitcoin House Bali. Newcomers are welcome
@@ -2636,13 +2695,13 @@ DESCRIPTION:Bitcoin meetup at the Bitcoin House Bali. Newcomers are welcome
  e/bitcoin-for-beginners-tickets-970270373807\n\nPlease verify with the org
  anizer before attending.
 URL:https://www.eventbrite.com/e/bitcoin-for-beginners-tickets-970270373807
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 DTSTART:20261113T090000Z
 DTEND:20261113T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ae1f03c9bb20ca1654ae594b35c50a6c1ec042b7@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:LEE BURRIDGE
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -2661,7 +2720,7 @@ DTEND:20261113T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a64f08597acff524af67bd4d8361248f5cb441ea@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:GEMA NUSANTARA
 LOCATION:The Apurva Kempinski Bali\, Jl. Raya Nusa Dua Selatan No.4\, Benoa
@@ -2703,7 +2762,7 @@ DTEND:20261114T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:92490326047cb0121ad91b0ce51ceeee07ddfc5b@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:AFRO BROS
 LOCATION:Atlas Beach Club\, Jl. Pantai Berawa No.88\, Tibubeneng
@@ -2723,7 +2782,7 @@ DTEND:20261114T050000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:98655ec38b8ca4e3135c275966af8bf12dd49cef@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:MK
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -2744,7 +2803,7 @@ DTEND:20261114T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:4caac7b6aff0ccf76c4b86d3dc0a41fed8849cfa@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:LEE BURRIDGE
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -2765,7 +2824,7 @@ DTEND:20261115T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:65dbf93948ff379204239cdaf9dab3699829198c@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:THE JUNGLE CLUB x R&B SUNDAY
 LOCATION:The Jungle Club Ubud\, Jl. Jaga Raga No.8A\, Celuk
@@ -2789,7 +2848,7 @@ DTEND:20261115T070000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ff471cf2079def3bdd918df0ec63ccab4be90aca@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:BENJA
 LOCATION:Desa Kitsuné\, Jl. Munduk Catu No.9\, Canggu\, Kec. Kuta Utara\, 
@@ -2811,7 +2870,7 @@ DTEND:20261117T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1399dc21d5ee989b4f77b99f499905b8fa485bd8@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:How I AI | Season 2 · Edition 20
 LOCATION:Seoul Soul Project\, 80361\, Jl. Canggu Padang Linjong No.61\, Can
@@ -2829,7 +2888,7 @@ DTEND:20261118T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:79b2ddba04f2f984e3917f1c43b24739f435f53b@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:GIOLI & ASSIA
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -2849,7 +2908,7 @@ DTEND:20261120T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:10b4eda9f3f0ca6bfe22570cd977055397133abb@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:DAMIAN LAZARUS
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -2870,8 +2929,8 @@ DTEND:20261121T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1b9ad9da9e442309627cae17d05c406a58f35d93@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
+DTSTAMP:20261027T213126Z
+SEQUENCE:1
 SUMMARY:Bitcoin For Merchants - Use Bitcoin For Your Business (Bali Bitcoin
   Island)
 LOCATION:Bitcoin House Bali\, Kec. Kuta Utara
@@ -2882,13 +2941,13 @@ DESCRIPTION:Join our monthly onboarding session to learn about Bitcoin and
  -1249763138189\n\nPlease verify with the organizer before attending.
 URL:https://www.eventbrite.com/e/bitcoin-for-merchants-use-bitcoin-for-your
  -business-bali-bitcoin-island-tickets-1249763138189
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 DTSTART:20261121T083000Z
 DTEND:20261121T093000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8698c386051be54c9485cedb69abf7ceeac361f1@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:GIOLÌ & ASSIA
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -2909,7 +2968,7 @@ DTEND:20261122T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b2f37861b10b96699f965d5e3e2426013057b7d4@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:FRANC FALA
 LOCATION:Desa Kitsuné\, Jl. Munduk Catu No.9\, Canggu\, Kec. Kuta Utara\, 
@@ -2931,7 +2990,7 @@ DTEND:20261124T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:380f4eec947025a13810fd4b486f2af3154bcb9d@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:How I AI | Season 2 · Edition 21
 LOCATION:Seoul Soul Project\, 80361\, Jl. Canggu Padang Linjong No.61\, Can
@@ -2949,7 +3008,7 @@ DTEND:20261125T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:372f38e6d6ef477be26cb8751ed8d19b7bbf852d@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:DAMIAN LAZARUS
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -2968,7 +3027,7 @@ DTEND:20261125T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e07b9e9653b0d88fc78cffc45e2ccc72f477d101@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:FULL MOON
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -2989,7 +3048,7 @@ DTEND:20261127T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:4d80bc211867651e49915861da61f8bbc99013e5@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:JOSEPH CAPRIATI
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -3009,7 +3068,7 @@ DTEND:20261127T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8912a8d5fd5927ad3f56c468692e2a3b98e82388@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:DJ HABIBEATS
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -3030,7 +3089,7 @@ DTEND:20261128T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fe12fce99cffaa563aeb7c429ca50c9753f09964@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:RITUAL "The Sunset Mansion" ft. Michael Mayer - VILLA PARTY
 LOCATION:SUNSET BEACH BALI | Seminyak Beach\, Jl. Sarinande No.25\, Seminya
@@ -3081,7 +3140,7 @@ DTEND:20261128T090000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:6bedc7355773a485f382af99a7b4feb4f8723533@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:SCHOOLIES AT MRS SIPPY
 LOCATION:Mrs Sippy Bali\, Jl Taman Ganesha\, Gang Gagak 8\, Seminyak
@@ -3104,7 +3163,7 @@ DTEND:20261129T040000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:27d5e18952cfe85e2c59a7e3ed35899417f4be29@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:JOSEPH CAPRIATI
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -3125,7 +3184,7 @@ DTEND:20261129T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:016ad52ce9868b30bbd8b589a57b254c61888143@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Connections Bali 2026
 LOCATION:Bali Beach Glamping\, Jl. Kebo Iwa\, Jl. Batu Tampih Kangin\, Pang
@@ -3150,7 +3209,7 @@ DTEND:20261204T070000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cfed784536e81433f58d0d1f9332c3b3f975f93f@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:DEFECTED
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -3171,7 +3230,7 @@ DTEND:20261204T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8c4660bb070bfa17b492270fd12a7a3d7caf6302@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:MIND AGAINST
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -3192,7 +3251,7 @@ DTEND:20261205T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:adfcc9f5ee2935f16f374bcb6f4304ffac5d095d@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:AMÉMÉ
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -3213,7 +3272,7 @@ DTEND:20261206T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:609b154a8effe39f5c952e2d13e86e1eeaa2009d@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:AMÉMÉ
 LOCATION:Desa Kitsuné\, Jl. Munduk Catu No.9\, Canggu\, Kec. Kuta Utara\, 
@@ -3235,7 +3294,7 @@ DTEND:20261208T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf5282a476a5bd51ca782e43944786d10fdaa6f0@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:LUUK VAN DIJK
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -3255,7 +3314,7 @@ DTEND:20261209T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8cb51c449b6faf840adaff209b2a845237138b8a@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:DJ TENNIS
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -3273,27 +3332,8 @@ DTSTART:20261211T070000Z
 DTEND:20261211T080000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:16022ccbcb0a34c80740f22f0536ef603aa9e660@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
-SUMMARY:Bali Square Garden
-LOCATION:GOR Purna Krida\, Jl. Raya Kerobokan No.11\, Kerobokan Kaja\, Kuta
-  Utara
-DESCRIPTION:GARUDA LEGACY PROMOTION BALI SQUARE GARDEN 12.12.2026 · BALI T
- he biggest fight night Bali has ever seen. Professional Boxing and Muay Th
- ai. 12 bouts. All on one night\, in one arena. Live DJ. Full arena. Everyo
- ne will be there. Tickets: https://megatix.co.id/events/bali-square-garden
- ?utm_source=baligasm\n\nMore info: https://baligasm.com/event/gor-purna-kr
- ida-bali-square-garden-dec-2026\n\nPlease verify with the organizer before
-  attending.
-URL:https://baligasm.com/event/gor-purna-krida-bali-square-garden-dec-2026
-STATUS:CONFIRMED
-DTSTART:20261212T070000Z
-DTEND:20261212T080000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:2d08925a6fafabffc3e6975e39c0b9aaff602e7c@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:CAMELPHAT
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -3313,8 +3353,27 @@ DTSTART:20261212T070000Z
 DTEND:20261212T080000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:16022ccbcb0a34c80740f22f0536ef603aa9e660@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:Bali Square Garden
+LOCATION:GOR Purna Krida\, Jl. Raya Kerobokan No.11\, Kerobokan Kaja\, Kuta
+  Utara
+DESCRIPTION:GARUDA LEGACY PROMOTION BALI SQUARE GARDEN 12.12.2026 · BALI T
+ he biggest fight night Bali has ever seen. Professional Boxing and Muay Th
+ ai. 12 bouts. All on one night\, in one arena. Live DJ. Full arena. Everyo
+ ne will be there. Tickets: https://megatix.co.id/events/bali-square-garden
+ ?utm_source=baligasm\n\nMore info: https://baligasm.com/event/gor-purna-kr
+ ida-bali-square-garden-dec-2026\n\nPlease verify with the organizer before
+  attending.
+URL:https://baligasm.com/event/gor-purna-krida-bali-square-garden-dec-2026
+STATUS:CONFIRMED
+DTSTART:20261212T070000Z
+DTEND:20261212T080000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:516b05377e1ab0e3d96a6d42095fe903679d7fe0@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:George Harliono & Hera Hyesang Park
 LOCATION:Padma Resort Legian\, Jl. Padma No.1\, Legian
@@ -3348,7 +3407,7 @@ DTEND:20261212T123000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:968f4b1777f0a76bd11feeb6174f545fcf630689@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:LIVA K
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -3369,7 +3428,7 @@ DTEND:20261213T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ec48a920dc63f2cc4cd84986a875592a162a98ee@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:BJORN AGAIN: The World's Best ABBA Show! BALI
 LOCATION:Pecatu Hall – Bali Nusa Dua Convention Center (BNDCC)\, Kawasan 
@@ -3406,8 +3465,8 @@ DTEND:20261213T123000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c223fcf2d2c4ab969ad060391bfc19796a52d70b@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
+DTSTAMP:20261027T213126Z
+SEQUENCE:1
 SUMMARY:2026 EdTec–Int Conf on Education & Learning Technology\,16-17 Dec
  ember\, Bali
 LOCATION:ibis Bali Kuta\, Kec. Kuta
@@ -3418,13 +3477,13 @@ DESCRIPTION:2026 EdTec – International Conference on Education & Learning
  h the organizer before attending.
 URL:https://www.eventbrite.com/e/2026-edtecint-conf-on-education-learning-t
  echnology16-17-december-bali-tickets-1984869065807
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 DTSTART:20261216T010000Z
 DTEND:20261216T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3eef69484cdc51230bc91b52de9c004ad8c3b762@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:KITTY AMOR
 LOCATION:Zumana Bali\, Jl. Kartika Plaza No.2\, Kuta\, Badung\, 80361
@@ -3443,7 +3502,7 @@ DTEND:20261216T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:db286b4605ba39bfe970aa5a60785f625570502e@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Unchained Bali: LIL TEXAS
 LOCATION:GATE 88\, Jl. Raya Kerobokan No.88\, Kerobokan Kelod\, Kuta Utara
@@ -3469,8 +3528,8 @@ DTEND:20261216T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:348256457f89be3b9111bc188bd96bdb19a581e7@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
+DTSTAMP:20261027T213126Z
+SEQUENCE:1
 SUMMARY:International Conference on Science & Technology\, 17-18 December 2
  026\, Bali
 LOCATION:ibis Bali Kuta\, Kec. Kuta
@@ -3481,13 +3540,13 @@ DESCRIPTION:International Conference on Science & Technology\, 17-18 Decemb
  re attending.
 URL:https://www.eventbrite.com/e/international-conference-on-science-techno
  logy-17-18-december-2026-bali-tickets-1984871814027
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 DTSTART:20261217T010000Z
 DTEND:20261217T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:351c2dedbdffcb7c268b2850436c390485e7b42b@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:SOUTHERN TRIBE
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -3508,7 +3567,7 @@ DTEND:20261218T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:60cc37dcf66e90a203898c6760d2ad05db18e97a@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:VINTAGE CULTURE
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -3529,7 +3588,7 @@ DTEND:20261219T080000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7f8b2c6fb28551e1123cc9d17799318f4f2312a4@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:JACKIE HOLLANDER
 LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
@@ -3550,7 +3609,7 @@ DTEND:20261220T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:6bc0e68444d93fc1b08c7056df9314d4f87cbab7@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:THE COPPER CHRISTMAS
 LOCATION:Copper Kitchen\, Bar & Rooftop\, Jalan Bisma 68\, Ubud Kel.\, Ubud
@@ -3614,35 +3673,8 @@ DTSTART:20261224T093000Z
 DTEND:20261224T103000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:a1ea1ce06f6bcdc4441494bf430c6671e8b94855@lewagon-calendar
-DTSTAMP:20261026T215820Z
-SEQUENCE:0
-SUMMARY:THE FINAL FLAME: MORI'S HOLIDAY SEASON TEPPAN DINNER
-LOCATION:Mori\, Jl. Bisma No.68\, Ubud
-DESCRIPTION:THE FINAL FLAME MORI’S HOLIDAY SEASON TEPPAN DINNER Ring in t
- he festive season with an unforgettable culinary journey at Mori Teppanyak
- i Ubud. From December 24–25\, indulge in a special Christmas 8-course di
- nner\, where the spirit of the holidays is expressed through the finest Ja
- panese ingredients prepared with modern artistry. Each course\, from treas
- ures of the sea to delights of the land\, is crafted to celebrate together
- ness and joy. Then\, on December 31\, experience The Final Flame — an ex
- clusive New Year’s Eve 8-course dinner that closes the year with dramati
- c teppan flair\, intimate ambiance\, and flavors designed to leave lasting
-  memories. From the first bite to the final sweet note\, this is more than
-  dinner — it’s Ubud’s most refined holiday celebration. DATE Thursda
- y & Friday\, 24 & 25 December 2026 Thursday & Friday\, 31 December 2026 & 
- 1 January 2027 TIME First seating is at 6 pm and onwards PRICE Starts from
-  idr 2.350.000 ++ per person Tickets: https://web.facebook.com/share/1FCuc
- FtPam/\n\nMore info: https://baligasm.com/event/mori-the-final-flame-dec-2
- 026\n\nPlease verify with the organizer before attending.
-URL:https://baligasm.com/event/mori-the-final-flame-dec-2026
-STATUS:CONFIRMED
-DTSTART:20261224T100000Z
-DTEND:20261224T110000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:622966a8e41fcd941a2995eebfea5c83db2d07f6@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:FIRESIDE FEAST: CHRISTMAS AT EMBERS UBUD
 LOCATION:Embers Restaurant\, Jl. Bisma No. 97\, Ubud
@@ -3690,8 +3722,35 @@ DTSTART:20261224T100000Z
 DTEND:20261224T110000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:a1ea1ce06f6bcdc4441494bf430c6671e8b94855@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:THE FINAL FLAME: MORI'S HOLIDAY SEASON TEPPAN DINNER
+LOCATION:Mori\, Jl. Bisma No.68\, Ubud
+DESCRIPTION:THE FINAL FLAME MORI’S HOLIDAY SEASON TEPPAN DINNER Ring in t
+ he festive season with an unforgettable culinary journey at Mori Teppanyak
+ i Ubud. From December 24–25\, indulge in a special Christmas 8-course di
+ nner\, where the spirit of the holidays is expressed through the finest Ja
+ panese ingredients prepared with modern artistry. Each course\, from treas
+ ures of the sea to delights of the land\, is crafted to celebrate together
+ ness and joy. Then\, on December 31\, experience The Final Flame — an ex
+ clusive New Year’s Eve 8-course dinner that closes the year with dramati
+ c teppan flair\, intimate ambiance\, and flavors designed to leave lasting
+  memories. From the first bite to the final sweet note\, this is more than
+  dinner — it’s Ubud’s most refined holiday celebration. DATE Thursda
+ y & Friday\, 24 & 25 December 2026 Thursday & Friday\, 31 December 2026 & 
+ 1 January 2027 TIME First seating is at 6 pm and onwards PRICE Starts from
+  idr 2.350.000 ++ per person Tickets: https://web.facebook.com/share/1FCuc
+ FtPam/\n\nMore info: https://baligasm.com/event/mori-the-final-flame-dec-2
+ 026\n\nPlease verify with the organizer before attending.
+URL:https://baligasm.com/event/mori-the-final-flame-dec-2026
+STATUS:CONFIRMED
+DTSTART:20261224T100000Z
+DTEND:20261224T110000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:d4451e8f7bee47f93788beb5c5e4f1a5b1372827@lewagon-calendar
-DTSTAMP:20261026T215820Z
+DTSTAMP:20261027T213126Z
 SEQUENCE:0
 SUMMARY:Sandy Santa Brunch
 LOCATION:Roosterfish Beach Club\, Jl. Pantai Pandawa\, Kutuh\, Kec. Kuta Se
@@ -3707,5 +3766,26 @@ URL:https://thehoneycombers.com/bali/event/sandy-santa-brunch/
 STATUS:CONFIRMED
 DTSTART:20261225T040000Z
 DTEND:20261225T080000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e462433d6f2a030c70f89aea513fb80dda61e309@lewagon-calendar
+DTSTAMP:20261027T213126Z
+SEQUENCE:0
+SUMMARY:FULL MOON
+LOCATION:Savaya Bali\, Jl. Belimbing Sari\, Banjar Tambiyak\, Pecatu\, Uluw
+ atu
+DESCRIPTION:Savaya Bali Presents FULL MOON - 26-Dec Reservations WA: +62 81
+ 1-3099-0900 reservations@savayabali.com Location https://goo.gl/maps/Hi7bZ
+ CuZbQLXg79w9 Door Policy - Capacity is strictly limited to table reservati
+ ons & ticket holders only. - Full health & safety protocols will be execut
+ ed. - This event is strictly 21+ & a valid ID will be required for entry. 
+ Management reserves the right to refuse entry for any reason. Tickets: htt
+ ps://www.savaya.com/event-calendar/december-26-2026?utm_source=baligasm\n\
+ nMore info: https://baligasm.com/event/savaya-bali-full-moon-dec-2026\n\nP
+ lease verify with the organizer before attending.
+URL:https://baligasm.com/event/savaya-bali-full-moon-dec-2026
+STATUS:CONFIRMED
+DTSTART:20261226T070000Z
+DTEND:20261226T080000Z
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-10-26T21:58:20.981742Z",
-  "event_count": 171,
+  "ran_at": "2026-10-27T21:31:26.702788Z",
+  "event_count": 175,
   "sources": {
     "baligasm": {
       "status": "ok",
@@ -9,8 +9,8 @@
     },
     "balisquad": {
       "status": "ok",
-      "count": 14,
-      "normalized": 14
+      "count": 9,
+      "normalized": 9
     },
     "bitcoinid_bali": {
       "status": "ok",
@@ -36,8 +36,8 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 32,
-      "normalized": 32
+      "count": 35,
+      "normalized": 35
     },
     "luma": {
       "status": "ok",
@@ -51,8 +51,8 @@
     },
     "miranesia": {
       "status": "ok",
-      "count": 11,
-      "normalized": 11
+      "count": 13,
+      "normalized": 13
     },
     "notion_favolist": {
       "status": "ok",
@@ -60,14 +60,15 @@
       "normalized": 59
     },
     "now_bali": {
-      "status": "ok",
-      "count": 3,
-      "normalized": 3
+      "status": "error",
+      "count": 0,
+      "error": "RuntimeError: parser assert failed: no /upcoming-events/ links on ['https://nowbali.co.id/all-events/?month=October', 'https://nowbali.co.id/all-events/?month=November']",
+      "normalized": 0
     },
     "tropicalnomad": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "count": 1,
+      "normalized": 1
     },
     "bstc": {
       "status": "ok",
