@@ -1,12 +1,11 @@
 {
-  "ran_at": "2026-10-29T19:26:53.249688Z",
-  "event_count": 169,
+  "ran_at": "2026-10-29T19:37:57.388981Z",
+  "event_count": 177,
   "sources": {
     "baligasm": {
       "status": "ok",
       "count": 88,
-      "normalized": 87,
-      "normalize_errors": 1
+      "normalized": 88
     },
     "balisquad": {
       "status": "ok",
