@@ -1,21 +1,22 @@
 {
-  "ran_at": "2026-10-26T19:31:47.170110Z",
-  "event_count": 173,
+  "ran_at": "2026-10-29T19:26:53.249688Z",
+  "event_count": 169,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 91,
-      "normalized": 91
+      "count": 88,
+      "normalized": 87,
+      "normalize_errors": 1
     },
     "balisquad": {
       "status": "ok",
-      "count": 16,
-      "normalized": 16
+      "count": 13,
+      "normalized": 13
     },
     "bitcoinid_bali": {
       "status": "ok",
-      "count": 1,
-      "normalized": 1
+      "count": 2,
+      "normalized": 2
     },
     "bitcoinonly": {
       "status": "error",
@@ -30,13 +31,13 @@
     },
     "eventbrite": {
       "status": "ok",
-      "count": 6,
-      "normalized": 6
+      "count": 8,
+      "normalized": 8
     },
     "honeycombers": {
       "status": "ok",
-      "count": 32,
-      "normalized": 32
+      "count": 31,
+      "normalized": 31
     },
     "luma": {
       "status": "ok",
@@ -50,8 +51,8 @@
     },
     "miranesia": {
       "status": "ok",
-      "count": 12,
-      "normalized": 12
+      "count": 17,
+      "normalized": 17
     },
     "notion_favolist": {
       "status": "ok",
@@ -60,18 +61,24 @@
     },
     "now_bali": {
       "status": "ok",
-      "count": 3,
-      "normalized": 3
+      "count": 2,
+      "normalized": 2
     },
     "tropicalnomad": {
+      "status": "error",
+      "count": 0,
+      "error": "RuntimeError: parser assert failed: no event payloads on https://tropicalnomad.id/events",
+      "normalized": 0
+    },
+    "bstc": {
       "status": "ok",
       "count": 2,
       "normalized": 2
     },
-    "bstc": {
+    "remotebuilders": {
       "status": "ok",
-      "count": 1,
-      "normalized": 1
+      "count": 2,
+      "normalized": 2
     }
   }
 }
