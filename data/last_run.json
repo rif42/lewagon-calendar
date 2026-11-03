@@ -1,16 +1,16 @@
 {
-  "ran_at": "2026-11-01T21:24:35.652153Z",
-  "event_count": 149,
+  "ran_at": "2026-11-03T00:06:49.037294Z",
+  "event_count": 204,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 81,
-      "normalized": 81
+      "count": 76,
+      "normalized": 76
     },
     "balisquad": {
       "status": "ok",
-      "count": 14,
-      "normalized": 14
+      "count": 51,
+      "normalized": 51
     },
     "bitcoinid_bali": {
       "status": "ok",
@@ -37,8 +37,8 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 25,
-      "normalized": 25
+      "count": 23,
+      "normalized": 23
     },
     "luma": {
       "status": "ok",
@@ -52,8 +52,8 @@
     },
     "miranesia": {
       "status": "ok",
-      "count": 18,
-      "normalized": 18
+      "count": 20,
+      "normalized": 20
     },
     "notion_favolist": {
       "status": "ok",
@@ -66,20 +66,19 @@
       "normalized": 2
     },
     "tropicalnomad": {
-      "status": "error",
-      "count": 0,
-      "error": "RuntimeError: parser assert failed: no event payloads on https://tropicalnomad.id/events",
-      "normalized": 0
+      "status": "ok",
+      "count": 4,
+      "normalized": 4
     },
     "bstc": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "count": 3,
+      "normalized": 3
     },
     "remotebuilders": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "count": 3,
+      "normalized": 3
     }
   }
 }
