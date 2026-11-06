@@ -1,16 +1,16 @@
 {
-  "ran_at": "2026-11-05T22:57:19.098547Z",
-  "event_count": 245,
+  "ran_at": "2026-11-06T22:27:32.750652Z",
+  "event_count": 241,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 101,
-      "normalized": 101
+      "count": 100,
+      "normalized": 100
     },
     "balisquad": {
       "status": "ok",
-      "count": 51,
-      "normalized": 51
+      "count": 50,
+      "normalized": 50
     },
     "bitcoinid_bali": {
       "status": "ok",
@@ -41,18 +41,18 @@
     },
     "luma": {
       "status": "ok",
-      "count": 4,
-      "normalized": 4
+      "count": 3,
+      "normalized": 3
     },
     "meetup": {
       "status": "ok",
-      "count": 7,
-      "normalized": 7
+      "count": 5,
+      "normalized": 5
     },
     "miranesia": {
       "status": "ok",
-      "count": 19,
-      "normalized": 19
+      "count": 17,
+      "normalized": 17
     },
     "notion_favolist": {
       "status": "ok",
