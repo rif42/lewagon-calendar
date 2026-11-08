@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-11-07T21:08:31.799506Z",
-  "event_count": 233,
+  "ran_at": "2026-11-08T21:24:46.097098Z",
+  "event_count": 218,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 96,
-      "normalized": 96
+      "count": 93,
+      "normalized": 93
     },
     "balisquad": {
       "status": "ok",
@@ -36,13 +36,13 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 27,
-      "normalized": 27
+      "count": 26,
+      "normalized": 26
     },
     "luma": {
       "status": "ok",
-      "count": 3,
-      "normalized": 3
+      "count": 2,
+      "normalized": 2
     },
     "meetup": {
       "status": "ok",
