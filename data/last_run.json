@@ -1,11 +1,11 @@
 {
-  "ran_at": "2026-11-08T21:24:46.097098Z",
-  "event_count": 218,
+  "ran_at": "2026-11-10T00:54:16.687958Z",
+  "event_count": 226,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 93,
-      "normalized": 93
+      "count": 92,
+      "normalized": 92
     },
     "balisquad": {
       "status": "ok",
@@ -24,9 +24,10 @@
       "normalized": 0
     },
     "bwork": {
-      "status": "ok",
-      "count": 1,
-      "normalized": 1
+      "status": "error",
+      "count": 0,
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "eventbrite": {
       "status": "error",
@@ -41,18 +42,18 @@
     },
     "luma": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "count": 5,
+      "normalized": 5
     },
     "meetup": {
       "status": "ok",
-      "count": 4,
-      "normalized": 4
+      "count": 5,
+      "normalized": 5
     },
     "miranesia": {
       "status": "ok",
-      "count": 18,
-      "normalized": 18
+      "count": 25,
+      "normalized": 25
     },
     "notion_favolist": {
       "status": "ok",
@@ -75,9 +76,10 @@
       "normalized": 3
     },
     "remotebuilders": {
-      "status": "ok",
-      "count": 3,
-      "normalized": 3
+      "status": "error",
+      "count": 0,
+      "error": "RuntimeError: parser assert failed: no JSON-LD Event blocks on https://remotebuilders.io/events/",
+      "normalized": 0
     }
   }
 }
