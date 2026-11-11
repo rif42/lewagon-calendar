@@ -1,16 +1,16 @@
 {
-  "ran_at": "2026-11-10T22:36:19.091949Z",
-  "event_count": 237,
+  "ran_at": "2026-11-11T23:45:29.911595Z",
+  "event_count": 229,
   "sources": {
     "baligasm": {
       "status": "ok",
-      "count": 92,
-      "normalized": 92
+      "count": 91,
+      "normalized": 91
     },
     "balisquad": {
       "status": "ok",
-      "count": 50,
-      "normalized": 50
+      "count": 51,
+      "normalized": 51
     },
     "bitcoinid_bali": {
       "status": "ok",
@@ -18,10 +18,9 @@
       "normalized": 3
     },
     "bitcoinonly": {
-      "status": "error",
-      "count": 0,
-      "error": "RuntimeError: parser assert failed: no upcoming blocks on https://bitcoinonly.events/bitcoin-indonesia/",
-      "normalized": 0
+      "status": "ok",
+      "count": 1,
+      "normalized": 1
     },
     "bwork": {
       "status": "error",
@@ -37,13 +36,13 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 30,
-      "normalized": 30
+      "count": 28,
+      "normalized": 28
     },
     "luma": {
       "status": "ok",
-      "count": 4,
-      "normalized": 4
+      "count": 3,
+      "normalized": 3
     },
     "meetup": {
       "status": "ok",
@@ -52,8 +51,8 @@
     },
     "miranesia": {
       "status": "ok",
-      "count": 21,
-      "normalized": 21
+      "count": 24,
+      "normalized": 24
     },
     "notion_favolist": {
       "status": "ok",
