@@ -14,7 +14,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/atomic-17/",
     "source": "honeycombers",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -33,7 +33,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/cascayu-promotion/",
     "source": "honeycombers",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -52,7 +52,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/glow-and-unwid/",
     "source": "honeycombers",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -71,7 +71,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/circa-friday-luigis-x-say-less/",
     "source": "honeycombers",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -90,368 +90,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/mr-smash-burger-arrives-in-seseh-celebrating-the-6th-bali-outlet/",
     "source": "honeycombers",
     "discovered_at": "2026-11-03T00:06:49.037294Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
-    "uid": "4f121be5e621996fcfa5ad9f7a30437825a9991d",
-    "name": "Singapore Blockchain Week",
-    "location": "Bali",
-    "description": "Cross-border blockchain discussions centre on institutional digital assets and financial links between Singapore and Malaysia. Learn about decentralised finance and tokenomics. (Organizer: Singapore Innovation Centre) Register: https://eventbrite.com/e/singapore-blockchain-week-be-advocator-of-nations-flagship-defi-event-tickets-1985227081642",
-    "start_utc": "2026-11-13T01:00:00Z",
-    "finish_utc": "2026-11-13T14:00:00Z",
-    "all_day": false,
-    "area": "Other",
-    "category": "Coworking & Tech",
-    "cost": "0",
-    "free": true,
-    "source_url": "https://miranesia.com/bali/undisclosed/singapore-blockchain-week-2026-11-13-e749adb25643/",
-    "source": "miranesia",
-    "discovered_at": "2026-10-29T19:37:57.388981Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
-    "uid": "89f3d8f029d35c529c3f70f5af6a1f7a0d75e1de",
-    "name": "Tropicalâs Fun Padel",
-    "location": "Body Craft Element - Pererenan, Tropical Nomad Coworking, Jl. Subak Canggu No.2, Canggu",
-    "description": "Tropicalâs Fun Padel at Tropical Nomad Canggu (Body Craft Element - Pererenan) [Wellness] (Organizer: Tropical Nomad Coworking, Canggu)",
-    "start_utc": "2026-11-13T02:00:00Z",
-    "finish_utc": "2026-11-13T04:00:00Z",
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Wellness",
-    "cost": null,
-    "free": false,
-    "source_url": "https://tropicalnomad.id/events#k92657n3i6mf064",
-    "source": "tropicalnomad",
-    "discovered_at": "2026-11-03T00:06:49.037294Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
-    "uid": "b0bc7343f9e63f92b8fb03355785556cb2262688",
-    "name": "Brunch After Padel at the Brunch Club Pererenan",
-    "location": "Brunch Club Pererenan, Jl. Pantai Pererenan No.110, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351, Indonesia",
-    "description": "Elevate your professional journey with BWork. Our calendar is packed with networking, skill-sharing workshops, and community mixers designed to help you grow. Register: https://luma.com/p6nac5ba",
-    "start_utc": "2026-11-13T02:30:00Z",
-    "finish_utc": "2026-11-13T03:30:00Z",
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Arts & Culture",
-    "cost": null,
-    "free": false,
-    "source_url": "https://luma.com/p6nac5ba",
-    "source": "luma",
-    "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
-    "uid": "0b5c6576c57764272e8200fff577e947662c08cb",
-    "name": "Bali Remote Tribe : Coworking Day",
-    "location": "AT 06 ( Dine | Coworking | Gym | Wellness | Events | Catering ) TRAIN AT SIX, Canggu",
-    "description": "3 going · Bali Remote Tribe — Coworking Day Calling all remote workers, digital nomads, founders & builders in Bali . Bring your laptop and come work wi...",
-    "start_utc": "2026-11-13T04:00:00Z",
-    "finish_utc": "2026-11-13T05:00:00Z",
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Coworking & Tech",
-    "cost": null,
-    "free": false,
-    "source_url": "https://balisquad.com/event/bali-remote-tribe-1-Dks5wd",
-    "source": "balisquad",
-    "discovered_at": "2026-11-08T21:24:46.097098Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
-  },
-  {
-    "uid": "d5c43cb4902058372c4249374836160d4b81135e",
-    "name": "SOUTHERN TRIBE",
-    "location": "Savaya Bali, Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu",
-    "description": "Savaya Bali Presents SOUTHERN TRIBE - 13-Nov Reservations WA: +62 811-3099-0900 [email protected] Location https://goo.gl/maps/Hi7bZCuZbQLXg79w9 Door Policy - Capacity is strictly limited to table reservations & ticket holders only. - Full health & safety protocols will be executed. - This event is strictly 21+ & a valid ID will be required for entry. Management reserves the right to refuse entry for any reason. Tickets: https://www.savaya.com/event-calendar/november-13-2026?utm_source=baligasm",
-    "start_utc": "2026-11-13T05:00:00Z",
-    "finish_utc": null,
-    "all_day": false,
-    "area": "Uluwatu",
-    "category": "Nightlife",
-    "cost": null,
-    "free": false,
-    "source_url": "https://baligasm.com/event/savaya-bali-southern-tribe-nov-2026",
-    "source": "baligasm",
-    "discovered_at": "2026-10-23T19:34:06.077957Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
-  },
-  {
-    "uid": "e6d7ed89bf4098dbf4e3e253e422858ed1103c2d",
-    "name": "Bitcoin for Beginners",
-    "location": "Bitcoin House Bali",
-    "description": "No prior knowledge needed—we’ll guide you every step of the way. Plus, there will be plenty of time for your questions! Whether you’re just starting or want to deepen your understanding, this is the perfect place to begin. (Organizer: Bitcoin Indonesia)",
-    "start_utc": "2026-11-13T09:00:00Z",
-    "finish_utc": null,
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Coworking & Tech",
-    "cost": null,
-    "free": false,
-    "source_url": "https://bitcoinindonesia.xyz/bitcoin_event/bitcoin-for-beginners-10/",
-    "source": "bitcoinid_bali",
-    "discovered_at": "2026-10-29T19:37:57.388981Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
-    "uid": "7a75c982ce56791536079ece1ea1a8eaf16334f4",
-    "name": "Bitcoin for Beginners Workshop Bali",
-    "location": "Bitcoin House Bali, Jalan Kayu Manis Kec. Kuta Utara, Canggu, Bali",
-    "description": "Bitcoin for Beginners Workshop Bali returns on Friday 13th for a clear and practical introduction for anyone curious about Bitcoin but unsure where to begin. (Organizer: Bitcoin Indonesia)",
-    "start_utc": "2026-11-13T09:00:00Z",
-    "finish_utc": null,
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Coworking & Tech",
-    "cost": null,
-    "free": false,
-    "source_url": "https://bitcoinonly.events/bitcoin-for-beginners-workshop-bali-2611/",
-    "source": "bitcoinonly",
-    "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
-    "uid": "64cdf7ae5936ed83a1e012c2758d2e738ae385f7",
-    "name": "Bitcoin for Beginners",
-    "location": "Bitcoin House, Canggu",
-    "description": "See how Bitcoin works in everyday use, from purchasing it to keeping it securely stored. Explore Bitcoin House’s hardware wallets, mining devices and library, with time to ask questions. (Organizer: Bitcoin Indonesia) Register: https://www.eventbrite.com/e/bitcoin-for-beginners-tickets-1249821221919",
-    "start_utc": "2026-11-13T09:00:00Z",
-    "finish_utc": "2026-11-13T10:30:00Z",
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Coworking & Tech",
-    "cost": "0",
-    "free": true,
-    "source_url": "https://miranesia.com/bali/canggu/bitcoin-for-beginners-2026-11-13-a96919cb0a9b/",
-    "source": "miranesia",
-    "discovered_at": "2026-10-29T19:37:57.388981Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
-    "uid": "811a0985603795c887688b0254efeb0ef4573c09",
-    "name": "A Culinary Collaboration, Four Hands Dinner at KU Culinary Atelier by Syrco BASÉ",
-    "location": "Syrco BASÉ, Jl. Sri Wedari No.72, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571",
-    "description": "12 seats. Two chefs. One Counter. On 13 November, Chef Christian Herrgessel joins Chef Syrco Bakker for a Four Hands Dinner at KU Culinary Atelier, our intimate chef’s counter in Ubud, Bali. Two culinary perspectives come together across an 11-moment experience, with both chefs sharing the counter and the evening with just 12 guests. Two […]",
-    "start_utc": "2026-11-13T09:30:00Z",
-    "finish_utc": "2026-11-13T15:00:00Z",
-    "all_day": false,
-    "area": "Ubud",
-    "category": "Food & Drink",
-    "cost": "1.950.000++",
-    "free": false,
-    "source_url": "https://thehoneycombers.com/bali/event/four-hands-dinner-at-ku-culinary-atelier-by-syrco-base/",
-    "source": "honeycombers",
-    "discovered_at": "2026-11-10T00:54:16.687958Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
-    "uid": "e26162ac415d61f849add50eeaaf9f3aee55231b",
-    "name": "Beach Volleyball Social Games",
-    "location": "Bali Volleyball Academy (BVA), Kuta",
-    "description": "3 going · Looking for a fun way to stay active, meet new people, and enjoy Bali’s beach vibes? Join our Beach Volleyball Sessions — perfect for beginner...",
-    "start_utc": "2026-11-13T10:00:00Z",
-    "finish_utc": "2026-11-13T11:00:00Z",
-    "all_day": false,
-    "area": "Other",
-    "category": "Surf",
-    "cost": null,
-    "free": false,
-    "source_url": "https://balisquad.com/event/bali-volleyball-academy-Km14xM",
-    "source": "balisquad",
-    "discovered_at": "2026-11-05T22:57:19.098547Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
-  },
-  {
-    "uid": "ea429c3eec20fb9461496b7c26588154ca3cf4a4",
-    "name": "Friday Social: Board Games - Jendela Bali GWK",
-    "location": "Jendela Bali The Panoramic Resto, Uluwatu",
-    "description": "12 going · Get ready for a night of fun, laughs, and friendly competition! This week we are hosting at Jendela Bali Restaurant in GWK Cultural Park Whet...",
-    "start_utc": "2026-11-13T10:00:00Z",
-    "finish_utc": "2026-11-13T14:00:00Z",
-    "all_day": false,
-    "area": "Uluwatu",
-    "category": "Arts & Culture",
-    "cost": null,
-    "free": false,
-    "source_url": "https://balisquad.com/event/bukitsocial-wGGEwy",
-    "source": "balisquad",
-    "discovered_at": "2026-11-06T22:27:32.750652Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 3,
-    "status": "confirmed"
-  },
-  {
-    "uid": "7c0ff82da54474fdf571a7cdd526ec82e5011ba8",
-    "name": "Chinese New Year Is Coming. Is Your Property Ready?",
-    "location": "Seniman Coffee Renon, Sanur",
-    "description": "4 going · Plan Early. Price Smarter. Capture More Booking Opportunities. Bali welcomes hundreds of thousands of Chinese visitors, but is your property r...",
-    "start_utc": "2026-11-13T10:00:00Z",
-    "finish_utc": "2026-11-13T12:00:00Z",
-    "all_day": false,
-    "area": "Other",
-    "category": "Arts & Culture",
-    "cost": null,
-    "free": false,
-    "source_url": "https://balisquad.com/event/kiyo-PPHZWw",
-    "source": "balisquad",
-    "discovered_at": "2026-11-10T00:54:16.687958Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
-    "uid": "cbd71bb77bf0c839d6aaea94cad0af7115f95d25",
-    "name": "Four-hand Kitchen Takeover by Elle & Vire Professionel at Prego, The Westin Resort Nusa Dua, Bali",
-    "location": "Prego, The Westin Resort Nusa Dua, Bali",
-    "description": "Savor an exclusive French dining experience as Elle & Vire Professionnel® brings together Chef Guillaume Goupil (Chef Ambassador of Elle&Vire Professionnel®) & Chef Alexandre Sohm (Pastry Chef at La Maison De L’Excellence®) for an exceptional evening of contemporary French cuisine, refined techniques, and culinary artistry. Friday, 13 November 2026 | 6:30PM onwards IDR 1,500,000++ per […]",
-    "start_utc": "2026-11-13T10:30:00Z",
-    "finish_utc": "2026-11-13T14:00:00Z",
-    "all_day": false,
-    "area": "Other",
-    "category": "Food & Drink",
-    "cost": "1815000",
-    "free": false,
-    "source_url": "https://thehoneycombers.com/bali/event/four-hand-kitchen-takeover-at-prego-westin-nusa-dua/",
-    "source": "honeycombers",
-    "discovered_at": "2026-11-05T22:57:19.098547Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
-    "uid": "765977f9dd3e7099b575be230de0d4e53ed2bd6f",
-    "name": "GAME NIGHT - Dear Stranger: Chaotic Mafia",
-    "location": "Mata Berawa, Canggu",
-    "description": "3 going · Trust no one. Question everyone. A series of Mafia-style games filled with deception, accusations, debates, and a little chaos. Join our weekl...",
-    "start_utc": "2026-11-13T11:00:00Z",
-    "finish_utc": "2026-11-13T15:00:00Z",
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Arts & Culture",
-    "cost": null,
-    "free": false,
-    "source_url": "https://balisquad.com/event/loko-community-1-23ckJG",
-    "source": "balisquad",
-    "discovered_at": "2026-11-05T22:57:19.098547Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
-  },
-  {
-    "uid": "f07a10dcbd293bd49d388ae7592a8468c9d21a1e",
-    "name": "UBUD SECRET COMEDY NIGHT",
-    "location": "Titik Dua, Ubud",
-    "description": "Hailed as \"Southeast Asia's best stand-up comedy show\", this hilarious stand-up comedy takes place at an intimate venue in Ubud (Bali). Secret Comedy Night...",
-    "start_utc": "2026-11-13T11:30:00Z",
-    "finish_utc": "2026-11-13T13:00:00Z",
-    "all_day": false,
-    "area": "Ubud",
-    "category": "Arts & Culture",
-    "cost": null,
-    "free": false,
-    "source_url": "https://balisquad.com/event/secret-comedy-night-bali-kTRWlr",
-    "source": "balisquad",
-    "discovered_at": "2026-11-05T22:57:19.098547Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
-    "uid": "ae1f03c9bb20ca1654ae594b35c50a6c1ec042b7",
-    "name": "LEE BURRIDGE",
-    "location": "Zumana Bali, Jl. Kartika Plaza No.2, Kuta, Badung, 80361",
-    "description": "Zumana Beach Club Presents LEE BURRIDGE Reservations WA: +62 811 3011 0111 [email protected] Location https://share.google/TXwVSnqw2SAaKWuEd Door Policy - Capacity is strictly limited to table reservations & ticket holders only. - This event is strictly 21+ & a valid ID will be required for entry. Management reserves the right to refuse entry for any reason. Tickets: https://megatix.co.id/events/leeburridge-1311?utm_source=baligasm",
-    "start_utc": "2026-11-13T12:00:00Z",
-    "finish_utc": null,
-    "all_day": false,
-    "area": "Other",
-    "category": "Nightlife",
-    "cost": null,
-    "free": false,
-    "source_url": "https://baligasm.com/event/zumana-bali-lee-burridge-nov-2026",
-    "source": "baligasm",
-    "discovered_at": "2026-10-23T19:34:06.077957Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
-  },
-  {
-    "uid": "5eb345254c6b265cc820458eaf5569412ef4b8c1",
-    "name": "CASA",
-    "location": "Desa Kitsuné, Jl. Munduk Catu No.9, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80363",
-    "description": "Desa Kitsuné Presents CASA on Friday 13 November 2026 Reservations WA +62 811 3099 0800 [email protected] Location https://maps.app.goo.gl/J7LCsGDNjBPBaNLV7 Door Policy - Capacity is strictly limited to table reservations & ticket holders only - Full health & safety protocols will be executed - This event is strictly 21+ and a valid ID will be required for entry - No Re-Entry - We kindly request no flip-flops, sleeveless tops, or athletic wear Management reserves the right to refuse entry for any reason Tickets: https://megatix.co.id/events/special-guest1311?utm_source=baligasm",
-    "start_utc": "2026-11-13T12:00:00Z",
-    "finish_utc": null,
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Nightlife",
-    "cost": null,
-    "free": false,
-    "source_url": "https://baligasm.com/event/desa-kitsune-casa-nov-2026",
-    "source": "baligasm",
-    "discovered_at": "2026-10-30T21:43:31.572355Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
-  },
-  {
-    "uid": "86dbe409e9c43fca166a5504e3e48a8da839c171",
-    "name": "LIVE ACOUSTIC NIGHTS and COCKTAIL FESTIVAL",
-    "location": "No Jl. Melasti No.1, Seminyak",
-    "description": "LIVE ACOUSTIC NIGHTS Enjoy live acoustic performances every Friday & Saturday | 8 PM – 11 PM Selected Cocktails at Special Prices Great music, refreshing c...",
-    "start_utc": "2026-11-13T12:00:00Z",
-    "finish_utc": "2026-11-13T15:00:00Z",
-    "all_day": false,
-    "area": "Seminyak",
-    "category": "Arts & Culture",
-    "cost": null,
-    "free": false,
-    "source_url": "https://balisquad.com/event/salty-soul-kitchen-and-bar-vKEJHa",
-    "source": "balisquad",
-    "discovered_at": "2026-11-04T22:56:46.555958Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
-  },
-  {
-    "uid": "73e5f2fbc03729175d35fa836bd5221d947d376d",
-    "name": "Omoloko, Seabass",
-    "location": "Klymax, Jl. Petitenget No.51B, Seminyak, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
-    "description": "A leading figure in Brazilian electronic music, OMOLOKO is respected for the musical authenticity he brings to the global stage. This Friday, the CurraLREC and Mathosa party founder and resident brings his refined house, disco and kwaito selections to Klymax. Before OMOLOKO takes to the turntables, Potato Head resident Seabass will set the vibe. A […]",
-    "start_utc": "2026-11-13T14:00:00Z",
-    "finish_utc": "2026-11-13T20:00:00Z",
-    "all_day": false,
-    "area": "Other",
-    "category": "Music",
-    "cost": "200000-6300000",
-    "free": false,
-    "source_url": "https://thehoneycombers.com/bali/event/omoloko-seabass/",
-    "source": "honeycombers",
-    "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -490,8 +129,8 @@
     "source": "meetup",
     "discovered_at": "2026-11-10T00:54:16.687958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "a64f08597acff524af67bd4d8361248f5cb441ea",
@@ -509,8 +148,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "dc6a4083b4f3eb059ec374bc01032862d0efde17",
@@ -547,8 +186,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "3b5a82c22dd8b024d6d8779fb8173fdcfa1988ec",
@@ -623,8 +262,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "5a8073ed2180755d4f73e1d81f025f8a5cee3660",
@@ -699,8 +338,8 @@
     "source": "meetup",
     "discovered_at": "2026-11-10T00:54:16.687958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "f8bedc2fb438d5713a7c11a9532d20c9e39d69cc",
@@ -793,7 +432,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/confest-bali-2026-celebrating-community-creativity-and-the-people-behind-balis-culinary-industry/",
     "source": "now_bali",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -831,7 +470,7 @@
     "source_url": "https://balisquad.com/event/celiztial-astronomy-stargazing-1-H63GQo",
     "source": "balisquad",
     "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -850,9 +489,9 @@
     "source_url": "https://balisquad.com/event/the-sunday-circle-RZvWNH",
     "source": "balisquad",
     "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 2,
+    "status": "cancelled"
   },
   {
     "uid": "fa7cbbe51491b467c47eac09a04e26f05013ba90",
@@ -869,7 +508,7 @@
     "source_url": "https://balisquad.com/event/oshom-bali-ScA373",
     "source": "balisquad",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -889,8 +528,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "65dbf93948ff379204239cdaf9dab3699829198c",
@@ -908,8 +547,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "ea09acbbc26dc1f7bd5c4b42a6e1e6628580a299",
@@ -926,7 +565,7 @@
     "source_url": "https://balisquad.com/event/bali-ai-alliance-knsf95",
     "source": "balisquad",
     "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 2,
     "status": "confirmed"
   },
@@ -945,7 +584,7 @@
     "source_url": "https://balisquad.com/event/desa-potato-head-bali-w2xoDe",
     "source": "balisquad",
     "discovered_at": "2026-11-13T22:57:23.598292Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -964,7 +603,7 @@
     "source_url": "https://miranesia.com/bali/canggu/bali-ai-alliance-2026-11-15-d32cdd214cb3/",
     "source": "miranesia",
     "discovered_at": "2026-11-10T00:54:16.687958Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -983,7 +622,7 @@
     "source_url": "https://balisquad.com/event/joon-canggu-KHDlmJ",
     "source": "balisquad",
     "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1002,7 +641,7 @@
     "source_url": "https://luma.com/nbkow7ll",
     "source": "luma",
     "discovered_at": "2026-11-10T00:54:16.687958Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1010,7 +649,7 @@
     "uid": "9427d69170069c644ee85ad1dad2643ba366b2fa",
     "name": "AI Coworking Meetup - Free AI Credits",
     "location": "BukitHub Coworking ( 24x7 ), Uluwatu",
-    "description": "4 going · AI Coworking Session at Bukithub. Everyone is welcome. Whether you're new to AI, exploring ideas, or already building and shipping projects, t...",
+    "description": "5 going · AI Coworking Session at Bukithub. Everyone is welcome. Whether you're new to AI, exploring ideas, or already building and shipping projects, t...",
     "start_utc": "2026-11-16T06:00:00Z",
     "finish_utc": "2026-11-16T10:00:00Z",
     "all_day": false,
@@ -1021,8 +660,8 @@
     "source_url": "https://balisquad.com/event/bukitsocial-XtqmdW",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
-    "sequence": 1,
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 2,
     "status": "confirmed"
   },
   {
@@ -1040,7 +679,7 @@
     "source_url": "https://balisquad.com/event/tribal-bali-1-_grWtK",
     "source": "balisquad",
     "discovered_at": "2026-11-03T00:06:49.037294Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1059,7 +698,7 @@
     "source_url": "https://balisquad.com/event/the-green-felt-GZ2ues",
     "source": "balisquad",
     "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1078,7 +717,7 @@
     "source_url": "https://balisquad.com/event/mei-sXVgys",
     "source": "balisquad",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1097,7 +736,7 @@
     "source_url": "https://balisquad.com/event/the-melting-pot-saloon-KEYwW6",
     "source": "balisquad",
     "discovered_at": "2026-11-13T22:57:23.598292Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1116,7 +755,26 @@
     "source_url": "https://balisquad.com/event/tribal-bali-1-ELkAE0",
     "source": "balisquad",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "ac2e0e56fc484647b4d9b5d9bf3dd8cc20a5b035",
+    "name": "Beginner Indonesian Language Class",
+    "location": "BukitHub Coworking ( 24x7 ), Uluwatu",
+    "description": "Living in Bali and want to speak the local language with more confidence? Join our Indonesian Language Class , A fun, beginner-friendly session designed to...",
+    "start_utc": "2026-11-17T05:00:00Z",
+    "finish_utc": "2026-11-17T06:00:00Z",
+    "all_day": false,
+    "area": "Uluwatu",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/bukithub-coworking-WTe2k8",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1135,7 +793,7 @@
     "source_url": "https://balisquad.com/event/sophie-anand-cO-k_g",
     "source": "balisquad",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1154,7 +812,7 @@
     "source_url": "https://balisquad.com/event/hatch-uluwatu-_cDPgI",
     "source": "balisquad",
     "discovered_at": "2026-11-03T00:06:49.037294Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 2,
     "status": "confirmed"
   },
@@ -1173,7 +831,7 @@
     "source_url": "https://balisquad.com/event/tribal-bali-1-xbqpMr",
     "source": "balisquad",
     "discovered_at": "2026-11-13T22:57:23.598292Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1181,7 +839,7 @@
     "uid": "84efd8a38119b38ac0e980b1f12113951a302227",
     "name": "Tribal Talks",
     "location": "Tribal Coworking Hostel, Pererenan",
-    "description": "Use Claude Skills to turn one or two recurring tasks into your first automation, with Sigurd Watt leading a laptops-open practical session. Bring a laptop with Claude Desktop installed and a task you’d like to automate. (Organizer: Laras) Register: https://lu.ma/0opu2jmm",
+    "description": "Use Claude Skills to turn one or two recurring tasks into your first automation, with Sigurd Watt leading a laptops-open practical session. Bring a laptop with Claude Desktop installed and a task you’d like to automate. (Organizer: Laras) Register: https://balisquad.com/event/tribal-bali-1-xbqpMr",
     "start_utc": "2026-11-17T09:00:00Z",
     "finish_utc": "2026-11-17T10:00:00Z",
     "all_day": false,
@@ -1192,8 +850,8 @@
     "source_url": "https://miranesia.com/bali/canggu/tribal-talks-2026-11-17-aa21843ebf33/",
     "source": "miranesia",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
-    "sequence": 0,
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 1,
     "status": "confirmed"
   },
   {
@@ -1211,7 +869,64 @@
     "source_url": "https://tropicalnomad.id/events#3jev8hx71eatsc1",
     "source": "tropicalnomad",
     "discovered_at": "2026-11-07T21:08:31.799506Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "884e3dd23ee1fb950ceb829bdc1603d34dea2ee5",
+    "name": "How I AI | Edition 20",
+    "location": "Seoul Soul Project, Canggu",
+    "description": "HOW I AI · EDITION 20 · TUE 17 NOV 📅 One week only: this edition is on Tuesday 17 November, same time and place. Back to Wednesdays from 25 November. Loca...",
+    "start_utc": "2026-11-17T10:00:00Z",
+    "finish_utc": "2026-11-17T13:00:00Z",
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/bali-startup-tech-community-YQbUz3",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "5dc9ca189102274bf75a28c3309795b2d4543a75",
+    "name": "How I AI | Edition 20",
+    "location": "Seoul Soul Project, 80361, Jl. Canggu Padang Linjong No.61, Canggu, Kuta Utara, Badung Regency, Bali 80361, canggu",
+    "description": "**HOW I AI · EDITION 20 · TUE 17 NOV**\n\n**📅 One week only: this edition is on Tuesday 17 November, same time and place. Back to Wednesdays from 25 November.**\nLocally host (Organizer: Bali Start-ups and Tech Community)",
+    "start_utc": "2026-11-17T10:00:00Z",
+    "finish_utc": null,
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Coworking & Tech",
+    "cost": null,
+    "free": false,
+    "source_url": "https://www.meetup.com/bali-start-ups-tech-community/events/317128203/",
+    "source": "meetup",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "5a7bb52d7391e6c4414b1bfd14031bb7098a635b",
+    "name": "How I AI",
+    "location": "Seoul Soul Project, Canggu",
+    "description": "Live builder demos and shared workflows focus on practical ways AI can generate revenue. AI builders can compare tools over food and drinks, with community chat access and an optional business profile included. (Organizer: Bali Startup & Tech Community) Register: https://balisquad.com/event/bali-startup-tech-community-YQbUz3",
+    "start_utc": "2026-11-17T10:00:00Z",
+    "finish_utc": "2026-11-17T13:00:00Z",
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Coworking & Tech",
+    "cost": "0",
+    "free": true,
+    "source_url": "https://miranesia.com/bali/canggu/how-i-ai-2026-11-17-50faac0ee94d/",
+    "source": "miranesia",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1230,7 +945,7 @@
     "source_url": "https://balisquad.com/event/the-green-felt-3kA-xL",
     "source": "balisquad",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1249,7 +964,7 @@
     "source_url": "https://balisquad.com/event/secret-comedy-night-bali-4s2_Ha",
     "source": "balisquad",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1268,7 +983,7 @@
     "source_url": "https://balisquad.com/event/mei-s3rGBL",
     "source": "balisquad",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 2,
     "status": "confirmed"
   },
@@ -1288,7 +1003,45 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
+    "sequence": 2,
+    "status": "stale"
+  },
+  {
+    "uid": "26c25725f30289d20990d61cd96251281ae167ce",
+    "name": "How I AI | Edition 20",
+    "location": "Seoul Soul Project",
+    "description": "Tuesday 17 November, 6pm at Seoul Soul Project, Canggu. Edition 20 of BSTC's weekly builder night about making money with AI. Free entry, dinner & drinks at the venue. (RSVP via Meetup group.)",
+    "start_utc": "2026-11-17T13:00:00Z",
+    "finish_utc": null,
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Coworking & Tech",
+    "cost": null,
+    "free": true,
+    "source_url": "https://www.balistartupandtech.com/events/how-i-ai-edition-20",
+    "source": "bstc",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "6fed73ede6dd9e4147d25f54806b929887888c41",
+    "name": "Business Summit ’26: Apple at Work",
+    "location": "Kuta",
+    "description": "Discover how Mac helps businesses reduce operational costs, boost productivity, and strengthen security with private AI. Join us for an insightful session...",
+    "start_utc": "2026-11-18T00:30:00Z",
+    "finish_utc": "2026-11-18T06:15:00Z",
+    "all_day": false,
+    "area": "Other",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/learnly-society-ePMiRy",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
     "status": "confirmed"
   },
   {
@@ -1306,7 +1059,7 @@
     "source_url": "https://balisquad.com/event/at-06-b8ItCN",
     "source": "balisquad",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 1,
     "status": "cancelled"
   },
@@ -1344,7 +1097,7 @@
     "source_url": "https://balisquad.com/event/downtime-bali-4eu1qU",
     "source": "balisquad",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1363,7 +1116,7 @@
     "source_url": "https://balisquad.com/event/tribal-bali-1-iHcrhc",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1382,7 +1135,7 @@
     "source_url": "https://balisquad.com/event/loko-community-1-DuUOWd",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1401,8 +1154,27 @@
     "source_url": "https://balisquad.com/event/salty-soul-kitchen-and-bar-MnqYW_",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "c32179e9451c85827d9ea49cdc3762e1c54943c9",
+    "name": "How I AI",
+    "location": "Seoul Soul Project, Canggu",
+    "description": "Builder-led AI demonstrations unpack tools and workflows that can generate practical revenue ideas for AI builders and entrepreneurs. Season 2 continues as a six-week weekly series with an intimate tech-dinner atmosphere. (Organizer: Bali Start-ups and Tech Community) Register: https://lu.ma/0zzumvch",
+    "start_utc": "2026-11-18T10:00:00Z",
+    "finish_utc": "2026-11-18T13:00:00Z",
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Coworking & Tech",
+    "cost": "0",
+    "free": true,
+    "source_url": "https://miranesia.com/bali/canggu/how-i-ai-2026-11-18-6854d8f6f230/",
+    "source": "miranesia",
+    "discovered_at": "2026-11-04T22:56:46.555958Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 1,
     "status": "confirmed"
   },
   {
@@ -1444,25 +1216,6 @@
     "status": "confirmed"
   },
   {
-    "uid": "c32179e9451c85827d9ea49cdc3762e1c54943c9",
-    "name": "How I AI",
-    "location": "Seoul Soul Project, Canggu",
-    "description": "Builder-led AI demos explore revenue workflows for AI builders in Season 2. Community chat and optional member business profiles round out the tech-dinner atmosphere. (Organizer: Bali Start-ups and Tech Community) Register: https://www.meetup.com/bali-start-ups-tech-community/events/317128203/",
-    "start_utc": "2026-11-18T10:00:00Z",
-    "finish_utc": "2026-11-18T13:00:00Z",
-    "all_day": false,
-    "area": "Canggu",
-    "category": "Coworking & Tech",
-    "cost": "0",
-    "free": true,
-    "source_url": "https://miranesia.com/bali/canggu/how-i-ai-2026-11-18-6854d8f6f230/",
-    "source": "miranesia",
-    "discovered_at": "2026-11-04T22:56:46.555958Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
-    "sequence": 0,
-    "status": "confirmed"
-  },
-  {
     "uid": "88950c9fc51034d0afe15681b53f275999bae253",
     "name": "How I AI | Edition 20",
     "location": "Seoul Soul Project, Canggu",
@@ -1478,8 +1231,8 @@
     "source": "bstc",
     "discovered_at": "2026-11-04T22:56:46.555958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "1399dc21d5ee989b4f77b99f499905b8fa485bd8",
@@ -1497,7 +1250,26 @@
     "source": "meetup",
     "discovered_at": "2026-10-26T19:31:47.170110Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
+    "sequence": 2,
+    "status": "stale"
+  },
+  {
+    "uid": "a78b572768583285d7fcea81512b04ff4c2ee4f0",
+    "name": "Laugh, Play & Connect: Beginner Improv",
+    "location": "BWork Uluwatu",
+    "description": "4 going · Laugh, Play & Connect: Beginner Improv Just simple, playful games where we make things up together on the spot. We'll explain every game as we...",
+    "start_utc": "2026-11-18T10:30:00Z",
+    "finish_utc": "2026-11-18T12:30:00Z",
+    "all_day": false,
+    "area": "Uluwatu",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/bukitsocial-Rq4yJp",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
     "status": "confirmed"
   },
   {
@@ -1515,7 +1287,7 @@
     "source_url": "https://balisquad.com/event/cecilia1-VuIVEA",
     "source": "balisquad",
     "discovered_at": "2026-11-13T22:57:23.598292Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1534,7 +1306,7 @@
     "source_url": "https://luma.com/wzf95162",
     "source": "luma",
     "discovered_at": "2026-11-04T22:56:46.555958Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1553,7 +1325,7 @@
     "source_url": "https://tropicalnomad.id/events#4718g8h1y62d56t",
     "source": "tropicalnomad",
     "discovered_at": "2026-11-07T21:08:31.799506Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1573,8 +1345,8 @@
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "d04e46c08ae3fff2b811d24334e44ba4aa84771d",
@@ -1591,7 +1363,26 @@
     "source_url": "https://balisquad.com/event/secret-comedy-night-bali-9r_Hwo",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "10f8c898c6bba9997b0487e48505bc445e39f7be",
+    "name": "Wednesday Dinner & Networking - Rolling Fork",
+    "location": "Rolling Fork Padang Padang, Uluwatu",
+    "description": "3 going · Wednesday Dinner & Networking - Rolling Fork Midweek, good food, and a table full of new faces and familiar ones. Every Wednesday we get toget...",
+    "start_utc": "2026-11-18T12:45:00Z",
+    "finish_utc": "2026-11-18T14:30:00Z",
+    "all_day": false,
+    "area": "Uluwatu",
+    "category": "Food & Drink",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/bukitsocial-G_YJqy",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1629,7 +1420,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/santanera-el-quinto-aniversario-celebration/",
     "source": "now_bali",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1648,7 +1439,7 @@
     "source_url": "https://balisquad.com/event/bukitsocial-VJVpPx",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1667,28 +1458,9 @@
     "source_url": "https://balisquad.com/event/hackanur-Wy8eMk",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "cancelled"
-  },
-  {
-    "uid": "ced0f29ee4f4e07e81db3c38e22667a98ec13c3f",
-    "name": "Hackanur",
-    "location": "Over the Moon Cafe, Sanur",
-    "description": "Solo founders, indie makers and hardware hackers gather to work side by side on their own projects, with quick intros first and a round of demos to close. Bring something you're building and you'll leave with fresh feedback and new connections among people who ship apps, design and code. (Organizer: Hackanur) Register: https://balisquad.com/event/hackanur-Wy8eMk",
-    "start_utc": "2026-11-19T01:00:00Z",
-    "finish_utc": "2026-11-19T04:00:00Z",
-    "all_day": false,
-    "area": "Other",
-    "category": "Coworking & Tech",
-    "cost": "0",
-    "free": true,
-    "source_url": "https://miranesia.com/bali/sanur/hackanur-2026-11-19-73e5274cbb56/",
-    "source": "miranesia",
-    "discovered_at": "2026-11-05T22:57:19.098547Z",
-    "last_seen_at": "2026-11-11T23:45:29.911595Z",
-    "sequence": 1,
-    "status": "stale"
   },
   {
     "uid": "33c665d214b5444cdc7b44fdfe44581b50a920dd",
@@ -1705,7 +1477,7 @@
     "source_url": "https://balisquad.com/event/livit-hub-9OiglQ",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1724,7 +1496,7 @@
     "source_url": "https://balisquad.com/event/bukithub-coworking-bMqrVj",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1744,7 +1516,26 @@
     "source": "baligasm",
     "discovered_at": "2026-10-30T21:43:31.572355Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
+    "sequence": 2,
+    "status": "stale"
+  },
+  {
+    "uid": "109fc01884072f99307719f794f5c99d6e493bba",
+    "name": "Lunch and Coffee Break #3 - Itu Aja Bakery",
+    "location": "ITUAJA Bakery, Uluwatu",
+    "description": "☕🥐 Midweek Lunch & Coffee Catch-Up Looking for a relaxed way to spend your Wednesday morning? Join us at Habit Coffee for brunch, coffee, and good company...",
+    "start_utc": "2026-11-19T06:30:00Z",
+    "finish_utc": "2026-11-19T07:30:00Z",
+    "all_day": false,
+    "area": "Uluwatu",
+    "category": "Food & Drink",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/mei-zqSzyU",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
     "status": "confirmed"
   },
   {
@@ -1762,7 +1553,7 @@
     "source_url": "https://balisquad.com/event/sophie-anand-xGf05M",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1781,7 +1572,7 @@
     "source_url": "https://miranesia.com/bali/sanur/digital-literacy-circle-2026-11-19-0309738bb724/",
     "source": "miranesia",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1789,7 +1580,7 @@
     "uid": "853772e0892b1e1e229bd87dfbbb7c11d2ebd541",
     "name": "Winning AI Search: A Crash Course",
     "location": "Livit Hub - Coworking Space, Sanur",
-    "description": "4 going · Ever wondered why some businesses show up when you ask ChatGPT for recommendations and others don’t? We’re hosting Winning AI Search: A Crash...",
+    "description": "6 going · Ever wondered why some businesses show up when you ask ChatGPT for recommendations and others don’t? We’re hosting Winning AI Search: A Crash...",
     "start_utc": "2026-11-19T08:30:00Z",
     "finish_utc": "2026-11-19T09:30:00Z",
     "all_day": false,
@@ -1800,8 +1591,8 @@
     "source_url": "https://balisquad.com/event/livit-hub-UadbJE",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
-    "sequence": 0,
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 1,
     "status": "confirmed"
   },
   {
@@ -1819,7 +1610,7 @@
     "source_url": "https://miranesia.com/bali/sanur/winning-ai-search-2026-11-19-ffdd6146c376/",
     "source": "miranesia",
     "discovered_at": "2026-11-05T22:57:19.098547Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 2,
     "status": "confirmed"
   },
@@ -1838,7 +1629,26 @@
     "source_url": "https://thehoneycombers.com/bali/event/el-5to-aniversario-tinto-x-santanera/",
     "source": "honeycombers",
     "discovered_at": "2026-11-05T22:57:19.098547Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "e8625b18ffabb131735533c30fd9c498d4a5a529",
+    "name": "AI in Contech",
+    "location": "Outpost Ubud Coworking",
+    "description": "How AI is shaping construction technology. (Organizer: Outpost Events) Register: https://todo.today/ubud/2026/11/19/ai-in-contech-construction-technology",
+    "start_utc": "2026-11-19T10:00:00Z",
+    "finish_utc": "2026-11-19T10:30:00Z",
+    "all_day": false,
+    "area": "Ubud",
+    "category": "Coworking & Tech",
+    "cost": "0",
+    "free": true,
+    "source_url": "https://miranesia.com/bali/ubud/ai-in-contech-2026-11-19-197d813b554f/",
+    "source": "miranesia",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1857,7 +1667,7 @@
     "source_url": "https://balisquad.com/event/nicholas-levenstein-QUlgRr",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1876,7 +1686,7 @@
     "source_url": "https://miranesia.com/bali/canggu/ai-meetup-2026-11-19-d8498abe9bd5/",
     "source": "miranesia",
     "discovered_at": "2026-11-10T00:54:16.687958Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1895,7 +1705,7 @@
     "source_url": "https://miranesia.com/bali/canggu/canggu-ai-meetup-2026-11-19-646960829e3b/",
     "source": "miranesia",
     "discovered_at": "2026-11-05T22:57:19.098547Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -1914,7 +1724,7 @@
     "source_url": "https://tropicalnomad.id/events#b5gv5471389kt2t",
     "source": "tropicalnomad",
     "discovered_at": "2026-11-07T21:08:31.799506Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1933,7 +1743,7 @@
     "source_url": "https://balisquad.com/event/secret-comedy-night-bali-dQI3vL",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1952,7 +1762,7 @@
     "source_url": "https://balisquad.com/event/mei-BzH469",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1971,7 +1781,7 @@
     "source_url": "https://balisquad.com/event/the-melting-pot-saloon-G0mGHM",
     "source": "balisquad",
     "discovered_at": "2026-11-13T22:57:23.598292Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -1990,7 +1800,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/rooted-in-bali-black-garlic-x-dapur-bali-mula/",
     "source": "now_bali",
     "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2009,7 +1819,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/dipha-barus-archie/",
     "source": "honeycombers",
     "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2028,7 +1838,7 @@
     "source_url": "https://balisquad.com/event/bali-remote-tribe-1-kzfvJI",
     "source": "balisquad",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2047,7 +1857,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/the-art-of-perfect-roll-at-adriana-cocina-bar/",
     "source": "honeycombers",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2066,8 +1876,84 @@
     "source_url": "https://balisquad.com/event/bali-volleyball-academy-xniED1",
     "source": "balisquad",
     "discovered_at": "2026-11-13T22:57:23.598292Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "997ec5da3288e6d9af767b35def43d509574e209",
+    "name": "Friday Social: Board Games - Le Jean Bart",
+    "location": "Le Jean Bart, Nusa Dua",
+    "description": "5 going · Get ready for a night of fun, laughs, and friendly competition! Whether you're a seasoned board gamer or just love rolling the dice, there's s...",
+    "start_utc": "2026-11-20T10:00:00Z",
+    "finish_utc": "2026-11-20T15:00:00Z",
+    "all_day": false,
+    "area": "Other",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/bukitsocial-T0wxrg",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "da38e8d3eb50f0c86ac177f104c862ac57da6632",
+    "name": "GAME NIGHT - Dear Stranger: Speed Game",
+    "location": "Mata Berawa, Canggu",
+    "description": "Think fast, guess faster! A series of quick and playful guessing games, from charades and Guess Who to unexpected challenges and mini-games. Fast-paced, ea...",
+    "start_utc": "2026-11-20T11:00:00Z",
+    "finish_utc": "2026-11-20T15:00:00Z",
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/loko-community-1-WWHWXs",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "1cc77e1f71737388d1fb496dd7858d08cc44078a",
+    "name": "UBUD SECRET COMEDY NIGHT",
+    "location": "Titik Dua, Ubud",
+    "description": "Hailed as \"Southeast Asia's best stand-up comedy show\", this hilarious stand-up comedy takes place at an intimate venue in Ubud (Bali). Secret Comedy Night...",
+    "start_utc": "2026-11-20T11:30:00Z",
+    "finish_utc": "2026-11-20T13:00:00Z",
+    "all_day": false,
+    "area": "Ubud",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/secret-comedy-night-bali-bz4SkN",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "aa7feda5aa3ca378c7b3c0d47b82590de5351ff3",
+    "name": "LIVE ACOUSTIC NIGHTS and COCKTAIL FESTIVAL",
+    "location": "No Jl. Melasti No.1, Seminyak",
+    "description": "LIVE ACOUSTIC NIGHTS Enjoy live acoustic performances every Friday & Saturday | 8 PM – 11 PM Selected Cocktails at Special Prices Great music, refreshing c...",
+    "start_utc": "2026-11-20T12:00:00Z",
+    "finish_utc": "2026-11-20T15:00:00Z",
+    "all_day": false,
+    "area": "Seminyak",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/salty-soul-kitchen-and-bar-0lhTHa",
+    "source": "balisquad",
+    "discovered_at": "2026-11-07T21:08:31.799506Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 1,
     "status": "confirmed"
   },
   {
@@ -2086,27 +1972,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
-  },
-  {
-    "uid": "aa7feda5aa3ca378c7b3c0d47b82590de5351ff3",
-    "name": "LIVE ACOUSTIC NIGHTS and COCKTAIL FESTIVAL",
-    "location": "No Jl. Melasti No.1, Seminyak",
-    "description": "LIVE ACOUSTIC NIGHTS Enjoy live acoustic performances every Friday & Saturday | 8 PM – 11 PM Selected Cocktails at Special Prices Great music, refreshing c... (weekly series)",
-    "start_utc": "2026-11-20T12:00:00Z",
-    "finish_utc": "2026-11-20T15:00:00Z",
-    "all_day": false,
-    "area": "Seminyak",
-    "category": "Arts & Culture",
-    "cost": null,
-    "free": false,
-    "source_url": "https://balisquad.com/event/salty-soul-kitchen-and-bar-vKEJHa",
-    "source": "balisquad",
-    "discovered_at": "2026-11-07T21:08:31.799506Z",
-    "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "19cfd555100cd10475ad07146bccbe12b8557671",
@@ -2123,7 +1990,7 @@
     "source_url": "https://www.meetup.com/nomads-giving-back-bali-community/events/317355156/",
     "source": "meetup",
     "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2142,8 +2009,27 @@
     "source_url": "https://miranesia.com/bali/denpasar/beginner-class-html-css-javascript-2026-11-21-66c8a8634074/",
     "source": "miranesia",
     "discovered_at": "2026-11-07T21:08:31.799506Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 1,
+    "status": "confirmed"
+  },
+  {
+    "uid": "2f2380dba9f233c2f2e05ba5a72c7de57cb4dee0",
+    "name": "Brunch Out with Fellow Entrepreneurs, Freelancers, and Agency Owners",
+    "location": "Tribal Bali Coworking Hostel, Canggu",
+    "description": "Brunch Out with fellow entrepreneurs, freelancers, and agency owners! ​We're having the brunch at one of our favorite local warungs, Warung Yess in Pereren...",
+    "start_utc": "2026-11-21T03:30:00Z",
+    "finish_utc": "2026-11-21T04:30:00Z",
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Food & Drink",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/tribal-bali-1-F9tId3",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
     "status": "confirmed"
   },
   {
@@ -2161,7 +2047,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/damian-lazarus-at-savaya-bali/",
     "source": "honeycombers",
     "discovered_at": "2026-11-01T21:24:35.652153Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2180,7 +2066,7 @@
     "source_url": "https://miranesia.com/bali/canggu/outbox-ai-meetup-2026-11-21-7617824d9f25/",
     "source": "miranesia",
     "discovered_at": "2026-11-10T00:54:16.687958Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -2200,8 +2086,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "012680efe8ab37884008bde8ed9017b117500bbd",
@@ -2218,7 +2104,7 @@
     "source_url": "https://bitcoinindonesia.xyz/bitcoin_event/bitcoin-for-merchants-use-bitcoin-for-your-business-bali-bitcoin-island-11/",
     "source": "bitcoinid_bali",
     "discovered_at": "2026-11-07T21:08:31.799506Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2237,7 +2123,7 @@
     "source_url": "https://miranesia.com/bali/canggu/bitcoin-for-merchants-2026-11-21-69da8c069f2f/",
     "source": "miranesia",
     "discovered_at": "2026-11-07T21:08:31.799506Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2256,7 +2142,7 @@
     "source_url": "https://bitcoinindonesia.xyz/bitcoin_event/bitcoin-meetup-canggu-12/",
     "source": "bitcoinid_bali",
     "discovered_at": "2026-11-07T21:08:31.799506Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2275,7 +2161,26 @@
     "source_url": "https://miranesia.com/bali/canggu/bitcoin-meetup-canggu-2026-11-21-417e707944b7/",
     "source": "miranesia",
     "discovered_at": "2026-11-07T21:08:31.799506Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "2fc202b4f5d6c56280fb9af94a652499854349fe",
+    "name": "Unlock Your Creative Side",
+    "location": "The Magendra, Seminyak",
+    "description": "Turn ideas into scripts and educational videos in a hands-on Claude session, with time to share creations and exchange ideas. Designed for students, professionals, entrepreneurs and the technology-curious—bring your ideas. (Organizer: Crypto Community Bali) Register: https://lu.ma/b6lf55xb",
+    "start_utc": "2026-11-21T09:00:00Z",
+    "finish_utc": "2026-11-21T13:00:00Z",
+    "all_day": false,
+    "area": "Seminyak",
+    "category": "Coworking & Tech",
+    "cost": "0",
+    "free": true,
+    "source_url": "https://miranesia.com/bali/seminyak/unlock-your-creative-side-2026-11-21-001714663313/",
+    "source": "miranesia",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2294,7 +2199,7 @@
     "source_url": "https://www.meetup.com/travelers-meetup-party/events/317376505/",
     "source": "meetup",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2313,7 +2218,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/sheraton-bali-kuta-resort-presents-finish-line-maxxing-run-more/",
     "source": "now_bali",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2333,8 +2238,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "363779b9238d4628a9ced086a51fcab776898f43",
@@ -2352,8 +2257,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-30T21:43:31.572355Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "fb4bf1533acc21bdc9139a9bd518c695e501b610",
@@ -2370,7 +2275,7 @@
     "source_url": "https://balisquad.com/event/tribal-bali-1-_grWtK",
     "source": "balisquad",
     "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2389,7 +2294,7 @@
     "source_url": "https://balisquad.com/event/hatch-uluwatu-_cDPgI",
     "source": "balisquad",
     "discovered_at": "2026-11-10T00:54:16.687958Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 1,
     "status": "confirmed"
   },
@@ -2408,7 +2313,26 @@
     "source_url": "https://thehoneycombers.com/bali/event/full-moon-healing/",
     "source": "honeycombers",
     "discovered_at": "2026-11-06T22:27:32.750652Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "310516225d82f3037deb2c600a6afd34a8b1bd03",
+    "name": "Go Global: Company Set up-Singapore, Hong Kong, UAE or UK?",
+    "location": "Tropical Nomad Coworking Space, Jl. Subak Canggu No.2, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",
+    "description": "Your business is working. You’re based in Bali, and now something big is on the horizon: an investor, a new market, a sale, or a move. The question every founder hits sooner or later: would a company or a holdco outside Indonesia help, and if so, where should it sit? ​Join Osome for a practical […]",
+    "start_utc": "2026-11-24T09:00:00Z",
+    "finish_utc": "2026-11-24T10:00:00Z",
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Other",
+    "cost": null,
+    "free": false,
+    "source_url": "https://thehoneycombers.com/bali/event/go-global-company-set-up-singapore-hong-kong-uae-or-uk/",
+    "source": "honeycombers",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2427,7 +2351,26 @@
     "source_url": "https://miranesia.com/bali/canggu/agentic-engineering-2026-11-24-30b8a119e197/",
     "source": "miranesia",
     "discovered_at": "2026-11-10T00:54:16.687958Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "6e478a107b8bcdeeef62d1b5eae321dba251bfb9",
+    "name": "Company Setup SG, HK, UAE, UK",
+    "location": "Tropical Nomad, Tropical Nomad Coworking, Jl. Subak Canggu No.2, Canggu",
+    "description": "Company Setup SG, HK, UAE, UK at Tropical Nomad Canggu (Tropical Nomad) [Business] (Organizer: Tropical Nomad Coworking, Canggu)",
+    "start_utc": "2026-11-24T09:00:00Z",
+    "finish_utc": "2026-11-24T10:00:00Z",
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Coworking & Tech",
+    "cost": null,
+    "free": false,
+    "source_url": "https://tropicalnomad.id/events#96b97l6ex5h6z5t",
+    "source": "tropicalnomad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2447,8 +2390,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "8e928e18c5a83b5acf729550a3d7efdb34a26472",
@@ -2465,7 +2408,26 @@
     "source_url": "https://miranesia.com/bali/canggu/ai-coworking-and-networking-2026-11-25-4002eb0c4e07/",
     "source": "miranesia",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "41bff3ffb65ccabd84f4b38129aeb6c3b7338c26",
+    "name": "Members BBQ",
+    "location": "Garden Area, Tropical Nomad Coworking, Jl. Subak Canggu No.2, Canggu",
+    "description": "Members BBQ at Tropical Nomad Canggu (Garden Area) [Social] (Organizer: Tropical Nomad Coworking, Canggu)",
+    "start_utc": "2026-11-25T09:00:00Z",
+    "finish_utc": "2026-11-25T12:00:00Z",
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Nightlife",
+    "cost": null,
+    "free": false,
+    "source_url": "https://tropicalnomad.id/events#32mf63966i1ex79",
+    "source": "tropicalnomad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2484,7 +2446,7 @@
     "source_url": "https://www.meetup.com/bali-start-ups-tech-community/events/317128209/",
     "source": "meetup",
     "discovered_at": "2026-11-13T22:57:23.598292Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2492,7 +2454,7 @@
     "uid": "087f0b0d795e6bd6ccd0a0ffb0e179ecb58a266f",
     "name": "How I AI",
     "location": "Seoul Soul Project, Canggu",
-    "description": "Season 2 spotlights AI builders sharing revenue-focused demos and practical workflows for business. An intimate tech-dinner setting includes community chat access and an optional member profile. (Organizer: Bali Start-ups and Tech Community) Register: https://www.meetup.com/bali-start-ups-tech-community/events/317128209/",
+    "description": "Season 2 pairs builder presentations and tool demos with discussion on commercially applying AI. AI builders and aspiring AI-business founders can trade workflows and leave with practical revenue ideas. (Organizer: Bali Start-ups and Tech Community) Register: https://balisquad.com/event/bali-startup-tech-community-wPeX9t",
     "start_utc": "2026-11-25T10:00:00Z",
     "finish_utc": "2026-11-25T13:00:00Z",
     "all_day": false,
@@ -2503,8 +2465,8 @@
     "source_url": "https://miranesia.com/bali/canggu/how-i-ai-2026-11-25-73448dc58df7/",
     "source": "miranesia",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
-    "sequence": 0,
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 1,
     "status": "confirmed"
   },
   {
@@ -2523,8 +2485,8 @@
     "source": "bstc",
     "discovered_at": "2026-11-11T23:45:29.911595Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "380f4eec947025a13810fd4b486f2af3154bcb9d",
@@ -2542,8 +2504,8 @@
     "source": "meetup",
     "discovered_at": "2026-10-26T19:31:47.170110Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "372f38e6d6ef477be26cb8751ed8d19b7bbf852d",
@@ -2561,7 +2523,26 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
+    "sequence": 2,
+    "status": "stale"
+  },
+  {
+    "uid": "4f31216cde949681628d9904407b53d5f88a2312",
+    "name": "Wednesday Dinner & Networking - Rolling Fork",
+    "location": "Rolling Fork Padang Padang, Uluwatu",
+    "description": "3 going · Wednesday Dinner & Networking - Rolling Fork Midweek, good food, and a table full of new faces and familiar ones. Every Wednesday we get toget... (weekly series)",
+    "start_utc": "2026-11-25T12:45:00Z",
+    "finish_utc": "2026-11-25T14:30:00Z",
+    "all_day": false,
+    "area": "Uluwatu",
+    "category": "Food & Drink",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/bukitsocial-G_YJqy",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
     "status": "confirmed"
   },
   {
@@ -2579,7 +2560,7 @@
     "source_url": "https://www.balistartupandtech.com/events/how-i-ai-edition-21",
     "source": "bstc",
     "discovered_at": "2026-11-13T22:57:23.598292Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2598,7 +2579,7 @@
     "source_url": "https://miranesia.com/bali/sanur/hackanur-2026-11-26-04aca93d2477/",
     "source": "miranesia",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2618,8 +2599,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-30T21:43:31.572355Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "e07b9e9653b0d88fc78cffc45e2ccc72f477d101",
@@ -2637,8 +2618,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "36dda2e37409c58e464f9436fef70a27cec2a9e3",
@@ -2655,7 +2636,45 @@
     "source_url": "https://miranesia.com/bali/canggu/bitcoin-workshop-2026-11-27-0e452a5c630e/",
     "source": "miranesia",
     "discovered_at": "2026-11-13T22:57:23.598292Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "483fbce073f8763f52d8a68274fbacb28cde878f",
+    "name": "Founders & Startups Social Mixer",
+    "location": "BWork Uluwatu, Jl. Labuansait No.169, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia",
+    "description": "​Good conversations. Great connections. A little time away from the daily hustle. ​Join us for a casual evening with Osome, bringing together founders, entrepreneurs, business leaders, and ecosystem partners for an opportunity to connect, exchange ideas, and get to know one another. ​Whether you’re building your next big idea, exploring new markets, growing your business, […]",
+    "start_utc": "2026-11-27T11:30:00Z",
+    "finish_utc": "2026-11-27T14:00:00Z",
+    "all_day": false,
+    "area": "Uluwatu",
+    "category": "Other",
+    "cost": null,
+    "free": false,
+    "source_url": "https://thehoneycombers.com/bali/event/founders-startups-social-mixer/",
+    "source": "honeycombers",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
+    "status": "confirmed"
+  },
+  {
+    "uid": "1d4bcbfca32b411c443d13c1a662413538ca0d1f",
+    "name": "LIVE ACOUSTIC NIGHTS and COCKTAIL FESTIVAL",
+    "location": "No Jl. Melasti No.1, Seminyak",
+    "description": "LIVE ACOUSTIC NIGHTS Enjoy live acoustic performances every Friday & Saturday | 8 PM – 11 PM Selected Cocktails at Special Prices Great music, refreshing c... (weekly series)",
+    "start_utc": "2026-11-27T12:00:00Z",
+    "finish_utc": "2026-11-27T15:00:00Z",
+    "all_day": false,
+    "area": "Seminyak",
+    "category": "Arts & Culture",
+    "cost": null,
+    "free": false,
+    "source_url": "https://balisquad.com/event/salty-soul-kitchen-and-bar-0lhTHa",
+    "source": "balisquad",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2675,8 +2694,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "e5b2ce4cfdc6a5954dbfb898f9b92544d09001aa",
@@ -2693,7 +2712,7 @@
     "source_url": "https://www.meetup.com/nomads-giving-back-bali-community/events/317354432/",
     "source": "meetup",
     "discovered_at": "2026-11-13T22:57:23.598292Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2713,8 +2732,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "abc7ca94d51c3caa830ea2ff51e15e08c7eccff3",
@@ -2731,7 +2750,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/ritual-the-sunset-mansion-ft-michael-mayer/",
     "source": "honeycombers",
     "discovered_at": "2026-11-01T21:24:35.652153Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2751,8 +2770,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "8248f8d398ecb0de677fca492a21e8a1ac7adc6f",
@@ -2769,7 +2788,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/nagomi-wellness-yoga-event-for-beginner/",
     "source": "honeycombers",
     "discovered_at": "2026-11-01T21:24:35.652153Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2788,7 +2807,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/schoolies-at-mrs-sippy/",
     "source": "honeycombers",
     "discovered_at": "2026-11-01T21:24:35.652153Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -2808,8 +2827,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "27d5e18952cfe85e2c59a7e3ed35899417f4be29",
@@ -2827,8 +2846,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "30644d9b09896688df43fa5b6ef51045fad0d219",
@@ -2846,8 +2865,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-30T21:43:31.572355Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "148e5bd98315adbf9a484c71e05a240f140052c0",
@@ -2884,8 +2903,8 @@
     "source": "meetup",
     "discovered_at": "2026-11-05T22:57:19.098547Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 2,
-    "status": "confirmed"
+    "sequence": 3,
+    "status": "stale"
   },
   {
     "uid": "a747db65e3d55936478104849f5dd280c9d66b29",
@@ -2903,8 +2922,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-30T21:43:31.572355Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "016ad52ce9868b30bbd8b589a57b254c61888143",
@@ -2922,8 +2941,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "cfed784536e81433f58d0d1f9332c3b3f975f93f",
@@ -2941,8 +2960,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "8c4660bb070bfa17b492270fd12a7a3d7caf6302",
@@ -2960,8 +2979,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "adfcc9f5ee2935f16f374bcb6f4304ffac5d095d",
@@ -2979,8 +2998,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "609b154a8effe39f5c952e2d13e86e1eeaa2009d",
@@ -2998,7 +3017,26 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
+    "sequence": 2,
+    "status": "stale"
+  },
+  {
+    "uid": "e6cc9be2be5d322de799d4490796fbfaa826cc45",
+    "name": "How I AI | Edition 23",
+    "location": "Seoul Soul Project, 80361, Jl. Canggu Padang Linjong No.61, Canggu, Kuta Utara, Badung Regency, Bali 80361, canggu",
+    "description": "**HOW I AI · EDITION 23 · WED 9 DEC**\nLocally hosted by Seoul Soul Project · Moderated by Bali Start-Up & Tech Community\n\n📝 [Join the BSTC community](https://www.balistart (Organizer: Bali Start-ups and Tech Community)",
+    "start_utc": "2026-12-09T10:00:00Z",
+    "finish_utc": null,
+    "all_day": false,
+    "area": "Canggu",
+    "category": "Coworking & Tech",
+    "cost": null,
+    "free": false,
+    "source_url": "https://www.meetup.com/bali-start-ups-tech-community/events/317409490/",
+    "source": "meetup",
+    "discovered_at": "2026-11-14T21:43:54.140745Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
+    "sequence": 0,
     "status": "confirmed"
   },
   {
@@ -3017,8 +3055,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "77ba9042574730cd38bc6aa31e6f4348132d7d86",
@@ -3036,8 +3074,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-30T21:43:31.572355Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "624036a8d226199807bc7c88d2f88c334a88bad4",
@@ -3054,7 +3092,7 @@
     "source_url": "https://www.meetup.com/bali-start-ups-tech-community/events/317309542/",
     "source": "meetup",
     "discovered_at": "2026-11-12T22:55:09.059372Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3073,7 +3111,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/an-evening-of-purpose-possibility/",
     "source": "now_bali",
     "discovered_at": "2026-11-01T21:24:35.652153Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3093,8 +3131,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "7b867e7d457fc4d9a977dc6058e28dc97a46a855",
@@ -3111,7 +3149,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/padma-musical-series-george-harliono-hera-hyesang-park/",
     "source": "now_bali",
     "discovered_at": "2026-11-01T21:24:35.652153Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3131,8 +3169,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "16022ccbcb0a34c80740f22f0536ef603aa9e660",
@@ -3150,8 +3188,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "516b05377e1ab0e3d96a6d42095fe903679d7fe0",
@@ -3169,8 +3207,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "968f4b1777f0a76bd11feeb6174f545fcf630689",
@@ -3188,8 +3226,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "ec48a920dc63f2cc4cd84986a875592a162a98ee",
@@ -3207,8 +3245,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "3eef69484cdc51230bc91b52de9c004ad8c3b762",
@@ -3226,8 +3264,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "db286b4605ba39bfe970aa5a60785f625570502e",
@@ -3245,8 +3283,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "93440d4e114e997558c6eee5256832d32b6e960c",
@@ -3264,8 +3302,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-30T21:43:31.572355Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "5ab53ecef3f858ae33528468b77bde19108ebb8e",
@@ -3282,7 +3320,7 @@
     "source_url": "https://www.nowbali.co.id/upcoming-events/beautiverse-2026-green-beauty-for-the-future-of-wellbeing/",
     "source": "now_bali",
     "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3302,8 +3340,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "60cc37dcf66e90a203898c6760d2ad05db18e97a",
@@ -3321,8 +3359,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "7f8b2c6fb28551e1123cc9d17799318f4f2312a4",
@@ -3340,8 +3378,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "269cf9abd1169fc7c094b5a97fd5ede95dc952ac",
@@ -3359,8 +3397,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-30T21:43:31.572355Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "2e1b4e4fb25bd8b25dc6a39d87ec0b9b54b9988c",
@@ -3377,7 +3415,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/waatu-kurisumasu-christmas-eve-dinner/",
     "source": "honeycombers",
     "discovered_at": "2026-11-03T00:06:49.037294Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3397,8 +3435,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "622966a8e41fcd941a2995eebfea5c83db2d07f6",
@@ -3416,8 +3454,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "a1ea1ce06f6bcdc4441494bf430c6671e8b94855",
@@ -3435,8 +3473,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "4a7ab0c6680ce6070661b81449eb90ba3868cdf4",
@@ -3453,7 +3491,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/christmas-lunch-dinner-in-the-heart-of-ubud/",
     "source": "honeycombers",
     "discovered_at": "2026-11-03T00:06:49.037294Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3472,7 +3510,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/sandy-santa-brunch/",
     "source": "honeycombers",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3492,8 +3530,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "85db17389e0a1a421b510d6055291526e2347442",
@@ -3511,8 +3549,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "48b14bc8ddafa36c22570b27ce63b09f03cc3327",
@@ -3530,8 +3568,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "6758f02e8acffaac5d9e58b976735d1ab08fa30b",
@@ -3549,8 +3587,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "846674587bfced7ff68950b9b179ac22e64bf174",
@@ -3568,8 +3606,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "d0ae3e0f84c5881ba4c6b7b2f73d0421ad11ac68",
@@ -3586,7 +3624,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/nye-party-ocean-odssey/",
     "source": "honeycombers",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3606,8 +3644,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "76bf696ce5daeb95ab8fa04110f80ee9650a5a61",
@@ -3625,8 +3663,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "c1b058739abf4b0956e38717d4c0a4b676e0ed68",
@@ -3644,8 +3682,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "dc1a35e3701da9fe51b32c2c2483b82da93ad781",
@@ -3663,8 +3701,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "911893d943be572f66e4e659e9f728ea53865fb9",
@@ -3682,8 +3720,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "b7c383a00d5aa5a3ba4bd8d158a4a25ffa8b50ad",
@@ -3701,8 +3739,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "60bb890b12c10785361cb691a4546cf96301648e",
@@ -3720,8 +3758,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "9be00d0c90be9c1e8d41cb21e06de24dd8c6764a",
@@ -3739,8 +3777,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "5509b5caea41beae4de7d7c3ed2c057c69dfd9f4",
@@ -3758,8 +3796,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "7344df3263c79598db7b78726de409c9cc7c33e9",
@@ -3777,8 +3815,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "7e6ed46378784fed4ce58995e32428b8965b1ca1",
@@ -3795,7 +3833,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/waatu-omisoka-new-years-eve-dinner/",
     "source": "honeycombers",
     "discovered_at": "2026-11-03T00:06:49.037294Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -3815,8 +3853,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "f4531e4891d028413da61357b0011110404c2faa",
@@ -3834,8 +3872,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "2365a113e0f24f09158403eef9207b32da81de05",
@@ -3853,8 +3891,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "f9ff00be287cd570815223b384e231c28ade2a0b",
@@ -3872,8 +3910,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "fefb03d2f8bb3e0410c56f10b5a6bf7868ec074f",
@@ -3891,8 +3929,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "16de2100beb494a0310fc8a5c796c2defca8d29b",
@@ -3910,8 +3948,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "11105feccb469318a1a0cfa4b9d985f6cdb3b1ad",
@@ -3929,8 +3967,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "ff31c59ecabafef61427e5bc23b004a209628eb3",
@@ -3948,8 +3986,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "639d02453078513a13b6a3c607970bb721a342ea",
@@ -3967,8 +4005,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "59ac6c4b9c802d14238f8b46edceb6dc006dcc2c",
@@ -3985,7 +4023,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/nye-dinner-radiance-reloaded/",
     "source": "honeycombers",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -4005,8 +4043,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "32b76e3d56289c54fe15d81d6827d092574fe11f",
@@ -4024,8 +4062,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "c5c4a52c6d2359b3f319bfea71ae94c55a4872e1",
@@ -4043,8 +4081,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "5a0fabc73dbc83f46862524d16940bc19ca3d17d",
@@ -4062,8 +4100,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "af0f580a7dfbd0b0f6205a54b0e82df171916de0",
@@ -4081,8 +4119,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "7c5727229a01e1c7b6670e5eca1cc35b556bc877",
@@ -4100,8 +4138,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "245c9cefcf3e5fd4684af918129b4ffd50f476b0",
@@ -4119,8 +4157,8 @@
     "source": "baligasm",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "d4d06f0ed5005f311c9f6bea10f726c59c4889e7",
@@ -4138,8 +4176,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "9b6aaae9dc84bdc9477270a8aee36dd72797e14f",
@@ -4157,8 +4195,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-03T22:37:51.033958Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "816c3b53ef60eda777b05d5e624d2ff4fb79d0a9",
@@ -4175,7 +4213,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/nye-party-reload-the-beat/",
     "source": "honeycombers",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -4194,7 +4232,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/mrs-sippy-nyd-pool-party/",
     "source": "honeycombers",
     "discovered_at": "2026-11-10T22:36:19.091949Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -4214,8 +4252,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-05T22:57:19.098547Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 0,
-    "status": "confirmed"
+    "sequence": 1,
+    "status": "stale"
   },
   {
     "uid": "8f23faa1612469976fb8abde60790282d97dc702",
@@ -4232,7 +4270,7 @@
     "source_url": "https://thehoneycombers.com/bali/event/first-tide-brunch/",
     "source": "honeycombers",
     "discovered_at": "2026-10-23T19:34:06.077957Z",
-    "last_seen_at": "2026-11-13T22:57:23.598292Z",
+    "last_seen_at": "2026-11-14T21:43:54.140745Z",
     "sequence": 0,
     "status": "confirmed"
   },
@@ -4252,8 +4290,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-05T22:57:19.098547Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "234d09b1a64b135a2eebce83633953ab29959a49",
@@ -4271,8 +4309,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-05T22:57:19.098547Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "57497341e4d5934981e389ff07c34b6ab017889a",
@@ -4290,8 +4328,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-05T22:57:19.098547Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "31e8de0d61c1500d8fa20a758a16dfe6d1fd6471",
@@ -4309,8 +4347,8 @@
     "source": "baligasm",
     "discovered_at": "2026-11-05T22:57:19.098547Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
   },
   {
     "uid": "ac171deb91038b7ecd53c6959fbd46b0cffcae05",
@@ -4328,7 +4366,26 @@
     "source": "baligasm",
     "discovered_at": "2026-11-05T22:57:19.098547Z",
     "last_seen_at": "2026-11-12T22:55:09.059372Z",
-    "sequence": 1,
-    "status": "confirmed"
+    "sequence": 2,
+    "status": "stale"
+  },
+  {
+    "uid": "05fef7d848b3727089b84b5d87b7824527830645",
+    "name": "ROSSI.",
+    "location": "Zumana Bali, Jl. Kartika Plaza No.2, Kuta, Badung, 80361",
+    "description": "Zumana Beach Club Presents Party Animals - ROSSI. Reservations WA: +62 811 3011 0111 [email protected] Location https://share.google/TXwVSnqw2SAaKWuEd Door Policy - Capacity is strictly limited to table reservations & ticket holders only. - This event is strictly 21+ & a valid ID will be required for entry. Management reserves the right to refuse entry for any reason. Tickets: https://megatix.co.id/events/rossi1301?utm_source=baligasm",
+    "start_utc": "2027-01-13T08:00:00Z",
+    "finish_utc": null,
+    "all_day": false,
+    "area": "Other",
+    "category": "Nightlife",
+    "cost": null,
+    "free": false,
+    "source_url": "https://baligasm.com/event/zumana-bali-rossi-jan-2027",
+    "source": "baligasm",
+    "discovered_at": "2026-11-05T22:57:19.098547Z",
+    "last_seen_at": "2026-11-12T22:55:09.059372Z",
+    "sequence": 2,
+    "status": "stale"
   }
 ]
