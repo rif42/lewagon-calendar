@@ -1,18 +1,18 @@
 {
-  "ran_at": "2026-11-14T21:43:54.140745Z",
-  "event_count": 231,
+  "ran_at": "2026-11-15T22:09:55.818678Z",
+  "event_count": 141,
   "sources": {
     "baligasm": {
       "status": "error",
-      "count": 86,
+      "count": 84,
       "normalized": 0,
-      "normalize_errors": 86,
-      "error": "86 event(s) failed normalization"
+      "normalize_errors": 84,
+      "error": "84 event(s) failed normalization"
     },
     "balisquad": {
       "status": "ok",
-      "count": 52,
-      "normalized": 52
+      "count": 51,
+      "normalized": 51
     },
     "bitcoinid_bali": {
       "status": "ok",
@@ -39,23 +39,23 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 28,
-      "normalized": 28
+      "count": 27,
+      "normalized": 27
     },
     "luma": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "count": 1,
+      "normalized": 1
     },
     "meetup": {
       "status": "ok",
-      "count": 7,
-      "normalized": 7
+      "count": 8,
+      "normalized": 8
     },
     "miranesia": {
       "status": "ok",
-      "count": 20,
-      "normalized": 20
+      "count": 27,
+      "normalized": 27
     },
     "notion_favolist": {
       "status": "ok",
@@ -64,8 +64,8 @@
     },
     "now_bali": {
       "status": "ok",
-      "count": 7,
-      "normalized": 7
+      "count": 6,
+      "normalized": 6
     },
     "tropicalnomad": {
       "status": "ok",
