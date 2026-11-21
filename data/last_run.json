@@ -1,13 +1,13 @@
 {
-  "ran_at": "2026-11-20T23:26:16.169629Z",
-  "event_count": 153,
+  "ran_at": "2026-11-21T22:29:56.452820Z",
+  "event_count": 154,
   "sources": {
     "baligasm": {
       "status": "error",
-      "count": 121,
+      "count": 116,
       "normalized": 0,
-      "normalize_errors": 121,
-      "error": "121 event(s) failed normalization"
+      "normalize_errors": 116,
+      "error": "116 event(s) failed normalization"
     },
     "balisquad": {
       "status": "ok",
@@ -39,8 +39,8 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 32,
-      "normalized": 32
+      "count": 31,
+      "normalized": 31
     },
     "luma": {
       "status": "ok",
@@ -49,13 +49,13 @@
     },
     "meetup": {
       "status": "ok",
-      "count": 8,
-      "normalized": 8
+      "count": 7,
+      "normalized": 7
     },
     "miranesia": {
       "status": "ok",
-      "count": 28,
-      "normalized": 28
+      "count": 20,
+      "normalized": 20
     },
     "notion_favolist": {
       "status": "ok",
