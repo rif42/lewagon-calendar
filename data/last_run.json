@@ -1,17 +1,18 @@
 {
-  "ran_at": "2026-11-24T03:31:24.846576Z",
-  "event_count": 145,
+  "ran_at": "2026-11-25T01:40:18.181821Z",
+  "event_count": 164,
   "sources": {
     "baligasm": {
       "status": "error",
-      "count": 0,
+      "count": 110,
       "normalized": 0,
-      "error": "parser assert failed: yielded 0 raw events (no dated links)"
+      "normalize_errors": 110,
+      "error": "110 event(s) failed normalization"
     },
     "balisquad": {
       "status": "ok",
-      "count": 52,
-      "normalized": 52
+      "count": 51,
+      "normalized": 51
     },
     "bitcoinid_bali": {
       "status": "ok",
@@ -31,19 +32,20 @@
       "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "eventbrite": {
-      "status": "ok",
-      "count": 8,
-      "normalized": 8
+      "status": "error",
+      "count": 0,
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "honeycombers": {
       "status": "ok",
-      "count": 28,
-      "normalized": 28
+      "count": 29,
+      "normalized": 29
     },
     "luma": {
       "status": "ok",
-      "count": 7,
-      "normalized": 7
+      "count": 6,
+      "normalized": 6
     },
     "meetup": {
       "status": "ok",
@@ -52,8 +54,8 @@
     },
     "miranesia": {
       "status": "ok",
-      "count": 23,
-      "normalized": 23
+      "count": 24,
+      "normalized": 24
     },
     "notion_favolist": {
       "status": "ok",
@@ -62,18 +64,18 @@
     },
     "now_bali": {
       "status": "ok",
-      "count": 4,
-      "normalized": 4
+      "count": 5,
+      "normalized": 5
     },
     "tropicalnomad": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "count": 1,
+      "normalized": 1
     },
     "bstc": {
       "status": "ok",
-      "count": 2,
-      "normalized": 2
+      "count": 3,
+      "normalized": 3
     },
     "remotebuilders": {
       "status": "error",
