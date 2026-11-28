@@ -1,18 +1,18 @@
 {
-  "ran_at": "2026-11-27T01:11:47.638194Z",
-  "event_count": 148,
+  "ran_at": "2026-11-28T00:44:33.380921Z",
+  "event_count": 155,
   "sources": {
     "baligasm": {
       "status": "error",
-      "count": 136,
+      "count": 138,
       "normalized": 0,
-      "normalize_errors": 136,
-      "error": "136 event(s) failed normalization"
+      "normalize_errors": 138,
+      "error": "138 event(s) failed normalization"
     },
     "balisquad": {
       "status": "ok",
-      "count": 52,
-      "normalized": 52
+      "count": 50,
+      "normalized": 50
     },
     "bitcoinid_bali": {
       "status": "ok",
@@ -28,8 +28,8 @@
     "bwork": {
       "status": "error",
       "count": 0,
-      "error": "RuntimeError: parser assert failed: no event cards on https://bwork.id/canggu/",
-      "normalized": 0
+      "normalized": 0,
+      "error": "parser assert failed: yielded 0 raw events (no dated links)"
     },
     "eventbrite": {
       "status": "error",
@@ -39,23 +39,23 @@
     },
     "honeycombers": {
       "status": "ok",
-      "count": 27,
-      "normalized": 27
+      "count": 32,
+      "normalized": 32
     },
     "luma": {
       "status": "ok",
-      "count": 5,
-      "normalized": 5
+      "count": 9,
+      "normalized": 9
     },
     "meetup": {
       "status": "ok",
-      "count": 10,
-      "normalized": 10
+      "count": 9,
+      "normalized": 9
     },
     "miranesia": {
       "status": "ok",
-      "count": 25,
-      "normalized": 25
+      "count": 24,
+      "normalized": 24
     },
     "notion_favolist": {
       "status": "ok",
